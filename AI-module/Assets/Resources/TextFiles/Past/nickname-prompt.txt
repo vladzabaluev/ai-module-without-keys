@@ -1,0 +1,14 @@
+In response to the input string, evaluate whether it would be an appropriate, child-friendly nickname for a mobile game for young users.
+
+Apply these principles:
+Empathy - Avoid discomfort or offense. But do not reject positive, harmless words.
+Safety - Reject clear threats, insults, profanity. But allow fantastical, cute names.
+Inclusiveness - Accept names from diverse cultures and common names like Jessica.
+Age Appropriateness - Align with childhood innocence. But allow positive make-believe.
+If the input string aligns with these principles and is suitable for children, respond "OK".
+
+If it clearly violates the principles, respond "Inappropriate".
+When in doubt, give the benefit of the doubt for nicknames meant positively.
+Provide a one word response of either "OK" or "Inappropriate" without additional commentary.
+
+Input string: ### {text input here} ###

@@ -1,0 +1,1 @@
+In this task, you need to collect only those letters that look the same as the one that is drawn on the basket. To do this, you have to move the basket left or right

@@ -1,0 +1,216 @@
+Object,Apple,Яблоко,Color,Red,6D9F8FAD2681E08527FE598EDB9FB393,BadWord
+Object,Strawberry,Клубника,Color,Red,51EE7FEF4CEE35E1C8DF1C142638508B,BadWord
+Object,Fire truck,Пожарная машина,Color,Red,D4329AC08A65376DCE3869428CFF2EB7,BadWord
+Object,Ladybug,Божья коровка,Color,Red,84BCD12E2435F312F98D6280BB0DDC9F,BadWord
+Object,Tomato,Помидор,Color,Red,AA274D18AF28E634B03CABC53D972A31,BadWord
+Object,Stop sign,Знак СТОП,Color,Red,A9DFA87D6C5E2769C72E722F7617E4C1,BadWord
+Object,Cherry,вишня,Color,Red,01D5ECAA410FCB962F90BE58D53B0B87,BadWord
+Object,Red crayon,Красный карандаш,Color,Red,0A9A0AD2A22264999A05265D78191207,BadWord
+Object,Rose,Роза,Color,Red,BD23AB7A60AA17877922AFAEBF356D6F,BadWord
+Object,Ruby,Рубин,Color,Red,1641B56D6E211F5E9A820B9D721E0A64,BadWord
+Object,Santa Claus suit,Санта -Клаус костюм,Color,Red,5D0F05E46834EFC759C04C80E2A1E827,BadWord
+Object,Red bell pepper,красный перец,Color,Red,5D79C30C2F990AD6DEC5563F36D496D6,BadWord
+Object,Raspberry,Малина,Color,Red,82290988B91070CFC1FC16F0171430ED,BadWord
+Object,Red balloon,Красный воздушный шар,Color,Red,9E10A383333AB4D78242338C26DCE964,BadWord
+Object,Brick,Кирпич,Color,Red,38A3767140D898457045498758860E65,BadWord
+Object,Lobster,Омар,Color,Red,63F3363475A8396FA197E3CCCF93DE52,BadWord
+Object,Lifebuoy,Спасательный круг,Color,Red,E7686EF2F73F51DEC8F830EEE4AE864C,BadWord
+Object,Pepperoni Pizza,Пицца пепперони,Color,Red,DDDDBC56CCF7CFE9C9E421156EED9DAF,BadWord
+Object,Candy apple,Карамельное яблоко,Color,Red,B7379485895D3901EE55B1B7981E00B4,BadWord
+Object,Wagon,Повозка,Color,Red,4A18553F86A8F13322B6BB924EB7C5AD,BadWord
+Object,Pomegranate,Гранат,Color,Red,788A57C7A0E8A37CD5AE0164B435E4F6,BadWord
+Object,Fire hydrant,Пожарный гидрант,Color,Red,DCE9320C883DC580426314AA076FCBAE,BadWord
+Object,Barn,Сарай,Color,Red,BA9ACF62C681E466F0E7EE65DA8FA54F,BadWord
+Object,Ketchup bottle,Кетчуп бутылка,Color,Red,EB0D372A0409B4E796FF235C7CA9DC71,BadWord
+Object,Ferrari car,Автомобиль Ferrari,Color,Red,75E6DF25C8B9B44175EAACE9386F7B4E,BadWord
+Object,Radish,Редька,Color,Red,B4C9DB006CB8EC088C35F48EDE93558B,BadWord
+Object,Blueberry,Черника,Color,Blue,C1C6639A9810722487EB5385EA528A9A,BadWord
+Object,Sky,Небо,Color,Blue,6EB5237264B20401F851AA9A43774D43,BadWord
+Object,Ocean,Океан,Color,Blue,56F00FEA1D56E4646BAB01EB189A0F08,BadWord
+Object,Jeans,Джинсы,Color,Blue,A888371534D021A8172D6F4CCB262642,BadWord
+Object,Sapphire,Сапфир,Color,Blue,47C6B5C59FC473EFE2C568308ADF2AE6,BadWord
+Object,Dolphin,Дельфин,Color,Blue,BB774771E6F73944A9124D71984272B6,BadWord
+Object,Whale,Кит,Color,Blue,200E78D9AD15941F7605059256F66A8C,BadWord
+Object,Raincoat,Плащ,Color,Blue,9BFE3C309A2C78F4D967CF3468838D01,BadWord
+Object,Peacock feather,павлинье перо,Color,Blue,2DB2A84FE4AA8FDBD37EA13C803FF98F,BadWord
+Object,Mailbox,Почтовый ящик,Color,Blue,3ECAEF952148F2AF136F584828308DEB,BadWord
+Object,Kite,Летающий змей,Color,Blue,0912E8A9B33667B3E4ED5C4AAEAC6042,BadWord
+Object,Toothbrush,Зубная щетка,Color,Blue,DA2750742E073B82021A0C822CEA7963,BadWord
+Object,Backpack,Рюкзак,Color,Blue,F70D871A3958F7100844EE092E60D083,BadWord
+Object,Bicycle Helmet,Велосипедный шлем,Color,Blue,78C397B99FCF7A7BFD1283FDAAC2EE24,BadWord
+Object,Water Bottle,Бутылка с водой,Color,Blue,293CE1241161E3C5F78AE84671475B8A,BadWord
+Object,Yoga Mat,Коврик для йоги,Color,Blue,5D3C743F675DD6CA9E23AA619AF6DF56,BadWord
+Object,Beanie,Шапочка,Color,Blue,47B8DC22E13F5B92069443566E5B1F57,BadWord
+Object,Grass,Трава,Color,Green,7C65E61929570DC68A1FEB88EE7298CC,BadWord
+Object,Leaf,Лист,Color,Green,482525F841C55E0F7B511DE4698D7797,BadWord
+Object,Apple,Яблоко,Color,Green,B03367A40D7CCC3A68D2B49E208222B5,BadWord
+Object,Pear,Груша,Color,Green,347271B9128E991BCC21629F451672B5,BadWord
+Object,Frog,Лягушка,Color,Green,8CF9DC7EBC85D613DFA539E90420345B,BadWord
+Object,Christmas tree,Рождественская елка,Color,Green,635A90BC6669C34A104A600CCED5758A,BadWord
+Object,Pea,Горох,Color,Green,49405228DBCE7B0C9276B2D57D71C91A,BadWord
+Object,Cabbage,Капуста,Color,Green,182F6103FBD3DE9F618E24FC4F3AF266,BadWord
+Object,Lime,Лайм,Color,Green,0E40FFC60CB10BB9896DF909F29C7F92,BadWord
+Object,Turtle,Черепаха,Color,Green,1A6D6E5A5DC932F4C206B1BD7B3B69F0,BadWord
+Object,Spinach,Шпинат,Color,Green,2D3E3AA45F75314D2333A089A0CF0888,BadWord
+Object,Lettuce,Латук,Color,Green,90B0EBF3DF22E67E983D8E64ED0F3FD7,BadWord
+Object,Green tea,Зеленый чай,Color,Green,50FFC18F6110AB150CF83F499BCB2D0B,BadWord
+Object,Kiwi fruit,киви,Color,Green,B7503EB7C21EC53B55AFCF7D41841A5A,BadWord
+Object,Broccoli,Брокколи,Color,Green,1439716A89E596A363615C126DB5159E,BadWord
+Object,Cucumber,Огурец,Color,Green,CE4433C608CECCEC1B1EA7433A8A2FFD,BadWord
+Object,Olive,Олив,Color,Green,77D676F757A68F221A15F7C0D1C1646F,BadWord
+Object,Green pepper,зеленый перец,Color,Green,A0EAF1C2FD76C72358359C451DB64B97,BadWord
+Object,Pickle,Соленый огурец,Color,Green,92A6A36B474AA858281E7A13B4B33D13,BadWord
+Object,Spinach,Шпинат,Color,Green,5956097BF8D3F590913ADFC91AD6265B,BadWord
+Object,Brussel sprout,брюссельская капуста,Color,Green,E0F8824255B215B42F264CBB26F293CE,BadWord
+Object,Iguana,Игуана,Color,Green,AEB3E0B617D7568D7563A15C558C1DBF,BadWord
+Object,Snake,Змея,Color,Green,BCAE992A666D4532FE59C48F732EED44,BadWord
+Object,Crocodile,Крокодил,Color,Green,79767769BCFB104A0B9664AE581E3A26,BadWord
+Object,Grapes,Виноград,Color,Green,C5FB001FDD7176C56A387224C934BAC2,BadWord
+Object,Asparagus,Спаржа,Color,Green,C81043D25A6864D27D44A8E1167AC581,BadWord
+Object,Aloe Vera plant,Алоэ вера завод,Color,Green,39A1FF13DD2DE32494DE88BDBBF5A2E4,BadWord
+Object,Avocado,Авокадо,Color,Green,7A4A4FEEB069B05045F407ABDCD67A9F,BadWord
+Object,Basil,Бэзил,Color,Green,1432F9D56CE56FDB5002AD0DB8C5A18F,BadWord
+Object,Pumpkin,Тыква,Color,Orange,180E79D222F9EAC0AA30928FF6A6FFC2,BadWord
+Object,Carrot,Морковь,Color,Orange,77F2A88DC9A7C7E096AE00E9CC668385,BadWord
+Object,Tangerine,мандарин,Color,Orange,6827E3F4B3ABEAFBB3690B25985D8259,BadWord
+Object,Goldfish,Золотая рыбка,Color,Orange,7BDFF114ABCE5D5C6C8EEE900F947496,BadWord
+Object,Tiger,Тигр,Color,Orange,0CC71F63F5D78AFD455B44FF1D80803B,BadWord
+Object,Traffic Cone,Дорожный конус,Color,Orange,BCD1CE984B87064911AE9F85063131B2,BadWord
+Object,Nemo the Clown Fish,Немо рыба клоуна,Color,Orange,3DA6548F87ED28B4D7FD71773E8F0D3F,BadWord
+Object,Orange Lollipop,Оранжевый леденец,Color,Orange,51C6B0096E668A0F83A3C97F7D676108,BadWord
+Object,Autumn Leaf,Осенний лист,Color,Orange,705E75F266F85EAD6326088CDD23F50B,BadWord
+Object,Orange Crayon,Апельсиновый карандаш,Color,Orange,A3E4E5096C4D93ED51927CAD2BE787FF,BadWord
+Object,Life Jacket,Спасательный жилет,Color,Orange,BF6C4BDCD9D67D33583B95319343EA17,BadWord
+Object,Cheeto Snacks,Чето закуски,Color,Orange,4E9E085C74BF56D89EB55863EDFDFEE5,BadWord
+Object,Apricot Fruit,Абрикосовый фрукт,Color,Orange,4C934E87421DC7007A98E7632E4F5896,BadWord
+Object,Cantaloupe Melon,Мускусная дыня,Color,Orange,0A0057EF2F9580F2276D1BBED234CAC0,BadWord
+Object,Sweet Potato,Сладкая картошка,Color,Orange,D352540650528FB566CE4CD9051D4589,BadWord
+Object,Fire Flame,Языки пламени,Color,Orange,18DFFCD2AA44CE48A82FA041476301B3,BadWord
+Object,Ginger Cat,Рыжая кошка,Color,Orange,2DCF8AAB71F27CE102E461B7D05E2E22,BadWord
+Object,Bell Pepper,Болгарский перец,Color,Orange,6BF1FA5F0E5204AE7F6D7D75F9696CAF,BadWord
+Object,Starfish,Звезда,Color,Orange,553A6CAE611E06B3293BCA9BD1B79DEA,BadWord
+Object,Orangutan,Орангутан,Color,Orange,0161710E2F0B29B4CD67979D43FFEDEB,BadWord
+Object,Fanta Soda can,Fanta Soda Can,Color,Orange,5DC744BE765F32007385D6FE8BB3722C,BadWord
+Object,Sun,Солнце,Color,Yellow,83BFE165A4207E89FB7D73270C4FCB26,BadWord
+Object,Banana,Банан,Color,Yellow,9A884C31FB9846200912ED0BD62FF9B4,BadWord
+Object,Lemon,Лимон,Color,Yellow,BED8F50E0FD926264436AFBC57FD8C43,BadWord
+Object,Canary,Канарейка,Color,Yellow,CEC49553F2736D5A46468ADDAA3822E9,BadWord
+Object,Taxi,Такси,Color,Yellow,F176B8998440B8A7437A45CEC0339206,BadWord
+Object,Rubber Duck,Резиновая утка,Color,Yellow,3DBDCB41FB2763BF57DD7E99086245E7,BadWord
+Object,Sunflower,Подсолнух,Color,Yellow,C448084C7DB856AE97A977CF9E470997,BadWord
+Object,Yellow Jacket,Желтая куртка,Color,Yellow,53AAA0A0EB02982CE9E33317952C4D6B,BadWord
+Object,Buttercup flower,Цветок для лютины,Color,Yellow,BB51322ACF9BFC69DF593E68C043B461,BadWord
+Object,Mustard Bottle,Горчичная бутылка,Color,Yellow,2E3618964172471DE9118460DE1D00A4,BadWord
+Object,Gold Coin,Золотая монета,Color,Yellow,D06368FAE198A30843765D6D99495A23,BadWord
+Object,Corn Cob,Кукурузная початка,Color,Yellow,4726396A5F06704477F1C03B3B691A1B,BadWord
+Object,Cheese Slice,Сырной ломтик,Color,Yellow,E23F62DFDD31CFE08DD5297E74AFC615,BadWord
+Object,Yellow Crayon,Желтый карандаш,Color,Yellow,9EAC1E08BE03A22B8D02E92633ACD8FE,BadWord
+Object,Pineapple,Ананас,Color,Yellow,3E38066E713B8A4ED7A83B226D439CF8,BadWord
+Object,Starfruit,Starfruit,Color,Yellow,F5FABEF1A030953662393E9AE626699F,BadWord
+Object,Light Bulb,Лампочка,Color,Yellow,B8F5C1FF7FB61FDA20F88010C755279C,BadWord
+Object,Yellow construction hard hat,Желтая строительная каска,Color,Yellow,64F82F2FB0A4B19009A39592E5D99CD9,BadWord
+Object,Yellow Butterfly,Желтая бабочка,Color,Yellow,86B69EEB5199B1D0C9EC1096F63A4F30,BadWord
+Object,Honey Jar,Медовая банка,Color,Yellow,509A4A109250342B16DBEFC9FE136A82,BadWord
+Object,Scrambled Eggs,Яичница-болтунья,Color,Yellow,F63A2595132D1A08A049FC41F1A11348,BadWord
+Object,Yellow Cap,Желтая кепка,Color,Yellow,0635A802E6851291E5D2E365A501501C,BadWord
+Object,Yellow Pencil,Желтый карандаш,Color,Yellow,816197CA6BB5C16A9627164B2613571A,BadWord
+Object,Goldfish bowl,Золотая миска,Color,Yellow,30D3EE2AB91DD83B60FAB59C7B17BC7A,BadWord
+Object,Grape,Виноград,Color,Purple,53A7F4C1923E561FB56004B7DE0A44B3,BadWord
+Object,Eggplant,Баклажан,Color,Purple,1C9E05B1341132E0C06F9BC3BC2E51E2,BadWord
+Object,Lavender flower,Лавандовый цветок,Color,Purple,1BFB4B9858B20EAD53414CA645917BA4,BadWord
+Object,Purple crayon,Фиолетовый карандаш,Color,Purple,1F26ADC73B3FBDC3E57DFF1640777878,BadWord
+Object,Violet dress,Фиолетовое платье,Color,Purple,4A36022056E591FB47CE3457072DAA08,BadWord
+Object,Plum,слива,Color,Purple,68926702105894571DCDB58DC169B783,BadWord
+Object,Purple jellybean,Фиолетовый желе,Color,Purple,78D7F0E09554A9C36486961D1A4959C2,BadWord
+Object,Butterfly with purple wings,Бабочка с фиолетовыми крыльями,Color,Purple,E7966DD71DC2C208B3868E8A137CE58B,BadWord
+Object,Purple balloon,Фиолетовый воздушный шар,Color,Purple,E3A257540519EFDF35F1F4482E3BE6C2,BadWord
+Object,Blackberry,Ежевика,Color,Purple,21CFAB6ED175560B60DF5C286CE026EE,BadWord
+Object,Purple pencil,Фиолетовый карандаш,Color,Purple,EEB6DEB01F85983B52BDEE5333763C94,BadWord
+Object,Purple toy car,Фиолетовый игрушечный автомобиль,Color,Purple,D8D2C6075F7B12E59B3814B29B9D4704,BadWord
+Object,Lilac bush,Сирень куст,Color,Purple,D0ACFE7EFB6B59993B84554C575EA699,BadWord
+Object,Purple raincoat,Фиолетовый плащ,Color,Purple,562788A3A21B0649C269471C48BC06A0,BadWord
+Object,Purple candy wrapper,Purple Candy Wabper,Color,Purple,CE4103C0BF0865F3206DDFF6F6E75978,BadWord
+Object,Flamingo,Фламинго,Color,Pink,6CF3DC79891318BE315DD4CA7FE83B46,BadWord
+Object,Pig,Свинья,Color,Pink,8207F943E50BB7C70CDD381F03EBB6E0,BadWord
+Object,Cotton Candy,Сахарная вата,Color,Pink,D2C605EC7EBC7C07F73F25D409CE68EC,BadWord
+Object,Strawberry Ice Cream,Земляничное мороженое,Color,Pink,376D7988A814A48D801E49332BB5336E,BadWord
+Object,Piggy Bank,Копилка,Color,Pink,4C95EEA41D765B4A73BC562030BB6789,BadWord
+Object,Ballet Shoes,Балетки,Color,Pink,2FAD5FF7B7D476891A47E620E2B6FF72,BadWord
+Object,Bubble Gum,Жевательная резинка,Color,Pink,296035DCFA7391F02CC9F00A7069B813,BadWord
+Object,Lipstick,Помада,Color,Pink,4DC8ADB10D7E875DAE3E1BC1CC0FB041,BadWord
+Object,Barbie Doll Dress,Барби кукольный платье,Color,Pink,1C199A69029586C904BE53B241D0527F,BadWord
+Object,Teddy Bear,Плюшевый мишка,Color,Pink,36D4D753D893C81667FDF38A6740EB6E,BadWord
+Object,Fairy Costume,Сказочный костюм,Color,Pink,8F4C3E564253C8E6936690C5C0839696,BadWord
+Object,Pink Crayon,Розовый карандаш,Color,Pink,DBEBE45DD8B103D1A874CAE29BCADDA9,BadWord
+Object,Hair Bow,Бантик,Color,Pink,8DC31E5A64E36D9E32C907A003E04D41,BadWord
+Object,Pink Pajamas,Розовая пижама,Color,Pink,9C0A765DF00EFF35D205248BF75B2508,BadWord
+Object,Pink Sneakers,Розовые кроссовки,Color,Pink,D1947B237D2B6E1FDFB5B799ADB7A356,BadWord
+Object,Yogurt,Йогурт,Color,Pink,BF99A151C78E1EBB3534EFA7492BFC8E,BadWord
+Object,Blackboard,Черная доска,Color,Black,51AF35BF8D334280BB64BA035407F8C4,BadWord
+Object,Crow,Ворона,Color,Black,6D706E9EF3E4EFCFF3C7B0768351BC00,BadWord
+Object,Spider,Паук,Color,Black,5D3B6FCACC6297DC528E2067E9896B8E,BadWord
+Object,Bat,Летучая мышь,Color,Black,15D4A7D19C566AF155C8FE49B57F4B31,BadWord
+Object,Gorilla,Горилла,Color,Black,6FA1D3CFD6A225860F0BAF6359E862FB,BadWord
+Object,Coal,Уголь,Color,Black,89BE22D476EDD7322C08701947B1A3D3,BadWord
+Object,Tire,Шина,Color,Black,0D71C1A9AD6BE5760AEE2F0C1BB971E5,BadWord
+Object,Blackberry,Ежевика,Color,Black,E78ADC5D702D54216D9C518E761B351A,BadWord
+Object,Umbrella,Зонтик,Color,Black,C27BFA40FB76C7C6F4C79D5E610B9CC0,BadWord
+Object,Raven,Ворон,Color,Black,823F11D834DC394814E0C19C603D53F5,BadWord
+Object,Piano,Пианино,Color,Black,BB1BEE87623FCAC4A08E426F9F86DBC5,BadWord
+Object,Witch hat,Ведьма шляпа,Color,Black,2C961455970191C6811188626B71BCDF,BadWord
+Object,Penguin,Пингвин,Color,Black,E209EF9D465ED1719AA007A620BC08CE,BadWord
+Object,Orca whale,касатка,Color,Black,0C0B0712255ECD6BF531AAD6A83A21AA,BadWord
+Object,Magic wand,Волшебная палочка,Color,Black,DBF241FE9CE409A14DFC5D5159C85C96,BadWord
+Object,Pirate flag,Пиратский флаг,Color,Black,DB96E29C3D04238D60B2ACC8FDB812EA,BadWord
+Object,Chess piece,Шахматная фигура,Color,Black,0148AEA574141D24F720FEFA429A0E26,BadWord
+Object,Leather jacket,Кожаный пиджак,Color,Black,218C84239A8A318910FEBDAEFB774347,BadWord
+Object,Oreo cookie,Орео печенье,Color,Black,14628BD96F2F9AC9B064CE72FFDF43A2,BadWord
+Object,Bin bag,Пакет для мусора,Color,Black,CBD20A182C21A51B53165D35CB548335,BadWord
+Object,Camera,Камера,Color,Black,B68CA84D78DB4C03CA2C79F2D463AEA0,BadWord
+Object,Ninja costume,Костюм ниндзя,Color,Black,4466AA9628FD57F4B2ECBB196CA12596,BadWord
+Object,Marker pen,Маркер,Color,Black,B4A0CD1090233C471C7E931DA52B4FDF,BadWord
+Object,Sunglasses,Солнечные очки,Color,Black,0BE7F0107A33DDC3B8E2F7FA89E1F4FA,BadWord
+Object,Snow,Снег,Color,White,8B7567D0E71B89417CEA9F2A10467ED0,BadWord
+Object,Milk,Молоко,Color,White,D8761D4A8C13B92E70DD1838EC766405,BadWord
+Object,Rice,Рис,Color,White,C6BB52CD8743C0AD0493EA136ED1D5EE,BadWord
+Object,Sugar,Сахар,Color,White,993320B06BA41AED7785A3D3F6742995,BadWord
+Object,Toothpaste,Зубная паста,Color,White,D96C690894D7BC4FB5325855435D87FD,BadWord
+Object,Marshmallow,Зефир,Color,White,866CBBF45AEE01B654115A68B30AA34D,BadWord
+Object,Clouds,Облака,Color,White,13B312F79BBA828FD2BE012985FF3071,BadWord
+Object,Paper,Бумага,Color,White,07BA65239D5C1CD8C0600555851176E8,BadWord
+Object,Chalk,Мела,Color,White,5466E88D066A76D0C2B99C2E58B996EA,BadWord
+Object,Salt,Соль,Color,White,C6EB5171840BE181E81E3F12FCD533BB,BadWord
+Object,Polar bear,Полярный медведь,Color,White,2342E703517F31F6D53FF4D9394FE4E7,BadWord
+Object,Swan,Лебедь,Color,White,EBA8F657A86A79E5F544C1B551AAA7AD,BadWord
+Object,Dove,Голубь,Color,White,F13523BFF5AA7B31A90400D9667F4DB8,BadWord
+Object,Sheeps wool,Овцы шерсть,Color,White,8980B3AFDE8286A6BECCDD0ED5D7D24E,BadWord
+Object,Tooth,Зуб,Color,White,34BBBCF9BD371CA4D08BEF763FFBC9DD,BadWord
+Object,Toilet paper,Туалетная бумага,Color,White,DE79A9E70459205C885F512C613B1C7B,BadWord
+Object,White bread,белый хлеб,Color,White,89D9B9DAC8C8C8ACC6F07ACE9969BCDA,BadWord
+Object,Envelope,Конверт,Color,White,02205A73BE3ADFBA25681DE5BE05DD7B,BadWord
+Object,Wedding dress,Свадебное платье,Color,White,0248374334D8345399A93DEBABB9EB90,BadWord
+Object,Lab coat,Лабораторный халат,Color,White,A0FC513DB155ED3279B29A08AD05AA1B,BadWord
+Object,Snowman,Снеговик,Color,White,D7897C672DCAC83419FA6681FB1FAC25,BadWord
+Object,Bathroom sink,Раковина в ванной комнате,Color,White,B0DF8DC5A5CA9748D24134E52948CDB0,BadWord
+Object,Eraser,Ластик,Color,White,DC3C73F4FA26151387B2415024374CB6,BadWord
+Object,Tree trunk,Ствол дерева,Color,Brown,D5CB669E09C6C2BF98EE66C2BA49C062,BadWord
+Object,Chocolate bar,Плитка шоколада,Color,Brown,61329A6056DB580A3835C19B60173D31,BadWord
+Object,Teddy bear,плюшевый мишка,Color,Brown,348CDE0626BC1CC2EB68EFCC9452679D,BadWord
+Object,Acorn,Желудь,Color,Brown,ED3ABEB32171A8A461C464914F7086B8,BadWord
+Object,Leather belt,Кожаный ремень,Color,Brown,A583C0ACB7331689A81ACFE729B15F78,BadWord
+Object,Wooden chair,Деревянный стул,Color,Brown,D080133AB8D7D1D0A33DB0D2CAA17405,BadWord
+Object,Squirrel,Белка,Color,Brown,BFF87B7375B795C6E1F3FDDE9A9E73DB,BadWord
+Object,Potato,Картофель,Color,Brown,9CEF05AF6CFFB4A62B79BE1039B592B8,BadWord
+Object,Gingerbread cookie,Пряничное печенье,Color,Brown,43D223662D79A48C2304B10E31144B8C,BadWord
+Object,Baseball glove,Бейсбольная перчатка,Color,Brown,F009FD8A06120341347976193584092E,BadWord
+Object,Paper bag,Бумажный пакет,Color,Brown,E26FCB7B6F059DC8233040A1D1EDD0F2,BadWord
+Object,Walnut,грецкий орех,Color,Brown,A8B8F01E9BF030652F32929E716B4A6D,BadWord
+Object,Monkey,Обезьяна,Color,Brown,51FE3F7DCADBE0FAE475850A7DCCBD83,BadWord
+Object,Pretzel,Крендель,Color,Brown,02C9FCBA78BCAE3051AF86B92F60ADBA,BadWord
+Object,Horse,Лошадь,Color,Brown,14E7E005AB8E9E7C2C6DD50E16F4501D,BadWord
+Object,Beaver,Бобр,Color,Brown,30FD412A0AF9A17C9283942F9894FE09,BadWord
+Object,Deer,Олень,Color,Brown,5EA62ACF7CDB0C51F400B2611359BB6D,BadWord
+Object,Bark of a tree,Кора дерева,Color,Brown,FA7CBA29FE33433C718702A25B23F699,BadWord
+Object,Cinnamon stick,Палочка корицы,Color,Brown,64797458DCFB6979E9D5148651D09475,BadWord
+Object,Rusty nail,Ржавый гвоздь,Color,Brown,249D8A2D4305850CC837B5F70CE681CE,BadWord
+Object,Date fruit,Финик,Color,Brown,E712F259A920B6AD87435B193944DC23,BadWord

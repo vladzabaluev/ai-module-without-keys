@@ -1,0 +1,1 @@
+In this task you need to find all the letters that are hidden on the screen and click on them

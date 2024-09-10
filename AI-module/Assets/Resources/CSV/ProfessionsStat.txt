@@ -1,0 +1,148 @@
+ActorActress , OB - 5, BG - 1
+
+Archaeologist , OB - 5, BG - 1
+
+Architect , OB - 5, BG - 1
+
+Astronaut , OB - 5, BG - 1
+
+Athlete , OB - 5, BG - 1
+
+Baker , OB - 5, BG - 1
+
+Barber , OB - 5, BG - 1
+
+Bus driver , OB - 5, BG - 1
+
+Carpenter , OB - 5, BG - 1
+
+Chef , OB - 5, BG - 1
+
+Coach , OB - 5, BG - 1
+
+Dancer , OB - 5, BG - 1
+
+Dentist , OB - 5, BG - 1
+
+DJ Disc Jockey , OB - 5, BG - 1
+
+Doctor , OB - 5, BG - 1
+
+Electrician , OB - 5, BG - 1
+
+Farmer , OB - 5, BG - 1
+
+Firefighter , OB - 5, BG - 1
+
+Fisherman , OB - 5, BG - 1
+
+Gardener , OB - 5, BG - 1
+
+Judge , OB - 5, BG - 1
+
+Lifeguard , OB - 5, BG - 1
+
+Mail carrier , OB - 5, BG - 1
+
+Mechanic , OB - 5, BG - 1
+
+Musician , OB - 5, BG - 1
+
+Painter , OB - 5, BG - 1
+
+Photographer , OB - 5, BG - 1
+
+Pilot , OB - 5, BG - 1
+
+Plumber , OB - 5, BG - 1
+
+Police officer , OB - 5, BG - 1
+
+Race car driver , OB - 5, BG - 1
+
+Scientist , OB - 5, BG - 1
+
+Sculptor , OB - 5, BG - 1
+
+Ship captain , OB - 5, BG - 1
+
+Teacher , OB - 5, BG - 1
+
+WaiterWaitress , OB - 5, BG - 1
+
+Writer , OB - 5, BG - 1
+
+ActorActress , OB - 5, BG - 1
+
+Archaeologist , OB - 5, BG - 1
+
+Architect , OB - 5, BG - 1
+
+Astronaut , OB - 5, BG - 1
+
+Athlete , OB - 5, BG - 1
+
+Baker , OB - 5, BG - 1
+
+Barber , OB - 5, BG - 1
+
+Bus driver , OB - 5, BG - 1
+
+Carpenter , OB - 5, BG - 1
+
+Chef , OB - 5, BG - 1
+
+Coach , OB - 5, BG - 1
+
+Dancer , OB - 5, BG - 1
+
+Dentist , OB - 5, BG - 1
+
+DJ Disc Jockey , OB - 5, BG - 1
+
+Doctor , OB - 5, BG - 1
+
+Electrician , OB - 5, BG - 1
+
+Farmer , OB - 5, BG - 1
+
+Firefighter , OB - 5, BG - 1
+
+Fisherman , OB - 5, BG - 1
+
+Gardener , OB - 5, BG - 1
+
+Judge , OB - 5, BG - 1
+
+Lifeguard , OB - 5, BG - 1
+
+Mail carrier , OB - 5, BG - 1
+
+Mechanic , OB - 5, BG - 1
+
+Musician , OB - 5, BG - 1
+
+Painter , OB - 5, BG - 1
+
+Photographer , OB - 5, BG - 1
+
+Pilot , OB - 5, BG - 1
+
+Plumber , OB - 5, BG - 1
+
+Police officer , OB - 5, BG - 1
+
+Race car driver , OB - 5, BG - 1
+
+Scientist , OB - 5, BG - 1
+
+Sculptor , OB - 5, BG - 1
+
+Ship captain , OB - 5, BG - 1
+
+Teacher , OB - 5, BG - 1
+
+WaiterWaitress , OB - 5, BG - 1
+
+Writer , OB - 5, BG - 1
+

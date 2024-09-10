@@ -1,0 +1,1390 @@
+Object,Parrot,Попугай,,AnimalByHomeType,pet,F1A33909B0F8BAD87B26AE37AB2EB6C3,Correct
+Object,Canary,Канарейка,,AnimalByHomeType,pet,7C0B24FDF1FB0B0C9AF521D419422BEE,Correct
+Object,Kitten,Котенок,,AnimalByHomeType,pet,ECB47F7D230295B1C30770DE0F430925,Correct
+Object,Puppy,Щенок,,AnimalByHomeType,pet,DCC9619F37B285246D2B35E073418791,Correct
+Object,Dog,Собака,,AnimalByHomeType,pet,3EA0D944FA29BF009C94057505F97163,Correct
+Object,Hamster,Хомяк,,AnimalByHomeType,pet,57FC0E8E2ABBD8053D4AC6A3B4FFE0D3,Correct
+Object,Goldfish,Золотая рыбка,,AnimalByHomeType,pet,E70089CF4A5C12EF1224AC7068A33A0D,Correct
+Object,Guinea Pig,Морская свинка,,AnimalByHomeType,pet,48A3C1041E1F40BF89D297690CB0D8E0,Correct
+Object,Turtle,Черепаха,,AnimalByHomeType,pet,70C8039375B55DE462AAE10CF6B97C59,Correct
+Object,Gerbil,Песчанка,,AnimalByHomeType,pet,78E24E891AE02F20847ABBF2A2A05B11,Correct
+Object,Ferret,Хорька,,AnimalByHomeType,pet,3BCFA022DB9EF8653A0D3B437A9A913C,Correct
+Object,Chinchilla,Чиншилла,,AnimalByHomeType,pet,D19AF5E4577B247E67C59D922E392327,Correct
+Object,Aquarium Fish,Аквариумная рыба,,AnimalByHomeType,pet,0591976D369A3AF60B966D069BDFD258,Correct
+Object,Bunny,Кролик,,AnimalByHomeType,pet,816339EA81EF6797E5263AAF1D5BB0F3,Correct
+Object,Lion,Лев,,AnimalByHomeType,wild animal,660F15AC8473515DDE0B6BF9B92EFE34,Correct
+Object,Gorilla,Горилла,,AnimalByHomeType,wild animal,1EC45392343A314DCA3636D6F7EB98D2,Correct
+Object,Penguin,Пингвин,,AnimalByHomeType,wild animal,F489A9F05C0151A6DFBA7A1EB9147B6B,Correct
+Object,Fox,Лиса,,AnimalByHomeType,wild animal,DD980A1FF2D8B51B3257878A2B5EB2EF,Correct
+Object,Meerkat,Сурикат,,AnimalByHomeType,wild animal,3D798C108516C9F36D13C11465D63619,Correct
+Object,Flamingo,Фламинго,,AnimalByHomeType,wild animal,2925971305A74F3DE90C7001345D242A,Correct
+Object,Seal,Тюлень,,AnimalByHomeType,wild animal,D80C356792B4843B5323A3E2B4BF9C17,Correct
+Object,Deer,Олень,,AnimalByHomeType,wild animal,6F4312F2CF4ACE7D690854C8A338DA9D,Correct
+Object,Raccoon,Енот,,AnimalByHomeType,wild animal,22EA742EAE363D38E1C85923F79DFEDA,Correct
+Object,Tiger,Тигр,,AnimalByHomeType,wild animal,E20AEF81EABCDBE53F48C87568F4046C,Correct
+Object,Zebra,Зебра,,AnimalByHomeType,wild animal,78E22C3484C8459F784690346CA0EAD5,Correct
+Object,Giraffe,Жирафа,,AnimalByHomeType,wild animal,76EAF11E6EBF8C8CEC109C54422275F2,Correct
+Object,Monkey,Обезьяна,,AnimalByHomeType,wild animal,D3FF6ABD6AE7ED70E8DBE9A865A74A89,Correct
+Object,Rhino,Носорог,,AnimalByHomeType,wild animal,42A617C8C235D9ADA16EF3A6282852EE,Correct
+Object,Hippo,Бегемот,,AnimalByHomeType,wild animal,1E9D0434D168936AAD3395DFA2BC94EF,Correct
+Object,Polar Bear,Полярный медведь,,AnimalByHomeType,wild animal,F9B916D807D3456ECC2EC04AA704B4C8,Correct
+Object,Koala,Коала,,AnimalByHomeType,wild animal,76B4D9E7DAA46DC2DB48E9295E2FD668,Correct
+Object,Wolf,Волк,,AnimalByHomeType,wild animal,E72E9235B9B3AF35A18359A9812082EB,Correct
+Object,Crocodile,Крокодил,,AnimalByHomeType,wild animal,3CAF3E4D351E42AE83C858F6C7F08150,Correct
+Object,Panther,Пантера,,AnimalByHomeType,wild animal,933EDA6E215B4D62785E2DC70E01F2A8,Correct
+Object,Leopard,Леопард,,AnimalByHomeType,wild animal,45CC1748ACC4429440BD50140A53A6E0,Correct
+Object,Otter,Выдра,,AnimalByHomeType,wild animal,1D524A99EB8D36059A77B27812988B1A,Correct
+Object,Panda,Панда,,AnimalByHomeType,wild animal,BBB15D14DD88737EBD1331D64442627C,Correct
+Object,Eagle,Орел,,AnimalByHomeType,wild animal,0DDD009EC98D45274F69DB4571527163,Correct
+Object,Elephant,Слон,,AnimalByHomeType,wild animal,D6C574751702CC44E45FC6E5155BCA16,Correct
+Object,Bear,Медведь,,AnimalByHomeType,wild animal,01841CB49BAA18F5C3D13D734E505D80,Correct
+Object,Cheetah,Гепарда,,AnimalByHomeType,wild animal,D39561F19A55242A80B023AA67F32199,Correct
+Object,Toucan,Тукан,,AnimalByHomeType,wild animal,BAE839088D8FE900FD570E5F68215EB2,Correct
+Object,Blackboard,Черная доска,,Color,Black,51AF35BF8D334280BB64BA035407F8C4,Correct
+Object,Crow,Ворона,,Color,Black,6D706E9EF3E4EFCFF3C7B0768351BC00,Correct
+Object,Spider,Паук,,Color,Black,5D3B6FCACC6297DC528E2067E9896B8E,Correct
+Object,Bat,Летучая мышь,,Color,Black,15D4A7D19C566AF155C8FE49B57F4B31,Correct
+Object,Gorilla,Горилла,,Color,Black,6FA1D3CFD6A225860F0BAF6359E862FB,Correct
+Object,Coal,Уголь,,Color,Black,89BE22D476EDD7322C08701947B1A3D3,Correct
+Object,Tire,Шина,,Color,Black,0D71C1A9AD6BE5760AEE2F0C1BB971E5,Correct
+Object,Blackberry,Ежевика,,Color,Black,E78ADC5D702D54216D9C518E761B351A,Correct
+Object,Umbrella,Зонтик,,Color,Black,C27BFA40FB76C7C6F4C79D5E610B9CC0,Correct
+Object,Raven,Ворон,,Color,Black,823F11D834DC394814E0C19C603D53F5,Correct
+Object,Piano,Пианино,,Color,Black,BB1BEE87623FCAC4A08E426F9F86DBC5,Correct
+Object,Witch hat,Ведьма шляпа,,Color,Black,2C961455970191C6811188626B71BCDF,Correct
+Object,Penguin,Пингвин,,Color,Black,E209EF9D465ED1719AA007A620BC08CE,Correct
+Object,Orca whale,касатка,,Color,Black,0C0B0712255ECD6BF531AAD6A83A21AA,Correct
+Object,Magic wand,Волшебная палочка,,Color,Black,DBF241FE9CE409A14DFC5D5159C85C96,Correct
+Object,Pirate flag,Пиратский флаг,,Color,Black,DB96E29C3D04238D60B2ACC8FDB812EA,Correct
+Object,Chess piece,Шахматная фигура,,Color,Black,0148AEA574141D24F720FEFA429A0E26,Correct
+Object,Leather jacket,Кожаный пиджак,,Color,Black,218C84239A8A318910FEBDAEFB774347,Correct
+Object,Oreo cookie,Орео печенье,,Color,Black,14628BD96F2F9AC9B064CE72FFDF43A2,Correct
+Object,Bin bag,Пакет для мусора,,Color,Black,CBD20A182C21A51B53165D35CB548335,Correct
+Object,Camera,Камера,,Color,Black,B68CA84D78DB4C03CA2C79F2D463AEA0,Correct
+Object,Ninja costume,Костюм ниндзя,,Color,Black,4466AA9628FD57F4B2ECBB196CA12596,Correct
+Object,Marker pen,Маркер,,Color,Black,B4A0CD1090233C471C7E931DA52B4FDF,Correct
+Object,Sunglasses,Солнечные очки,,Color,Black,0BE7F0107A33DDC3B8E2F7FA89E1F4FA,Correct
+Object,Blueberry,Черника,,Color,Blue,C1C6639A9810722487EB5385EA528A9A,Correct
+Object,Sky,Небо,,Color,Blue,6EB5237264B20401F851AA9A43774D43,Correct
+Object,Jeans,Джинсы,,Color,Blue,A888371534D021A8172D6F4CCB262642,Correct
+Object,Dolphin,Дельфин,,Color,Blue,BB774771E6F73944A9124D71984272B6,Correct
+Object,Raincoat,Плащ,,Color,Blue,9BFE3C309A2C78F4D967CF3468838D01,Correct
+Object,Peacock feather,павлинье перо,,Color,Blue,2DB2A84FE4AA8FDBD37EA13C803FF98F,Correct
+Object,Mailbox,Почтовый ящик,,Color,Blue,3ECAEF952148F2AF136F584828308DEB,Correct
+Object,Kite,Летающий змей,,Color,Blue,0912E8A9B33667B3E4ED5C4AAEAC6042,Correct
+Object,Toothbrush,Зубная щетка,,Color,Blue,DA2750742E073B82021A0C822CEA7963,Correct
+Object,Backpack,Рюкзак,,Color,Blue,F70D871A3958F7100844EE092E60D083,Correct
+Object,Bicycle Helmet,Велосипедный шлем,,Color,Blue,78C397B99FCF7A7BFD1283FDAAC2EE24,Correct
+Object,Water Bottle,Бутылка с водой,,Color,Blue,293CE1241161E3C5F78AE84671475B8A,Correct
+Object,Yoga Mat,Коврик для йоги,,Color,Blue,5D3C743F675DD6CA9E23AA619AF6DF56,Correct
+Object,Sapphire,Сапфир,,Color,Blue,E4D8892C95A7ADD7B33D3C5057DCD40E,Correct
+Object,Whale,Кит,,Color,Blue,231DF7F4BBA375A316C74AEF9B9FC664,Correct
+Object,Beanie,Шапочка,,Color,Blue,87D9471CDFC0F9F23BBD99D06B0A22A9,Correct
+Object,Chocolate bar,Плитка шоколада,,Color,Brown,61329A6056DB580A3835C19B60173D31,Correct
+Object,Teddy bear,плюшевый мишка,,Color,Brown,348CDE0626BC1CC2EB68EFCC9452679D,Correct
+Object,Acorn,Желудь,,Color,Brown,ED3ABEB32171A8A461C464914F7086B8,Correct
+Object,Leather belt,Кожаный ремень,,Color,Brown,A583C0ACB7331689A81ACFE729B15F78,Correct
+Object,Wooden chair,Деревянный стул,,Color,Brown,D080133AB8D7D1D0A33DB0D2CAA17405,Correct
+Object,Squirrel,Белка,,Color,Brown,BFF87B7375B795C6E1F3FDDE9A9E73DB,Correct
+Object,Potato,Картофель,,Color,Brown,9CEF05AF6CFFB4A62B79BE1039B592B8,Correct
+Object,Gingerbread cookie,Пряничное печенье,,Color,Brown,43D223662D79A48C2304B10E31144B8C,Correct
+Object,Baseball glove,Бейсбольная перчатка,,Color,Brown,F009FD8A06120341347976193584092E,Correct
+Object,Paper bag,Бумажный пакет,,Color,Brown,E26FCB7B6F059DC8233040A1D1EDD0F2,Correct
+Object,Monkey,Обезьяна,,Color,Brown,51FE3F7DCADBE0FAE475850A7DCCBD83,Correct
+Object,Pretzel,Крендель,,Color,Brown,02C9FCBA78BCAE3051AF86B92F60ADBA,Correct
+Object,Beaver,Бобр,,Color,Brown,30FD412A0AF9A17C9283942F9894FE09,Correct
+Object,Deer,Олень,,Color,Brown,5EA62ACF7CDB0C51F400B2611359BB6D,Correct
+Object,Bark of a tree,Кора дерева,,Color,Brown,FA7CBA29FE33433C718702A25B23F699,Correct
+Object,Cinnamon stick,Палочка корицы,,Color,Brown,64797458DCFB6979E9D5148651D09475,Correct
+Object,Rusty nail,Ржавый гвоздь,,Color,Brown,249D8A2D4305850CC837B5F70CE681CE,Correct
+Object,Date fruit,Финик,,Color,Brown,E712F259A920B6AD87435B193944DC23,Correct
+Object,Tree trunk,Ствол дерева,,Color,Brown,5F601419B37D8E91846E5798355C12D1,Correct
+Object,Walnut,грецкий орех,,Color,Brown,6ED0EEC0824208EA2867F2051FACA56F,Correct
+Object,Grass,Трава,,Color,Green,7C65E61929570DC68A1FEB88EE7298CC,Correct
+Object,Leaf,Лист,,Color,Green,482525F841C55E0F7B511DE4698D7797,Correct
+Object,Apple,Яблоко,,Color,Green,B03367A40D7CCC3A68D2B49E208222B5,Correct
+Object,Pear,Груша,,Color,Green,347271B9128E991BCC21629F451672B5,Correct
+Object,Frog,Лягушка,,Color,Green,8CF9DC7EBC85D613DFA539E90420345B,Correct
+Object,Pea,Горох,,Color,Green,49405228DBCE7B0C9276B2D57D71C91A,Correct
+Object,Cabbage,Капуста,,Color,Green,182F6103FBD3DE9F618E24FC4F3AF266,Correct
+Object,Lime,Лайм,,Color,Green,0E40FFC60CB10BB9896DF909F29C7F92,Correct
+Object,Turtle,Черепаха,,Color,Green,1A6D6E5A5DC932F4C206B1BD7B3B69F0,Correct
+Object,Lettuce,Латук,,Color,Green,90B0EBF3DF22E67E983D8E64ED0F3FD7,Correct
+Object,Green tea,Зеленый чай,,Color,Green,50FFC18F6110AB150CF83F499BCB2D0B,Correct
+Object,Kiwi fruit,киви,,Color,Green,B7503EB7C21EC53B55AFCF7D41841A5A,Correct
+Object,Broccoli,Брокколи,,Color,Green,1439716A89E596A363615C126DB5159E,Correct
+Object,Olive,Олив,,Color,Green,77D676F757A68F221A15F7C0D1C1646F,Correct
+Object,Green pepper,зеленый перец,,Color,Green,A0EAF1C2FD76C72358359C451DB64B97,Correct
+Object,Pickle,Соленый огурец,,Color,Green,92A6A36B474AA858281E7A13B4B33D13,Correct
+Object,Spinach,Шпинат,,Color,Green,5956097BF8D3F590913ADFC91AD6265B,Correct
+Object,Brussel sprout,брюссельская капуста,,Color,Green,E0F8824255B215B42F264CBB26F293CE,Correct
+Object,Iguana,Игуана,,Color,Green,AEB3E0B617D7568D7563A15C558C1DBF,Correct
+Object,Snake,Змея,,Color,Green,BCAE992A666D4532FE59C48F732EED44,Correct
+Object,Crocodile,Крокодил,,Color,Green,79767769BCFB104A0B9664AE581E3A26,Correct
+Object,Grapes,Виноград,,Color,Green,C5FB001FDD7176C56A387224C934BAC2,Correct
+Object,Asparagus,Спаржа,,Color,Green,C81043D25A6864D27D44A8E1167AC581,Correct
+Object,Aloe Vera plant,Алоэ вера завод,,Color,Green,39A1FF13DD2DE32494DE88BDBBF5A2E4,Correct
+Object,Avocado,Авокадо,,Color,Green,7A4A4FEEB069B05045F407ABDCD67A9F,Correct
+Object,Basil,Бэзил,,Color,Green,1432F9D56CE56FDB5002AD0DB8C5A18F,Correct
+Object,Christmas tree,Рождественская елка,,Color,Green,EF81CEDF2B73B0355545B6C22ACE8CE6,Correct
+Object,Spinach,Шпинат,,Color,Green,6B368F7A54054AD4CF7D3FF5027B2BB9,Correct
+Object,Cucumber,Огурец,,Color,Green,E4328F410067E0E28E36003E96EAAB83,Correct
+Object,Pumpkin,Тыква,,Color,Orange,180E79D222F9EAC0AA30928FF6A6FFC2,Correct
+Object,Tangerine,мандарин,,Color,Orange,6827E3F4B3ABEAFBB3690B25985D8259,Correct
+Object,Goldfish,Золотая рыбка,,Color,Orange,7BDFF114ABCE5D5C6C8EEE900F947496,Correct
+Object,Tiger,Тигр,,Color,Orange,0CC71F63F5D78AFD455B44FF1D80803B,Correct
+Object,Traffic Cone,Дорожный конус,,Color,Orange,BCD1CE984B87064911AE9F85063131B2,Correct
+Object,Nemo the Clown Fish,Немо рыба клоуна,,Color,Orange,3DA6548F87ED28B4D7FD71773E8F0D3F,Correct
+Object,Orange Lollipop,Оранжевый леденец,,Color,Orange,51C6B0096E668A0F83A3C97F7D676108,Correct
+Object,Autumn Leaf,Осенний лист,,Color,Orange,705E75F266F85EAD6326088CDD23F50B,Correct
+Object,Orange Crayon,Апельсиновый карандаш,,Color,Orange,A3E4E5096C4D93ED51927CAD2BE787FF,Correct
+Object,Life Jacket,Спасательный жилет,,Color,Orange,BF6C4BDCD9D67D33583B95319343EA17,Correct
+Object,Cheeto Snacks,Чето закуски,,Color,Orange,4E9E085C74BF56D89EB55863EDFDFEE5,Correct
+Object,Apricot Fruit,Абрикосовый фрукт,,Color,Orange,4C934E87421DC7007A98E7632E4F5896,Correct
+Object,Cantaloupe Melon,Мускусная дыня,,Color,Orange,0A0057EF2F9580F2276D1BBED234CAC0,Correct
+Object,Sweet Potato,Сладкая картошка,,Color,Orange,D352540650528FB566CE4CD9051D4589,Correct
+Object,Fire Flame,Языки пламени,,Color,Orange,18DFFCD2AA44CE48A82FA041476301B3,Correct
+Object,Ginger Cat,Рыжая кошка,,Color,Orange,2DCF8AAB71F27CE102E461B7D05E2E22,Correct
+Object,Starfish,Звезда,,Color,Orange,553A6CAE611E06B3293BCA9BD1B79DEA,Correct
+Object,Orangutan,Орангутан,,Color,Orange,0161710E2F0B29B4CD67979D43FFEDEB,Correct
+Object,Fanta Soda can,Fanta Soda Can,,Color,Orange,5DC744BE765F32007385D6FE8BB3722C,Correct
+Object,Carrot,Морковь,,Color,Orange,D5C2BC74BBFD5949F0538DACFBD0F100,Correct
+Object,Bell Pepper,Болгарский перец,,Color,Orange,856E08C205407DC11475833B0D6BFD4A,Correct
+Object,Flamingo,Фламинго,,Color,Pink,6CF3DC79891318BE315DD4CA7FE83B46,Correct
+Object,Pig,Свинья,,Color,Pink,8207F943E50BB7C70CDD381F03EBB6E0,Correct
+Object,Cotton Candy,Сахарная вата,,Color,Pink,D2C605EC7EBC7C07F73F25D409CE68EC,Correct
+Object,Strawberry Ice Cream,Земляничное мороженое,,Color,Pink,376D7988A814A48D801E49332BB5336E,Correct
+Object,Piggy Bank,Копилка,,Color,Pink,4C95EEA41D765B4A73BC562030BB6789,Correct
+Object,Ballet Shoes,Балетки,,Color,Pink,2FAD5FF7B7D476891A47E620E2B6FF72,Correct
+Object,Bubble Gum,Жевательная резинка,,Color,Pink,296035DCFA7391F02CC9F00A7069B813,Correct
+Object,Lipstick,Помада,,Color,Pink,4DC8ADB10D7E875DAE3E1BC1CC0FB041,Correct
+Object,Barbie Doll Dress,Барби кукольный платье,,Color,Pink,1C199A69029586C904BE53B241D0527F,Correct
+Object,Teddy Bear,Плюшевый мишка,,Color,Pink,36D4D753D893C81667FDF38A6740EB6E,Correct
+Object,Fairy Costume,Сказочный костюм,,Color,Pink,8F4C3E564253C8E6936690C5C0839696,Correct
+Object,Pink Crayon,Розовый карандаш,,Color,Pink,DBEBE45DD8B103D1A874CAE29BCADDA9,Correct
+Object,Hair Bow,Бантик,,Color,Pink,8DC31E5A64E36D9E32C907A003E04D41,Correct
+Object,Pink Pajamas,Розовая пижама,,Color,Pink,9C0A765DF00EFF35D205248BF75B2508,Correct
+Object,Pink Sneakers,Розовые кроссовки,,Color,Pink,D1947B237D2B6E1FDFB5B799ADB7A356,Correct
+Object,Yogurt,Йогурт,,Color,Pink,BF99A151C78E1EBB3534EFA7492BFC8E,Correct
+Object,Grape,Виноград,,Color,Purple,53A7F4C1923E561FB56004B7DE0A44B3,Correct
+Object,Eggplant,Баклажан,,Color,Purple,1C9E05B1341132E0C06F9BC3BC2E51E2,Correct
+Object,Lavender flower,Лавандовый цветок,,Color,Purple,1BFB4B9858B20EAD53414CA645917BA4,Correct
+Object,Purple crayon,Фиолетовый карандаш,,Color,Purple,1F26ADC73B3FBDC3E57DFF1640777878,Correct
+Object,Violet dress,Фиолетовое платье,,Color,Purple,4A36022056E591FB47CE3457072DAA08,Correct
+Object,Plum,слива,,Color,Purple,68926702105894571DCDB58DC169B783,Correct
+Object,Purple jellybean,Фиолетовый желе,,Color,Purple,78D7F0E09554A9C36486961D1A4959C2,Correct
+Object,Butterfly with purple wings,Бабочка с фиолетовыми крыльями,,Color,Purple,E7966DD71DC2C208B3868E8A137CE58B,Correct
+Object,Purple balloon,Фиолетовый воздушный шар,,Color,Purple,E3A257540519EFDF35F1F4482E3BE6C2,Correct
+Object,Blackberry,Ежевика,,Color,Purple,21CFAB6ED175560B60DF5C286CE026EE,Correct
+Object,Purple pencil,Фиолетовый карандаш,,Color,Purple,EEB6DEB01F85983B52BDEE5333763C94,Correct
+Object,Purple toy car,Фиолетовый игрушечный автомобиль,,Color,Purple,D8D2C6075F7B12E59B3814B29B9D4704,Correct
+Object,Lilac bush,Сирень куст,,Color,Purple,D0ACFE7EFB6B59993B84554C575EA699,Correct
+Object,Purple candy wrapper,Purple Candy Wabper,,Color,Purple,CE4103C0BF0865F3206DDFF6F6E75978,Correct
+Object,Purple raincoat,Фиолетовый плащ,,Color,Purple,F616D7E3ECAD9A2C8162FBB1E7EAA5A6,Correct
+Object,Apple,Яблоко,,Color,Red,6D9F8FAD2681E08527FE598EDB9FB393,Correct
+Object,Strawberry,Клубника,,Color,Red,51EE7FEF4CEE35E1C8DF1C142638508B,Correct
+Object,Fire truck,Пожарная машина,,Color,Red,D4329AC08A65376DCE3869428CFF2EB7,Correct
+Object,Ladybug,Божья коровка,,Color,Red,84BCD12E2435F312F98D6280BB0DDC9F,Correct
+Object,Tomato,Помидор,,Color,Red,AA274D18AF28E634B03CABC53D972A31,Correct
+Object,Stop sign,Знак СТОП,,Color,Red,A9DFA87D6C5E2769C72E722F7617E4C1,Correct
+Object,Cherry,вишня,,Color,Red,01D5ECAA410FCB962F90BE58D53B0B87,Correct
+Object,Red crayon,Красный карандаш,,Color,Red,0A9A0AD2A22264999A05265D78191207,Correct
+Object,Rose,Роза,,Color,Red,BD23AB7A60AA17877922AFAEBF356D6F,Correct
+Object,Ruby,Рубин,,Color,Red,1641B56D6E211F5E9A820B9D721E0A64,Correct
+Object,Santa Claus suit,Санта -Клаус костюм,,Color,Red,5D0F05E46834EFC759C04C80E2A1E827,Correct
+Object,Red bell pepper,красный перец,,Color,Red,5D79C30C2F990AD6DEC5563F36D496D6,Correct
+Object,Raspberry,Малина,,Color,Red,82290988B91070CFC1FC16F0171430ED,Correct
+Object,Red balloon,Красный воздушный шар,,Color,Red,9E10A383333AB4D78242338C26DCE964,Correct
+Object,Brick,Кирпич,,Color,Red,38A3767140D898457045498758860E65,Correct
+Object,Lobster,Омар,,Color,Red,63F3363475A8396FA197E3CCCF93DE52,Correct
+Object,Lifebuoy,Спасательный круг,,Color,Red,E7686EF2F73F51DEC8F830EEE4AE864C,Correct
+Object,Pepperoni Pizza,Пицца пепперони,,Color,Red,DDDDBC56CCF7CFE9C9E421156EED9DAF,Correct
+Object,Candy apple,Карамельное яблоко,,Color,Red,B7379485895D3901EE55B1B7981E00B4,Correct
+Object,Wagon,Повозка,,Color,Red,4A18553F86A8F13322B6BB924EB7C5AD,Correct
+Object,Pomegranate,Гранат,,Color,Red,788A57C7A0E8A37CD5AE0164B435E4F6,Correct
+Object,Fire hydrant,Пожарный гидрант,,Color,Red,DCE9320C883DC580426314AA076FCBAE,Correct
+Object,Barn,Сарай,,Color,Red,BA9ACF62C681E466F0E7EE65DA8FA54F,Correct
+Object,Ketchup bottle,Кетчуп бутылка,,Color,Red,EB0D372A0409B4E796FF235C7CA9DC71,Correct
+Object,Ferrari car,Автомобиль Ferrari,,Color,Red,75E6DF25C8B9B44175EAACE9386F7B4E,Correct
+Object,Radish,Редька,,Color,Red,B4C9DB006CB8EC088C35F48EDE93558B,Correct
+Object,Snow,Снег,,Color,White,8B7567D0E71B89417CEA9F2A10467ED0,Correct
+Object,Milk,Молоко,,Color,White,D8761D4A8C13B92E70DD1838EC766405,Correct
+Object,Rice,Рис,,Color,White,C6BB52CD8743C0AD0493EA136ED1D5EE,Correct
+Object,Sugar,Сахар,,Color,White,993320B06BA41AED7785A3D3F6742995,Correct
+Object,Toothpaste,Зубная паста,,Color,White,D96C690894D7BC4FB5325855435D87FD,Correct
+Object,Marshmallow,Зефир,,Color,White,866CBBF45AEE01B654115A68B30AA34D,Correct
+Object,Clouds,Облака,,Color,White,13B312F79BBA828FD2BE012985FF3071,Correct
+Object,Paper,Бумага,,Color,White,07BA65239D5C1CD8C0600555851176E8,Correct
+Object,Chalk,Мела,,Color,White,5466E88D066A76D0C2B99C2E58B996EA,Correct
+Object,Salt,Соль,,Color,White,C6EB5171840BE181E81E3F12FCD533BB,Correct
+Object,Polar bear,Полярный медведь,,Color,White,2342E703517F31F6D53FF4D9394FE4E7,Correct
+Object,Swan,Лебедь,,Color,White,EBA8F657A86A79E5F544C1B551AAA7AD,Correct
+Object,Dove,Голубь,,Color,White,F13523BFF5AA7B31A90400D9667F4DB8,Correct
+Object,Tooth,Зуб,,Color,White,34BBBCF9BD371CA4D08BEF763FFBC9DD,Correct
+Object,Toilet paper,Туалетная бумага,,Color,White,DE79A9E70459205C885F512C613B1C7B,Correct
+Object,White bread,белый хлеб,,Color,White,89D9B9DAC8C8C8ACC6F07ACE9969BCDA,Correct
+Object,Envelope,Конверт,,Color,White,02205A73BE3ADFBA25681DE5BE05DD7B,Correct
+Object,Lab coat,Лабораторный халат,,Color,White,A0FC513DB155ED3279B29A08AD05AA1B,Correct
+Object,Snowman,Снеговик,,Color,White,D7897C672DCAC83419FA6681FB1FAC25,Correct
+Object,Bathroom sink,Раковина в ванной комнате,,Color,White,B0DF8DC5A5CA9748D24134E52948CDB0,Correct
+Object,Eraser,Ластик,,Color,White,DC3C73F4FA26151387B2415024374CB6,Correct
+Object,Sheeps wool,Овцы шерсть,,Color,White,5297EB61B832F93556BCDCDB110C25A4,Correct
+Object,Wedding dress,Свадебное платье,,Color,White,98B403B7705D49DD311C945981CB7552,Correct
+Object,Banana,Банан,,Color,Yellow,9A884C31FB9846200912ED0BD62FF9B4,Correct
+Object,Lemon,Лимон,,Color,Yellow,BED8F50E0FD926264436AFBC57FD8C43,Correct
+Object,Canary,Канарейка,,Color,Yellow,CEC49553F2736D5A46468ADDAA3822E9,Correct
+Object,Taxi,Такси,,Color,Yellow,F176B8998440B8A7437A45CEC0339206,Correct
+Object,Sunflower,Подсолнух,,Color,Yellow,C448084C7DB856AE97A977CF9E470997,Correct
+Object,Yellow Jacket,Желтая куртка,,Color,Yellow,53AAA0A0EB02982CE9E33317952C4D6B,Correct
+Object,Mustard Bottle,Горчичная бутылка,,Color,Yellow,2E3618964172471DE9118460DE1D00A4,Correct
+Object,Gold Coin,Золотая монета,,Color,Yellow,D06368FAE198A30843765D6D99495A23,Correct
+Object,Cheese Slice,Сырной ломтик,,Color,Yellow,E23F62DFDD31CFE08DD5297E74AFC615,Correct
+Object,Pineapple,Ананас,,Color,Yellow,3E38066E713B8A4ED7A83B226D439CF8,Correct
+Object,Starfruit,Starfruit,,Color,Yellow,F5FABEF1A030953662393E9AE626699F,Correct
+Object,Light Bulb,Лампочка,,Color,Yellow,B8F5C1FF7FB61FDA20F88010C755279C,Correct
+Object,Yellow construction hard hat,Желтая строительная каска,,Color,Yellow,64F82F2FB0A4B19009A39592E5D99CD9,Correct
+Object,Yellow Butterfly,Желтая бабочка,,Color,Yellow,86B69EEB5199B1D0C9EC1096F63A4F30,Correct
+Object,Honey Jar,Медовая банка,,Color,Yellow,509A4A109250342B16DBEFC9FE136A82,Correct
+Object,Scrambled Eggs,Яичница-болтунья,,Color,Yellow,F63A2595132D1A08A049FC41F1A11348,Correct
+Object,Yellow Cap,Желтая кепка,,Color,Yellow,0635A802E6851291E5D2E365A501501C,Correct
+Object,Goldfish bowl,Золотая миска,,Color,Yellow,30D3EE2AB91DD83B60FAB59C7B17BC7A,Correct
+Object,Rubber Duck,Резиновая утка,,Color,Yellow,AED4FC29A8F7BE7C4DC7931A65AE157E,Correct
+Object,Buttercup flower,Цветок для лютины,,Color,Yellow,5C2A92175650E8A76C4050A7BF7A6456,Correct
+Object,Corn Cob,Кукурузная початка,,Color,Yellow,8C3B965897F164D1C1DDBBB9FA36D951,Correct
+Object,Sun,Солнце,,Color,Yellow,EB3F36DC974923955DBE9686AFC96837,Correct
+Object,Yellow Crayon,Желтый карандаш,,Color,Yellow,8871D36018F0094A11F9CCC1DACC6A8E,Correct
+Object,Yellow Pencil,Желтый карандаш,,Color,Yellow,191E09D5380AB65393A8B21B161ED367,Correct
+Object,Jerboa,Тушканчик,,Habitat,desert,2D495E0F391EDB60D0E271BD524B27CB,Correct
+Object,Chuckwalla Lizard,Ящерица Чаквалла,,Habitat,desert,5070E5B7759568AD488A0F9E02E88A01,Correct
+Background,,,,Habitat,desert,094AF9EE504971FDD19614B2D4C8C3E8,Correct
+Background,,,,Habitat,desert,209CA3961DA4A2A32A0C4440DEA64BC4,Correct
+Background,,,,Habitat,desert,89503BE684D69C38ABBF9EF2FE44C9CB,Correct
+Background,,,,Habitat,desert,DEF6169A332581B0AF68B5E9050A2951,Correct
+Background,,#VALUE!,,Habitat,desert,E0136086D7AE2062F6BBD15F11812BB9,Correct
+Object,Camel,Верблюд,,Habitat,desert,F8F21DF3984F30465E759D4D763AD45A,Correct
+Object,Fennec Fox,Фенек,,Habitat,desert,C5A4D47F50E2C885BD502F0A03815F6C,Correct
+Object,Kangaroo Rat,Кенгуру крыса,,Habitat,desert,AC04082C1A03D8AB4A3AC017F739C7E3,Correct
+Object,Dromedary Camel,Dromedary Camel,,Habitat,desert,05A8D4B01A71FCAFD2C97C2C54C53B8C,Correct
+Object,Rattlesnake,Гремучая змея,,Habitat,desert,28CF35A6370AB31B4CB52A87D7E05C39,Correct
+Object,Quokka,Quokka,,Habitat,desert,C07D9D4DEECEABB705DEEC61070D87F9,Correct
+Object,Meerkat,Сурикат,,Habitat,desert,112CAB2D08E565CF37918951B1F88F1E,Correct
+Object,Oryx Antelope,Oryx antelope,,Habitat,desert,C183CA200C5B4FA8AC7A9540D95EDF36,Correct
+Object,Scorpion,Скорпион,,Habitat,desert,CE2BF5E29E9ABA649B96D7B873495C92,Correct
+Object,Armadillo,Армадильо�,,Habitat,desert,6F682B787DE9FFA5B0697172DC38DC42,Correct
+Object,Tarantula,Тарантула,,Habitat,desert,946E3822F33C4A0C80A05F9A4D3C9811,Correct
+Object,Coyote,Койот,,Habitat,desert,99B2AC671820AB69C1D2D64EB4678F79,Correct
+Object,Hyena,Гиена,,Habitat,desert,22B34C2EFF3B1991D8383B268F894044,Correct
+Object,Horse,Лошадь,,Habitat,farm,A46B76B3E53CF62A3791284D573A4E58,Correct
+Object,Pig,Свинья,,Habitat,farm,256FA92B0A5B80DFA2EB0ACA7011D2F5,Correct
+Object,Sheep,Овца,,Habitat,farm,870D3F0579415662EF50198A16BB2937,Correct
+Object,Ostrich,Страус,,Habitat,farm,4004372423B4CA67DE9A7EEAE2530FB1,Correct
+Background,,,,Habitat,farm,5A59BFC1F1417CF584666DCCE0AAC621,Correct
+Background,,,,Habitat,farm,29EEBBB00D5B72CBA049BF3B9CB767AD,Correct
+Background,,,,Habitat,farm,1242882BFE70639F9B7FB6B65940B6A3,Correct
+Background,,,,Habitat,farm,909AABE69AD6AA19FA31A25C11D78A2D,Correct
+Background,,,,Habitat,farm,89D3D4534DB860B77D230CAFA67E7440,Correct
+Object,Cow,Корова,,Habitat,farm,21E7DC70648A8DB725F0D25CF66D0A55,Correct
+дв,Chicken,Курица,,Habitat,farm,374B878C13043029B2471BA4164D1DD4,Correct
+Object,Duck,Утка,,Habitat,farm,C448B6CD3FA1416EB3315DD990AF8335,Correct
+Object,Turkey,Турция,,Habitat,farm,DB22C18F4F3F714EC8EDFCC8AD153116,Correct
+Object,Donkey,Осел,,Habitat,farm,A9D3267FD6A6BFC40ED7D1FBCBBB8596,Correct
+Object,Llama,Лама,,Habitat,farm,4EAF286DD39D172850524F56287F8A37,Correct
+Object,Bull,Бык,,Habitat,farm,CBEFD526C1DFE4FF6F13FC0A5A9D3E02,Correct
+Object,Hen,Курица,,Habitat,farm,1863B1BFD9D1805761DFA3A6F569E20D,Correct
+Object,Goose,Гусь,,Habitat,farm,40B799DEE402274577D9006D90D3578B,Correct
+Object,Bee,Пчела,,Habitat,farm,21AA250148E94237C39D54C89E0DB7B6,Correct
+Object,Cat barn cat,Кошка сарай кошка,,Habitat,farm,FBD615DE086C47C2996E85DA768CB81C,Correct
+Object,Dog farm dog,Собака собака,,Habitat,farm,C994A1460F8A0764C2FFD579BEC308D7,Correct
+Object,Goat,Козел,,Habitat,farm,2C02833374557E33A48C5754D47D6611,Correct
+Object,Rabbit,Кролик,,Habitat,farm,DDBC0B04CB6048E13879BB9947EEDBD1,Correct
+Object,Rooster,Петух,,Habitat,farm,31C0950CB3CB24565D91964B89B73896,Correct
+Object,Owl,Сова,,Habitat,forest,C35310943206B2E51265119C55C69C67,Correct
+Object,Beaver,Бобр,,Habitat,forest,5AE551A45DC0BA44A2700CC1453CC478,Correct
+Object,Frog,Лягушка,,Habitat,forest,24E705A333262D838FA1001FE23C85F0,Correct
+Object,Snake,Змея,,Habitat,forest,3DBE722D93FEAF039BAC7875CA3C3576,Correct
+Object,Turtle,Черепаха,,Habitat,forest,1F3B7B11BDC79D572FD1BD48BBBC381A,Correct
+Object,Lynx,Рысь,,Habitat,forest,4403B0366B87D9DB71BAE61262BACAFC,Correct
+Background,,,,Habitat,forest,31635505BA70D42DC9B4618954500A1D,Correct
+Background,,,,Habitat,forest,0F22B2ED505FBCD26576DF9C8B4F9230,Correct
+Background,,,,Habitat,forest,9878809CF8DE9B481AD70F3231A5CCAD,Correct
+Background,,,,Habitat,forest,5A92817E0DCF818556648F6F64D1AA50,Correct
+Background,,,,Habitat,forest,D17E5B7649F734FD99B21C53CCD22DAA,Correct
+Object,Squirrel,Белка,,Habitat,forest,963620CCEF78FCFB2A214B8A91CC65D2,Correct
+Object,Raccoon,Енот,,Habitat,forest,3D1DC7AC764C20B0C8FADEFA242D52A0,Correct
+Object,Rabbit,Кролик,,Habitat,forest,715A94C8BE643FCB409275C685248E6D,Correct
+Object,Wolf,Волк,,Habitat,forest,E830354A6210A4345CA74249F8D4B5E7,Correct
+Object,Badger,Барсук,,Habitat,forest,F418E33560EA27C02763E5FE43B43FF1,Correct
+Object,Porcupine,Дикобраз,,Habitat,forest,A5A2C808F1EB0794FDFB75D27ECE09E2,Correct
+Object,Otter,Выдра,,Habitat,forest,6F81C73E3549DC7A2E1911AFB53C5839,Correct
+Object,Chipmunk,Бурундук,,Habitat,forest,D24810EA28E567B376E39AB439F5ACDB,Correct
+Object,Eagle,Орел,,Habitat,forest,593E282EE2A781E59BFA6BBAFC950F4D,Correct
+Object,Opossum,Опоссум,,Habitat,forest,FDFA2FF10B2DCD4CB16A6C0EE3E0AC70,Correct
+Object,Groundhog,Сурка,,Habitat,forest,A45348EFF1762879BB725829AF32694B,Correct
+Object,Deer,Олень,,Habitat,forest,93B7B28807C718B003E6A66D6B830291,Correct
+Object,Bobcat,Бобкат,,Habitat,forest,4A3E1C25C7F844FABE3DF725B4A72B2E,Correct
+Object,Elk,Лосей,,Habitat,forest,9F41676FCD1BF4441EE53C940AFA19B6,Correct
+Object,Bison,Бизон,,Habitat,forest,F0887293E2E058983057BB035D4D9914,Correct
+Object,Fox,Лиса,,Habitat,forest,DD980A1FF2D8B51B3257878A2B5EB2EF,Correct
+Object,Hedgehog,Ежик,,Habitat,forest,45F6CCE12B3A54170394B826F3D07D36,Correct
+Object,Skunk,Скунс,,Habitat,forest,D662F0BF0EE7496476540354F6AE5EF1,Correct
+Object,Moose,лось,,Habitat,forest,ECF05FA24540F052F25AA1E17BB19804,Correct
+Object,Polar Rabbit,Полярный кролик,,Habitat,glaciers,474BC5E9F18880E795D78F347D99D3C9,Correct
+Object,Arctic Tern,Арктическая краска,,Habitat,glaciers,40AB02EB1E159DF430A35B600960CF30,Correct
+Object,Pika,Пика,,Habitat,glaciers,5CA58BCCF4F0CAE317096C781B4EBB16,Correct
+Background,,,,Habitat,glaciers,83B355DCF2D81A474B4D1365E4C3DC9D,Correct
+Background,,,,Habitat,glaciers,0C2EE8BC10387DE988BF3C00CC551DE7,Correct
+Background,,#VALUE!,,Habitat,glaciers,4E0908CC89905BE6F0295A253134747E,Correct
+Background,,#VALUE!,,Habitat,glaciers,951A77080D56D584D69E020DA2724913,Correct
+Background,,#VALUE!,,Habitat,glaciers,1A2FDD61050ED18A37D15A0EBE5A2F1C,Correct
+Object,Polar Bear,Полярный медведь,,Habitat,glaciers,C93CA0FED1831DDDF94674CFD875A0EB,Correct
+Object,Penguin,Пингвин,,Habitat,glaciers,AE7E707A1BCDD4377E3EB7FBDEFA5CDF,Correct
+Object,Seal,Тюлень,,Habitat,glaciers,F75A9C2789B6A8B06BB2792DB2101AD1,Correct
+Object,Killer Whale Orca,Убийственный кит orca,,Habitat,glaciers,42F4B3199E9A12424423FE44F30D1B2A,Correct
+Object,Arctic Hare,Арктический заяц,,Habitat,glaciers,E5F245E5506B981B2CC039F44C201E13,Correct
+Object,Grey Wolf,Серый волк,,Habitat,glaciers,ED4B3A3D8D568D96BEBFD26A1B5F7CEC,Correct
+Object,Sea Otter,Морская выдра,,Habitat,glaciers,7F49F8CA78C54F0F3F077F20A8DAFCBE,Correct
+Object,Mountain Goat,Горный козел,,Habitat,glaciers,1176D628699DB5930A8721CF805E3435,Correct
+Object,Musk Oxen,Овцебык,,Habitat,glaciers,01404B695F52C7946AE3AF100FEC88FC,Correct
+Object,Bald Eagle,Белоголовый орлан,,Habitat,glaciers,DA0E183FE24AC7593A0695BD06371DFD,Correct
+Object,White-tailed Ptarmigan,Белый хвост птармиган,,Habitat,glaciers,66D6D1D8DD563989B385379D8F63D83C,Correct
+Object,Polar Bear,Полярный медведь,,Habitat,glaciers,AD3641625DE2EC7A9E13F772AACEFFCA,Correct
+Object,Narwhal,Нарвал,,Habitat,glaciers,5E8B5BFD56E99EBA38118DABE710B708,Correct
+Object,Snow Leopard,Снежный барс,,Habitat,glaciers,C7B519A056DA615C41996320100A734E,Correct
+Object,Caribou,Карибу,,Habitat,glaciers,D7DAC255B0AF621A9F05EB541933C596,Correct
+Object,Humpback Whale,Горбатый кит,,Habitat,glaciers,D25341AA1412EA2ECB7BC19F20B9DDD6,Correct
+Object,Dolphin,Дельфин,,Habitat,glaciers,98BD4AC6393F3DDECB8151E58F25A857,Correct
+Object,Walrus,Морс,,Habitat,sea,0EA9B437D44762FF75AD6999B8E0E38F,Correct
+Object,Penguin,Пингвин,,Habitat,sea,517BE745662D041030D13083CE403A2A,Correct
+Background,,,,Habitat,sea,ED9F10579F2D4C1FAFA087FB0DD54974,Correct
+Background,,,,Habitat,sea,D491F64A90E75086266EAE35369A2EA8,Correct
+Background,,,,Habitat,sea,139DD5F3591412A02773EAB1D95F8777,Correct
+Object,Dolphin,Дельфин,,Habitat,sea,D114E697DEE0472E39584830A3B048EE,Correct
+Object,Dolphin,Дельфин,,Habitat,sea,1949D2B35B9B1E361149EA9A1A5C05B5,Correct
+Object,Shark,Акула,,Habitat,sea,038F90AACE4973AF630B0B5A40606CDF,Correct
+Object,Sea Turtle,Морская черепаха,,Habitat,sea,55A710287F2EB1BCF535D485B7E99813,Correct
+Object,Starfish,Звезда,,Habitat,sea,D5EF7E0C0E38DC27080520886B3C821E,Correct
+Object,Seahorse,Морской конь,,Habitat,sea,5AEAA8F9D5A70696744B1312A8EAB3D6,Correct
+Object,Jellyfish,Медуза,,Habitat,sea,FB33CBDDD84DDB4505F390A1F0E7AF85,Correct
+Background,,,,Habitat,sea,58F404D220979217C60557788B029B24,Correct
+Background,,,,Habitat,sea,43CC2725B3371B54B77E3175193B519F,Correct
+Object,Crab,Краб,,Habitat,sea,206EFE449CFEE86786BAEEA5C20E9247,Correct
+Object,Stingray,морской скат,,Habitat,sea,FE954D30F3BDF1FB95CB7713D58EB635,Correct
+Object,Swordfish,рыба-меч,,Habitat,sea,D23C6A1B7F5CC54A380E5FEB453EEB57,Correct
+Object,Pufferfish,Рыба фугу,,Habitat,sea,811B4DDD188F33806E4DC0F2B16D5D2E,Correct
+Object,Seal,Тюлень,,Habitat,sea,E67FBD5A94447723F673FABE5402BF8E,Correct
+Object,Squid,Кальмар,,Habitat,sea,37D7E7C4B164913953D9DD549FD177B0,Correct
+Object,Eel,Угорь,,Habitat,sea,E0BCAECB0CC8C0ACE20111A388241BE5,Correct
+Object,Polar Bear,Полярный медведь,,Habitat,sea,0AB400845B400BB00B9D86CE90C616D5,Correct
+Object,Manatee,Ламантин,,Habitat,sea,550D143F7D0CF5BA3A009DE17FA70070,Correct
+Object,Orca Killer Whale,Orca killer кит,,Habitat,sea,9D02D25D780F1B9433FCAC3396B141A8,Correct
+Object,Sealion,Морской лев,,Habitat,sea,9FB838C8A700486E972404B52ADB86D1,Correct
+Object,Sea Otter,Морская выдра,,Habitat,sea,558EC58F1839C27DAEA7A04C9598B9BA,Correct
+Object,Cormorant,Банк,,Habitat,sea,16249E4569BDD1CBC8308772AF72DB9E,Correct
+Object,Great White Shark,Большая белая акула,,Habitat,sea,CDDD7BEB3DF1999669A1AFE7E07DA0BA,Correct
+Object,Clown Fish,Клоуна рыба,,Habitat,sea,AB29C3F0EE7CAF39D3765FB39353ABFA,Correct
+Object,Lobster,Омар,,Habitat,sea,BA3A95D1F1E760783B06B0EA35AABA7E,Correct
+Object,Octopus,Осьминог,,Habitat,sea,B09AE08867DD530C7C4B637171AFA667,Correct
+Object,Blue Marlin,Синий марлин,,Habitat,sea,596071ECF92A6CC5497287553DBE98A7,Correct
+Object,Pelican,Пеликан,,Habitat,sea,ABE0358440E8038AE093B765333FF2AE,Correct
+Background,,,,Habitat,tropics,980E873C4BDC096D4FEEF0C7BED9A41C,Correct
+Background,,,,Habitat,tropics,E377DCA9D7C506BE2CB984E01A2B02E5,Correct
+Background,,,,Habitat,tropics,50AC4CA4421CBF9BB6DB5BAF80E29D5D,Correct
+Background,,,,Habitat,tropics,E039F7E2764011862B187D55CE117BB3,Correct
+Background,,,,Habitat,tropics,78C85BE48F23BA0CC9F99F85339126EA,Correct
+Object,Flamingo,Фламинго,,Habitat,tropics,12E469A4D223DD69EBD817FBEC32248B,Correct
+Object,Jaguar,Ягуар,,Habitat,tropics,A05A6349611F85F938F230427A4353E9,Correct
+Object,Elephant,Слон,,Habitat,tropics,521E799215A86A26F6525EF0EC1A36C2,Correct
+Object,Rhinoceros,Носорог,,Habitat,tropics,F8192DC1D7EE76BB843BD6A95499A4DA,Correct
+Object,Lion,Лев,,Habitat,tropics,C2DDBCDF623546276235270CDFBB8A65,Correct
+Object,Hippopotamus,Бегемот,,Habitat,tropics,1884D5859C1E4780C46096E3074283DE,Correct
+Object,Zebra,Зебра,,Habitat,tropics,4F60D966056443EAE8E99A7EF55FF318,Correct
+Object,Tiger,Тигр,,Habitat,tropics,D2B5F28F7AFDBBF8F4C51ECBA14F7D6F,Correct
+Object,Toucan,Тукан,,Habitat,tropics,BAE839088D8FE900FD570E5F68215EB2,Correct
+Object,Turtle,Черепаха,,Habitat,tropics,955E799B07DD810A9BEA74D4FDA1C42F,Correct
+Object,Koala,Коала,,Habitat,tropics,789346EDD7F07DA30E5DA9D95F54387E,Correct
+Object,Parrot,Попугай,,Habitat,tropics,1485A1A46A9BD06705400B50164A2158,Correct
+Object,Gorilla,Горилла,,Habitat,tropics,1096C8C0439C7F35DAD8BC5B20DC61B2,Correct
+Object,Chimpanzee,Шимпанзе,,Habitat,tropics,B5C7914505AFCA5FDEEB0AB8C0DC5428,Correct
+Object,Kangaroo,Кенгуру,,Habitat,tropics,9AE4F0036D4F76F8CCBF6E646321764A,Correct
+Object,Orangutan,Орангутан,,Habitat,tropics,0161710E2F0B29B4CD67979D43FFEDEB,Correct
+Object,Bat,Летучая мышь,,Habitat,tropics,3D4791CDD80F3F99B3C2E28A5C49D8BD,Correct
+Object,Parrot,Попугай,,Habitat,tropics,DFC1D845BA857A0146AD8B6BE6457E77,Correct
+Object,Monkey,Обезьяна,,Habitat,tropics,51FE3F7DCADBE0FAE475850A7DCCBD83,Correct
+Object,Panda,Панда,,Habitat,tropics,959359285BEA27F38B51F315E3B55E43,Correct
+Object,Crocodile,Крокодил,,Habitat,tropics,79767769BCFB104A0B9664AE581E3A26,Correct
+Object,Kite,Летающий змей,,LifeFormat,Inanimate Object,DEFC27DEC15E789B97A549AC61468E00,Correct
+Object,Skateboard,Скейтборд,,LifeFormat,Inanimate Object,FC79245DD39D1C0A065DF746583E8334,Correct
+Object,Yo-yo,Йо Йо,,LifeFormat,Inanimate Object,DEDDCFB87EE8ED4AF01877739CED928E,Correct
+Object,Telescope,Телескоп,,LifeFormat,Inanimate Object,865A8A9730FE92C243804A914C88DC35,Correct
+Object,Toy car,Игрушечная машина,,LifeFormat,Inanimate Object,BD17E9B177E971F1B6B9A2A9DBFF4D5C,Correct
+Object,Lego block,Lego Block,,LifeFormat,Inanimate Object,C11FBEA4B72FFBD6455BA950B63C1BCA,Correct
+Object,Pencil,Карандаш,,LifeFormat,Inanimate Object,8EC1333C12E6613045996BAE8BAC3C4D,Correct
+Object,Storybook,Сборник рассказов,,LifeFormat,Inanimate Object,76EFAB0D99CC7EC56CEE903C5FE7A415,Correct
+Object,Jigsaw puzzle piece,Загрязнение головоломки,,LifeFormat,Inanimate Object,A959E6FE90EC0178B0D7E3C34B06871F,Correct
+Object,Sandbox toy shovel,Игрупкая лопата из песочницы,,LifeFormat,Inanimate Object,C7A302FD8B892E47F735E6B3768253AA,Correct
+Object,Deck of cards,Колода карт,,LifeFormat,Inanimate Object,E13D1ACC27B04A280AC69D291C7E7D03,Correct
+Object,Teddy bear,плюшевый мишка,,LifeFormat,Inanimate Object,4C12541F2DA6A00CC1589D04CF6E7546,Correct
+Object,Paintbrush,Кисть,,LifeFormat,Inanimate Object,49BD0AA1C4615936E256CCF46A6A0630,Correct
+Object,Basketball hoop,Баскетбольное кольцо,,LifeFormat,Inanimate Object,000097DD5250C122EDB389D0A0463476,Correct
+Object,Chalk stick,Меловая палка,,LifeFormat,Inanimate Object,E16F5BB411310DC8950FC7E3377AAF6B,Correct
+Object,Bicycle helmet,Велосипедный шлем,,LifeFormat,Inanimate Object,47D24D1AFA0AF4F40D4214D1902803DB,Correct
+Object,Video game console,Игровая приставка,,LifeFormat,Inanimate Object,8C8FEAC6C26F74748DFAC510BB1266A9,Correct
+Object,Baseball bat,Бейсбольная бита,,LifeFormat,Inanimate Object,5BB6896525C46287E7BDE847307BCB4E,Correct
+Object,Dinosaur,Динозавр,,LifeFormat,Living Being,981A8047A391F443CAB168E6EC670F80,Correct
+Object,Santa Claus,Санта Клаус,,LifeFormat,Living Being,CCF4B0CFD9041F39A8BB398248C9E7F5,Correct
+Object,Dorothy - from The Wizard of Oz,Дороти - из Волшебника Оз,,LifeFormat,Living Being,35D8DBE7E96BD88B76E361C5137C3E3D,Correct
+Object,Simba - the Lion King,Симба - король льва,,LifeFormat,Living Being,00E54EF945DE225F2A0CEAFA823E1933,Correct
+Object,Ariel - the Little Mermaid,Ариэль - Русалка,,LifeFormat,Living Being,AB0987855A41489751A00A0E499AE36B,Correct
+Object,Harry Potter,Гарри Поттер,,LifeFormat,Living Being,F6B7A06B57C354365F50DA9123D49014,Correct
+Object,Donald Duck,Дональд Дак,,LifeFormat,Living Being,8D1EA52B81729DBCD256D8E64CD58700,Correct
+Object,- Paddington Bear,- Паддингтон Медведь,,LifeFormat,Living Being,7DB61B494C8B188F52D4D898570010EC,Correct
+Object,Dumbo the elephant,Дамбо Слон,,LifeFormat,Living Being,F0C156B7518A0C0D7983AA6F393590FC,Correct
+Object,Batman,Бэтмен,,LifeFormat,Living Being,98B07BBEA1A170588B4CFBFB6D23C225,Correct
+Object,Superman,Супермен,,LifeFormat,Living Being,E76EA4E41FECF566C9FBC318C75707D9,Correct
+Object,Mermaid,Русалка,,LifeFormat,Living Being,36892C466CFD2FE39823E9B2BA9FBBF0,Correct
+Object,Tooth fairy,Зубная фея,,LifeFormat,Living Being,38C84EDB37620596388B9FF3EA8CF813,Correct
+Object,Buzz Lightyear  Toy Story series,Buzz Lightyear Toy Story Series,,LifeFormat,Living Being,3D1673BC27D99E95800082E68143DE76,Correct
+Object,Pikachu - a Pokemon character,Пикачу - персонаж покемонов,,LifeFormat,Living Being,4B40F0392217F728FF0F2F48C44C211E,Correct
+Object,Minnie Mouse,Минни Маус,,LifeFormat,Living Being,59DA7EA111D9F249C05C6CF7706A4EBF,Correct
+Object,Bambi,Бамби,,LifeFormat,Living Being,895B73D5B590E96B0119486AC7859733,Correct
+Object,Iron Man,Железный человек,,LifeFormat,Living Being,81B0C7E383C076989145E9B8EC0CF0EE,Correct
+Object,Unicorn,Единорог,,LifeFormat,Living Being,244AD2DF1E330D255E0CA74CB4D5346A,Correct
+Object,Mickey Mouse,Микки Маус,,LifeFormat,Living Being,6A06C243805CD5E050F3BE4582653034,Correct
+Object,Cinderella,Золушка,,LifeFormat,Living Being,77829F0A5F0A817379CD2F88C2FA13E4,Correct
+Object,Parrot,Попугай,,MovementMethod,Flying,DFC1D845BA857A0146AD8B6BE6457E77,Correct
+Object,Hummingbird,Колибри,,MovementMethod,Flying,DC1866820A6C705D0F5F5E191236A289,Correct
+Object,Pigeon,Голубь,,MovementMethod,Flying,9E5CF9D2CE81E0EBD99AD25532711214,Correct
+Object,Owl,Сова,,MovementMethod,Flying,C959DDF2035D583CB34284B89873B156,Correct
+Object,Peacock,Павлин,,MovementMethod,Flying,E67E2E3990FCAC4DA39F6739AFAA4365,Correct
+Object,Flamingo,Фламинго,,MovementMethod,Flying,A31025A77A410F9E32EF06AE1E4A4340,Correct
+Object,Woodpecker,Дятел,,MovementMethod,Flying,61666FC65D1EF02B18F2E6F97CB9EBD8,Correct
+Object,Seagull,Чайка,,MovementMethod,Flying,A29C013FD39AEE643FFE38005730F4E3,Correct
+Object,Bat,Летучая мышь,,MovementMethod,Flying,3D4791CDD80F3F99B3C2E28A5C49D8BD,Correct
+Object,Butterfly,Бабочка,,MovementMethod,Flying,266C7B16A4DA24FDC8DB979ACCEC1D8A,Correct
+Object,Wasp,Оса,,MovementMethod,Flying,13C7F67145C46CB9D3D0B96882692913,Correct
+Object,Turkey,Турция,,MovementMethod,Flying,8FF9FDF0CE7907EC986DA28B0AB28871,Correct
+Object,Pelican,Пеликан,,MovementMethod,Flying,ABE0358440E8038AE093B765333FF2AE,Correct
+Object,Cardinal,Кардинал,,MovementMethod,Flying,29F6522F22496C0568E78B6D05D61137,Correct
+Object,Eagle,Орел,,MovementMethod,Flying,9AB19A00DD28764FAA53F45AADFE9C53,Correct
+Object,Canary,Канарейка,,MovementMethod,Flying,812C46498EB529F5DA9895C9965B0194,Correct
+Object,Swan,Лебедь,,MovementMethod,Flying,FD02DC1B300C64E61E727DDC0B89D728,Correct
+Object,Bee,Пчела,,MovementMethod,Flying,77152DF5BA3023661C68C3744A187268,Correct
+Object,Mosquito,Комар,,MovementMethod,Flying,E11D2DDDD32798E139596655E4381FE4,Correct
+Object,Dragonfly,Дракона,,MovementMethod,Flying,B2FDC4A54A15AE6D6C1973DF43DF32CA,Correct
+Object,Ladybug,Божья коровка,,MovementMethod,Flying,D67016131C740C8D6670E132242503F6,Correct
+Object,Moth,Моты,,MovementMethod,Flying,0A4E1D4303FC5AF12880746CAB74B172,Correct
+Object,Crow,Ворона,,MovementMethod,Flying,7D340D873B1170CF61D2D4BB2CE294D5,Correct
+Object,Falcon,Сокол,,MovementMethod,Flying,52E45C20BF90AFD268F8144CFBD19420,Correct
+Object,Hawk,Ястреб,,MovementMethod,Flying,4655869F29F94EDDB7C29BB9CF594965,Correct
+Object,Hawk,Ястреб,,MovementMethod,Flying,BE630F07174A114F65AF1BAC9FA1B3B5,Correct
+Object,Sparrow,Воробей,,MovementMethod,Flying,A1D4BF858182427688EEF28D24B17B02,Correct
+Object,Duck,Утка,,MovementMethod,Flying,FE32E42FA46D6A4C886528D5EC36B6BA,Correct
+Object,Dolphin,Дельфин,,MovementMethod,Swimming,98BD4AC6393F3DDECB8151E58F25A857,Correct
+Object,Shark,Акула,,MovementMethod,Swimming,3884AD4316FF5EE3B48513B7E4666BCD,Correct
+Object,Octopus,Осьминог,,MovementMethod,Swimming,5763BACB512D75360379557630609CEA,Correct
+Object,Seal,Тюлень,,MovementMethod,Swimming,F25944402CC4114698C54D66A1384383,Correct
+Object,Jellyfish,Медуза,,MovementMethod,Swimming,8DB2D66F94EEBEF9EF00081A6DEA32DC,Correct
+Object,Squid,Кальмар,,MovementMethod,Swimming,D0A831F7A9E59CE9625938579C66FB49,Correct
+Object,Crab,Краб,,MovementMethod,Swimming,6786999F40358BF4DD239804AA44D01A,Correct
+Object,Starfish,Звезда,,MovementMethod,Swimming,37FFA27900EE0D449693D698782FA232,Correct
+Object,Penguin,Пингвин,,MovementMethod,Swimming,8D726FA0FDC207F81B45EC0D3D37A4E5,Correct
+Object,Lobster,Омар,,MovementMethod,Swimming,16A132BBC382404E143F818EDF6D9AC8,Correct
+Object,Seahorse,Морской конь,,MovementMethod,Swimming,D7F1DB02650C996A635F3CA29319E24D,Correct
+Object,Goldfish,Золотая рыбка,,MovementMethod,Swimming,5F406CC0FF5D1A2D9F2D085919CA93C8,Correct
+Object,Turtle Sea,Черепаха море,,MovementMethod,Swimming,2839D523D6E26068AD52F67B2F123CC5,Correct
+Object,Walrus,Морс,,MovementMethod,Swimming,A94F086CE52794000FC579447BB607C9,Correct
+Object,Trout,Форель,,MovementMethod,Swimming,A189AA62165353DF7C0A14A8DEDE1F12,Correct
+Object,Clam,Моллюсков,,MovementMethod,Swimming,9FF5BA62851264096DDED3DF8DB6A813,Correct
+Object,Eel,Угорь,,MovementMethod,Swimming,9648C26AF908F1E278195A42E72B380C,Correct
+Object,Otter Sea,Выдра море,,MovementMethod,Swimming,F94A4CAF016BFE2AE0BC238509C217E8,Correct
+Object,Stingray,морской скат,,MovementMethod,Swimming,7DDF7ED0D83D297D97BBDE3E1556A58C,Correct
+Object,Manatee,Ламантин,,MovementMethod,Swimming,80B375F66FB026990C6818CC3D9FDDE1,Correct
+Object,Tuna,Тунец,,MovementMethod,Swimming,28653757AE6E01A43B1141D374F53714,Correct
+Object,Salmon,Лосось,,MovementMethod,Swimming,10D39975D412F787B50597B7FF04C79E,Correct
+Object,Bass,Басс,,MovementMethod,Swimming,3C9EB9245BA9ACBC1FB657C3DFBED459,Correct
+Object,Tilapia,Тилапия,,MovementMethod,Swimming,D0C3315B03851D1CB90F6F95570C017B,Correct
+Object,Pufferfish,Рыба фугу,,MovementMethod,Swimming,1CA545BE9AC43CDDCFFC5E737DE861F7,Correct
+Object,Sea lion,Морской лев,,MovementMethod,Swimming,F1A94F7470025734D994F98955190BA4,Correct
+Object,Catfish,Сом,,MovementMethod,Swimming,F05E1F818E16508143C5B6026DFFF0C8,Correct
+Object,Swordfish,рыба-меч,,MovementMethod,Swimming,73E97A535D8D79A2AD915BBEB7545106,Correct
+Object,Humpback whale,Горбатый кит,,MovementMethod,Swimming,B24C746FFF9602683C44C9FB5082E77B,Correct
+Object,Whale,Кит,,MovementMethod,Swimming,1B3CF4D629D7535016C5B6478F4DBC5C,Correct
+Object,Elephant,Слон,,MovementMethod,Walking,D6C574751702CC44E45FC6E5155BCA16,Correct
+Object,Tiger,Тигр,,MovementMethod,Walking,80DB7B76FA6C509962FCA2920B1C8C7A,Correct
+Object,Hippopotamus,Бегемот,,MovementMethod,Walking,7E9EAB3A552DEE8CCE0D18F12CC28541,Correct
+Object,Squirrel,Белка,,MovementMethod,Walking,93D1860726C50757A4C7DF7B0C623FAA,Correct
+Object,Horse,Лошадь,,MovementMethod,Walking,0198AC641AF1084F65D152B03C391FA1,Correct
+Object,Raccoon,Енот,,MovementMethod,Walking,29A4289F66ED36157D998E0248B9ED87,Correct
+Object,Rat,Крыса,,MovementMethod,Walking,9575265E851B511C8897B348D05852C9,Correct
+Object,Zebra,Зебра,,MovementMethod,Walking,9F5054E4125E766ACDF17030E3FCC9BE,Correct
+Object,Monkey,Обезьяна,,MovementMethod,Walking,C151709EBA918FE35E4D563FDA1CE7CC,Correct
+Object,Bear,Медведь,,MovementMethod,Walking,01841CB49BAA18F5C3D13D734E505D80,Correct
+Object,Rabbit,Кролик,,MovementMethod,Walking,DDBC0B04CB6048E13879BB9947EEDBD1,Correct
+Object,Goat,Козел,,MovementMethod,Walking,2C02833374557E33A48C5754D47D6611,Correct
+Object,Donkey,Осел,,MovementMethod,Walking,6701F7F5CB0C941734C38C0B837CD234,Correct
+Object,Pig,Свинья,,MovementMethod,Walking,A28A81A2023EDD6B22FFC1CFDAE52550,Correct
+Object,Cheetah,Гепарда,,MovementMethod,Walking,5DBB5ABD3F6720A271FF4007AB4C279E,Correct
+Object,Gorilla,Горилла,,MovementMethod,Walking,252F8CC8DD583063001EC032B157259E,Correct
+Object,Anteater,Муравьед,,MovementMethod,Walking,5D0112450F917C4919DD214787710762,Correct
+Object,Dog,Собака,,MovementMethod,Walking,E82B376780CA26A82E7FB9F58D3F293A,Correct
+Object,Mouse,Мышь,,MovementMethod,Walking,F49F2484DB2EAE3010DD1C9099D6766C,Correct
+Object,Turkey,Турция,,MovementMethod,Walking,892D4D6733421AD64BBD206B2BFF0B24,Correct
+Object,Cat,Кот,,MovementMethod,Walking,053EF36FECA52B3D2038E0576F31012A,Correct
+Object,Snail,Улишка,,MovementMethod,Walking,289D55EADBF6F339AE3F6D8DCC38EAEB,Correct
+Object,Cat,Кот,,MovementMethod,Walking,8AD179BAB74D2885C087003FB703134A,Correct
+Object,Giraffe,Жирафа,,MovementMethod,Walking,A4A7B9F8FC4DCB320EBE6F059CC36BF5,Correct
+Object,Kangaroo,Кенгуру,,MovementMethod,Walking,9AE4F0036D4F76F8CCBF6E646321764A,Correct
+Object,Deer,Олень,,MovementMethod,Walking,6F4312F2CF4ACE7D690854C8A338DA9D,Correct
+Object,Sheep,Овца,,MovementMethod,Walking,870D3F0579415662EF50198A16BB2937,Correct
+Object,Cow,Корова,,MovementMethod,Walking,21E7DC70648A8DB725F0D25CF66D0A55,Correct
+Object,Lion,Лев,,MovementMethod,Walking,660F15AC8473515DDE0B6BF9B92EFE34,Correct
+Object,Rhino,Носорог,,MovementMethod,Walking,42A617C8C235D9ADA16EF3A6282852EE,Correct
+Object,Costume,Костюм,,Profession,ActorActress,D787FCCFCB7A24D7C82D9F5108A873A7,Correct
+Background,,,,Profession,ActorActress,21A074B6E651A0D532EB4D87978272CE,Correct
+Object,Camera,Камера,,Profession,ActorActress,ECC825057F8239E451FE1850C68E8EBB,Correct
+Object,Stage,Этап,,Profession,ActorActress,6AA32D2282887C47472B7E52D7801FE4,Correct
+Background,,,,Profession,Animator,7C15B27CD141FBC3F551A3AAA401D3DB,Correct
+Object,Treasure map,Карта сокровищ,,Profession,Archaeologist,238C6F2D712FF7AF42773B0C24F88FE3,Correct
+Background,,,,Profession,Archaeologist,3D6016FCF20460E082EE5F6747E5341D,Correct
+Object,Dinosaur bone,Кость динозавра,,Profession,Archaeologist,7FDEED680EB8731013E9A6B769FD5A97,Correct
+Object,Ancient pot,Древний горшок,,Profession,Archaeologist,D15DEB613CF8389A9D214350A7F4F81D,Correct
+Object,Sand brush,Песчаная щетка,,Profession,Archaeologist,F25DB4EC4254932A8CC7256C5B9770B1,Correct
+Object,Shovel,Лопата,,Profession,Archaeologist,E339E00BCC6B552505ED7743AD7EC5C4,Correct
+Object,Blueprint,План,,Profession,Architect,530551856F7AAA4B36BF08F4B4DB4366,Correct
+Object,Building,Здание,,Profession,Architect,77CE2F9C18B4E422CA6621F81522FA62,Correct
+Object,Sketch pad,Набросок,,Profession,Architect,D34271BD1BE799B8479199C802C05AF7,Correct
+Object,Ruler,Линейка,,Profession,Architect,224981B19C2B4768E0F806D385993DE6,Correct
+Object,Pencil,Карандаш,,Profession,Architect,EBB064AEFDC233EE782087C29C22F075,Correct
+Object,Spacesuit,Скафанд,,Profession,Astronaut,5C75DF4CDED502B030D340568206F962,Correct
+Object,Helmet,Шлем,,Profession,Astronaut,87781A6A954E8109FCF0CABAD429B6F6,Correct
+Object,Moon,Луна,,Profession,Astronaut,9CBC073208443A85F72F8CCA96C74064,Correct
+Object,Basketball hoop,Баскетбольное кольцо,,Profession,Athlete,F2025F9F587089992627E2DD0C9F53F2,Correct
+Object,Running shoes,Беговая обувь,,Profession,Athlete,55FD4B3A584F3A0938B96139AE526187,Correct
+Object,Baseball bat,Бейсбольная бита,,Profession,Athlete,5BB6896525C46287E7BDE847307BCB4E,Correct
+Object,Sports jersey,Спортивная Джерси,,Profession,Athlete,7962DC398DFE73485C9653607BD9D71E,Correct
+Background,,,,Profession,Athlete,1AB24282E69464813405A9B854637B29,Correct
+Object,Soccer ball,Футбольный мяч,,Profession,Athlete,8FDF38EE18B872125457BB3F68830154,Correct
+Background,,,,Profession,Baker,9A50E25D33B6B49B276B964F9710F45F,Correct
+Object,Bread,Хлеб,,Profession,Baker,004CEBC0ED4A70725438B27A440DC000,Correct
+Object,Oven,Печь,,Profession,Baker,77FFB98F0C3B67DAF89EBE7BC74D2224,Correct
+Object,Dough,Тесто,,Profession,Baker,5037FB2373222227A894EB9B2329F30C,Correct
+Object,Rolling Pin,Прокатный булавка,,Profession,Baker,27B26DE693EFB25D987AFF4083DBABF6,Correct
+Object,Hair Dryer,Фен,,Profession,Barber,132D6DF2AF9D2DB9A2BF8DDF3B87A746,Correct
+Object,Comb,Гребень,,Profession,Barber,34EF8CFE2E338C840B01F98A9670FBE7,Correct
+Object,Barber Chair,Стул парикмахера,,Profession,Barber,1B29994214816490E7F4C648CF62F978,Correct
+Object,Scissors,Ножницы,,Profession,Barber,9DDCA5F79CB4F2FB990DDDD2FE04C45B,Correct
+Object,Razor,Бритва,,Profession,Barber,5870156EEA0B377415FD9BDB6A08A73C,Correct
+Background,,,,Profession,Bus driver,F0D06D2D6F97F6B8373040F4BDFFAC1C,Correct
+Object,Bus,Автобус,,Profession,Bus driver,8F11BF8AA79DD6E3EAFCE26786510A40,Correct
+Object,Ticket,Билет,,Profession,Bus driver,72EC085D2EBF9E35D8355F91E43F8A3D,Correct
+Object,Seatbelt,Ремень безопасности,,Profession,Bus driver,DAE6E3D6E40A05BF8F76272B56359F40,Correct
+Object,Uniform,Униформа,,Profession,Bus driver,E63E10733783C433E25780F538C69B65,Correct
+Background,,,,Profession,Busker,78FF396DE214F8705835EB3CED21D912,Correct
+Object,Hammer,Молоток,,Profession,Carpenter,85866378A3109BEF5C2AF596D0FE29AF,Correct
+Object,Saw,Пила,,Profession,Carpenter,3590149719EC14AA200086F54F2108D8,Correct
+Object,Nails,Гвозди,,Profession,Carpenter,AE1B8AB6DB517AFA668675FE1C9DE59B,Correct
+Object,Wood,Древесина,,Profession,Carpenter,63B1ACF8180697FDE5A5DE15EE42CCAE,Correct
+Object,Screwdriver,Отвертка,,Profession,Carpenter,9B2A737004E5E2A5FB93A9D061639DB6,Correct
+Background,,,,Profession,Cartoonist,2233688E6409EBB487E991E8B981BB43,Correct
+Background,,,,Profession,Chef,8AA0FAA51D767B8BEE2645B6EA82B7E8,Correct
+Object,Chefs hat,Повара шляпа,,Profession,Chef,130BD8ED4BD3C1048F962C68CFAAA95D,Correct
+Object,Frying pan,Сковорода,,Profession,Chef,644B27E27ED4750EC21BCFA9296FCBDC,Correct
+Object,Kitchen knife,Кухонный нож,,Profession,Chef,8E9953B576424282739E000EA95385F6,Correct
+Object,Recipe book,Книга рецептов,,Profession,Chef,5EA1CA7D538A1D469D36BFF77217D972,Correct
+Object,Apron,Фартук,,Profession,Chef,415313996EB0FB1B3C44FF089849804E,Correct
+Object,Whistle,Свист,,Profession,Coach,FBD32CC69033FE11D115BB555F7AA20D,Correct
+Object,Stopwatch,Секундомер,,Profession,Coach,4060547F7D4031C74C6251807C9F74ED,Correct
+Object,Baseball Cap,Бейсбольная кепка,,Profession,Coach,DA8365075B1D59849002D4E95FEBCAA7,Correct
+Background,,,,Profession,Coach,2F38A194BB812FE721682E654D532180,Correct
+Object,Clipboard,Буфер обмена,,Profession,Coach,814E56BED5CBB84D5E39CC4373D3AC2B,Correct
+Object,Soccer Ball,Футбольный мяч,,Profession,Coach,47749D5248B2866A5260EFB4F3B528D4,Correct
+Background,,,,Profession,Comedian,3B1874665B70207F03D6BFD023178538,Correct
+Object,Ballet Shoes,Балетки,,Profession,Dancer,BA8210306D50F8896809B10EDEF0DF3F,Correct
+Object,Tutu,Папе,,Profession,Dancer,5703BE39E58254F874D917F6E8BD1D66,Correct
+Object,Leotard,Купальник,,Profession,Dancer,5818CA18283FF6D70A84DF9A22BD5990,Correct
+Background,,,,Profession,Dancer,DFB2BF5DE204A79950662CD1ED52937F,Correct
+Object,Dance Floor,Танцпол,,Profession,Dancer,B52D2DA7CB80FC28A299D20395732BF2,Correct
+Object,Toothbrush,Зубная щетка,,Profession,Dentist,6A28C9F1010391D9DA2D552FF9F11567,Correct
+Object,Toothpaste,Зубная паста,,Profession,Dentist,EE35F0731ED1AC41FDEF71CD04AEAF7D,Correct
+Object,Dental Floss,Зубная нить,,Profession,Dentist,DDDA26A1A4548FE1A011F26CB8E58E40,Correct
+Object,Mouthwash,Житель полоскания рта,,Profession,Dentist,41C2269C0FF6A978290F39B30EE4C53B,Correct
+Background,,#VALUE!,,Profession,DJ Disc Jockey,34FE89D87F1D102CDF26625D57D29134,Correct
+Object,Turntable,Проигрыватель,,Profession,DJ Disc Jockey,EEA9598FA42D9C40B5411F284B1C2CA9,Correct
+Object,Headphones,Наушники,,Profession,DJ Disc Jockey,6E36F08E15FAECD69D00F118565C2923,Correct
+Object,Microphone,Микрофон,,Profession,DJ Disc Jockey,4A97A735C260A27661EF884747DCB283,Correct
+Object,Vinyl record,Виниловая пластинка,,Profession,DJ Disc Jockey,9354EEFF02D212CE8CC5965FE50A398F,Correct
+Background,,,,Profession,Doctor,D47942ECBD56DE59D1A2B7145C74CC89,Correct
+Object,Syringe,Шприц,,Profession,Doctor,B10224DFFB64FCC2F5534745BDC0C4CE,Correct
+Object,Thermometer,Термометр,,Profession,Doctor,1CCB66BDE3C746F9F218260D319068ED,Correct
+Object,Stethoscope,Стетоскоп,,Profession,Doctor,63022634DB7CC34FFFDC27B6BC9A63E7,Correct
+Object,Medicine Bottle,Медицинская бутылка,,Profession,Doctor,E6EA4997B3C174DE35EB416343454524,Correct
+Object,Lightbulb,Лампочка,,Profession,Electrician,4B34E326403B96EE8650ABA44168BC8E,Correct
+Background,,,,Profession,Electrician,E6EA41ECF488D646DBB7004E7330B65B,Correct
+Object,Wire,Проволока,,Profession,Electrician,934EBB16C689F7C188928F7E8AC6F3C1,Correct
+Object,Circuit Breaker,Автоматический выключатель,,Profession,Electrician,D199BCAF334D04DA343EDA7FDB818E78,Correct
+Object,Screwdriver,Отвертка,,Profession,Electrician,70FADD79A192EF370CCF923E0CCAA3C9,Correct
+Background,,,,Profession,Farmer,662B80EAAC6822E6700E41A48868F49D,Correct
+Object,Tractor,Трактор,,Profession,Farmer,F9E57DDDD15B969DE73D9DB21E64E1A6,Correct
+Object,Barn,Сарай,,Profession,Farmer,AD09E8099F25E4ECCF2C1B8BA8AE4EE5,Correct
+Object,Haystack,Сетей,,Profession,Farmer,82E19CB604FD801D65FE9A1E8528B852,Correct
+Object,Scarecrow,Чучело,,Profession,Farmer,81375529DCAA78E1A28186FEDA6FB39B,Correct
+Object,Chicken coop,Курятник,,Profession,Farmer,4039DEEE997EDABB2F20CBD1C7C49876,Correct
+Background,,,,Profession,Firefighter,930DCEAD00982DEE54B525DC5361439E,Correct
+Object,Fire truck,Пожарная машина,,Profession,Firefighter,13A6E361D54589ABD59BF15A8CB5A7BC,Correct
+Object,Helmet,Шлем,,Profession,Firefighter,20431CAC5FCE0E7254AAE63CB7378004,Correct
+Object,Hose,Шланг,,Profession,Firefighter,3A2D826570E4AD7CCB9C7C45C8794FAC,Correct
+Object,Ladder,Лестница,,Profession,Firefighter,58F24E5F7B188E304DA18CF3B8AFA312,Correct
+Object,Axe,Топор,,Profession,Firefighter,F7C33AEFB24C82CC402BE54D615AADFD,Correct
+Object,Boat,Лодка,,Profession,Fisherman,6977189DA90D5DCB2C5C0E302740A6E5,Correct
+Background,,#VALUE!,,Profession,Fisherman,40816F99B984B20494211C42CD5054A4,Correct
+Object,Net,Сеть,,Profession,Fisherman,CEE6A05773CF2F94C1E1F037D116FCAE,Correct
+Background,,#VALUE!,,Profession,Gardener,29E058D9C93A55CC5DFF65B4F70499DB,Correct
+Background,,,,Profession,Geologist,05CA99DB0747EE841F5D20C0D5EECEF5,Correct
+Background,,,,Profession,Guidance counselor,34A3D48F3216555371F860735E49D1EC,Correct
+Object,Scissors,Ножницы,,Profession,Hairdresser,9DDCA5F79CB4F2FB990DDDD2FE04C45B,Correct
+Object,Comb,Гребень,,Profession,Hairdresser,6F6136D7DED9A4A1DFF423FF108BBBED,Correct
+Object,Hairdryer,Фен,,Profession,Hairdresser,236085E8E0CDEFD3C9A5C65FC0925AE8,Correct
+Object,Hairbrush,Глочка,,Profession,Hairdresser,D4E73F7039458E3FD53DF58232EC67DC,Correct
+Object,Shampoo,Шампунь,,Profession,Hairdresser,AD9F9F451AEC0B71B974BE9B3A6F6EF1,Correct
+Object,Pencil,Карандаш,,Profession,Illustrator,0A80D7F71E723F5E6696AD64FBCFC789,Correct
+Object,Drawing Paper,Рисование бумаги,,Profession,Illustrator,BEA913B5A54339E6A25B5161B3F73933,Correct
+Object,Color Palette,Цветовая палитра,,Profession,Illustrator,E83EAD50EAB8221F9EEE2883CF5C4E08,Correct
+Object,Sketchbook,Эскиз,,Profession,Illustrator,78F231A335562329871A78ACD345B24E,Correct
+Object,Paintbrush,Кисть,,Profession,Illustrator,94B3D4CCF82F9A9BE6DFC440FBDDE0CE,Correct
+Background,,,,Profession,Journalist,8A887672D551CA4AABADD1EE8E0BE176,Correct
+Object,Newspaper,Газета,,Profession,Journalist,C7FEFB6D58067A78284102226BD1A953,Correct
+Object,Microphone,Микрофон,,Profession,Journalist,AF58B280D0441EF8FE6AE1C376C82DDA,Correct
+Object,Camera,Камера,,Profession,Journalist,F8196452C38A8118EEF734895EEBDBDF,Correct
+Background,,,,Profession,Judge,AE9F3AEAFBE7BE49824305C8F57853AF,Correct
+Background,,,,Profession,Librarian,E6E1A150FE6DB4D5466E43D896BDBC55,Correct
+Object,Book,Книга,,Profession,Librarian,31E3E16F66F4CC27888B5727F9899D88,Correct
+Object,Shelf,Полка,,Profession,Librarian,238E27F08D50789CC1FDB0444E6090D1,Correct
+Object,Whistle,Свист,,Profession,Lifeguard,2205882417365B1964DAD89C04D340EE,Correct
+Object,Beach chair,лежак,,Profession,Lifeguard,FE6FDCBD6678DD5C8BB2D0DA2AE9A76A,Correct
+Background,,,,Profession,Lifeguard,FFDBE4F94025502265A0DE7FAB597A2D,Correct
+Object,Lifejacket,Спасательный жилет,,Profession,Lifeguard,4A950C7BE64CD5292E428BACE2D83D6B,Correct
+Object,Rescue tube,Спасательная трубка,,Profession,Lifeguard,9AE77F1D719CF1737BD7086D270B8909,Correct
+Object,Swimsuit,Купальник,,Profession,Lifeguard,7D1057CBD1F33A1E52EC9C1277E2F3D8,Correct
+Object,Hat,Шапка,,Profession,Magicician,7CD3A39163581E55B3821DC6E32F821F,Correct
+Background,,,,Profession,Magicician,BEE0DB26CF2040C3B58649642D223E4A,Correct
+Object,Wand,Палочка,,Profession,Magicician,8A322E3B14E39CBC5D5B4170AA7C0CFA,Correct
+Object,Rabbit,Кролик,,Profession,Magicician,0CA03D47759CDC44701B8D725BF1014A,Correct
+Object,Card,Карта,,Profession,Magicician,BF4E969269D0F14D7A463AFB9DB91F48,Correct
+Background,,,,Profession,Mail carrier,998427A76D40990D0416F3E327592505,Correct
+Object,Postcard,Открытка,,Profession,Mail carrier,2C664157BBE0195244E11A185B36AA8E,Correct
+Object,Envelope,Конверт,,Profession,Mail carrier,273AFFDEB73953FDA06923E47EE7B08F,Correct
+Object,Mailbox,Почтовый ящик,,Profession,Mail carrier,49E43B54E88F7496CC7806AB7855BD85,Correct
+Object,Screwdriver,Отвертка,,Profession,Mechanic,70FADD79A192EF370CCF923E0CCAA3C9,Correct
+Object,Wrench,Гаечный ключ,,Profession,Mechanic,4C9A69F26073968A2A257002EA6A9A03,Correct
+Background,,,,Profession,Mechanic,84CA048A5565412E7388F00AD0D98BA4,Correct
+Object,Engine,Двигатель,,Profession,Mechanic,D2DEDC8F6DFBB9DE2A43301FA9D73D56,Correct
+Object,Tire,Шина,,Profession,Mechanic,8B718419FEDE1B8AE30BEB5C7F40DBF4,Correct
+Object,Toolbox,Ящик для инструментов,,Profession,Mechanic,C9BA718718B085B244917D6505B9BF73,Correct
+Object,Microphone,Микрофон,,Profession,Musician,E9F77A5B83FE7455599F24F2C3D2EE9E,Correct
+Object,Drum set,Барабанная установка,,Profession,Musician,51BC24018D2DAF706B2C1D7DE83F86D7,Correct
+Background,,,,Profession,Musician,A2FE036F960C61D56D36067E13957509,Correct
+Object,Guitar,Гитара,,Profession,Musician,7D0A809F70C87312BD828EE652A2620E,Correct
+Object,Violin,Скрипка,,Profession,Musician,74DC8849692662D4A5BC8A797D8CD896,Correct
+Object,Thermometer,Термометр,,Profession,Nurse,CE3480C12F541A91857ED030C0B1C747,Correct
+Object,Bandage,Повязка,,Profession,Nurse,972DF223C30CB27DDEC7F4846C135BB0,Correct
+Object,Syringe,Шприц,,Profession,Nurse,41AA0CAE60731E352A2C847FC5F52A90,Correct
+Object,Medicine Bottle,Медицинская бутылка,,Profession,Nurse,D89CD2E0A242452F4D0922654F1605B2,Correct
+Object,Easel,Мольберт,,Profession,Painter,50990A130BD310A95B14275DD52981A0,Correct
+Background,,,,Profession,Painter,70FED9DD78E1361F2CD325935A3B54E1,Correct
+Object,Paintbrush,Кисть,,Profession,Painter,B195D11EFD5ACE2CB49288CCD5F56D04,Correct
+Object,Palette,Палитра,,Profession,Painter,D53525E9C75C0F5899CEACD559661CBA,Correct
+Object,Paint tube,Трубка для краски,,Profession,Painter,71F18C0D2E39528DB8D0D18F49FB0B47,Correct
+Object,Canvas,Холст,,Profession,Painter,17F1811D9A2FFFDE98D3C589EBAB0930,Correct
+Object,Flashlight,Фонарик,,Profession,Photographer,3F09124FB909D515FB13E2C30D984BE7,Correct
+Object,Camera,Камера,,Profession,Photographer,A310713B6E322DE97995471E6C31D750,Correct
+Object,Tripod,Штатив,,Profession,Photographer,ED0ED526B4B6BF69812129B973550142,Correct
+Object,Lens,Линза,,Profession,Photographer,E569BE8FE9CFE110EA884D1636372D3E,Correct
+Object,Photo album,Фотоальбом,,Profession,Photographer,95FB00A3BC82924E3500C1AE176B6303,Correct
+Object,Helmet,Шлем,,Profession,Pilot,6F3DCBC3F3A282802AE4B50D0BF25776,Correct
+Object,Flight suit,Летный костюм,,Profession,Pilot,DAE036A37BACD15098789CD818420213,Correct
+Object,Aviator sunglasses,Солнцезащитные очки авиатора,,Profession,Pilot,6805A48DB1A6F76199349D87E3EEE404,Correct
+Object,Wrench,Гаечный ключ,,Profession,Plumber,0D877A94F713A0B3E193F68A92117F00,Correct
+Object,Pipe,Трубка,,Profession,Plumber,82605A4D6E0E102CF80924602CBAB281,Correct
+Object,Toolbox,Ящик для инструментов,,Profession,Plumber,3A754938D2AF9B5A2375CAD66461DD93,Correct
+Background,,,,Profession,Plumber,4195A3577BFA47165035F3C3C5AEAD9D,Correct
+Object,Faucet,Кран,,Profession,Plumber,9EDA0543F365CEDF4E0E80C787790F85,Correct
+Object,Plunger,Поршень,,Profession,Plumber,69CA5EC9BE2469A6E3317E6C8B7D2538,Correct
+Background,,,,Profession,Police officer,C1832E5284025878E3C6D361C6BB5DF5,Correct
+Object,Police car,Полицейская машина,,Profession,Police officer,5B77F464E18BEED59F1E4AECF8253D3E,Correct
+Object,Flashlight,Фонарик,,Profession,Police officer,59D0B1CD769D1BCB521D0CF0CFF74991,Correct
+Object,Badge,Значок,,Profession,Police officer,6D292F346D41791194E3F94572F09EE6,Correct
+Object,Handcuffs,Наручники,,Profession,Police officer,BFB8D9C69B94C35264BC4F8B4597F013,Correct
+Object,Uniform,Униформа,,Profession,Police officer,E63E10733783C433E25780F538C69B65,Correct
+Background,,,,Profession,Principal,758D21E7AAD0C3EB583021975176FFE1,Correct
+Background,,,,Profession,Race car driver,5C9D8BF5FCB31CF0947AEAA48F445037,Correct
+Object,Helmet,Шлем,,Profession,Race car driver,286D4B8512575DDFC0891CC7B706306C,Correct
+Object,Race car,Гоночный автомобиль,,Profession,Race car driver,FEFDEA3EE1163478F33C66E05B44AE07,Correct
+Object,Speedometer,Спидометр,,Profession,Race car driver,9792BEBC508E7A501567D71FDDBA5187,Correct
+Object,Checkered flag,Клетчатый флаг,,Profession,Race car driver,808F4D221C9EBD6A79492621B595A242,Correct
+Object,Microscope,Микроскоп,,Profession,Scientist,EBC6DB0F88A6BDC9AC7B5D5BDD3D0DAF,Correct
+Object,Telescope,Телескоп,,Profession,Scientist,B80782BF5A93C22EB7A6D71E7B7005DC,Correct
+Object,Lab coat,Лабораторный халат,,Profession,Scientist,38499ECA0E94FE3D223B3D9C135B396E,Correct
+Object,Test tube,Пробирка,,Profession,Scientist,B3E17E94E4261546866AB83A88665841,Correct
+Object,Magnifying glass,Увеличительное стекло,,Profession,Scientist,28D59345DAC5F44731215EC3405B792E,Correct
+Background,,,,Profession,Sculptor,85BD74E4D0B11AECC25F9567CE36129F,Correct
+Object,Statue,Статуя,,Profession,Sculptor,37062FEA3F79CD6FEA1B2BEE88E6C8EF,Correct
+Object,Clay,Глина,,Profession,Sculptor,821B26CC50F6C50FFD28EEBB798948BB,Correct
+Object,Chisel,Долото,,Profession,Sculptor,567E7A86975C0F10C5BF8347DB44D933,Correct
+Object,Marble,Мрамор,,Profession,Sculptor,182AB6553184A557F5C2348B0199A655,Correct
+Object,Sculpting Stand,Скульптировать стенд,,Profession,Sculptor,7E98C7541519C4BBBFF6B8D4B2989189,Correct
+Background,,,,Profession,Security guard,E274ADB132F80AD761F9A90F4908F742,Correct
+Object,Compass,Компас,,Profession,Ship captain,D70AC948AEDC79FEBFCC883984DFDC74,Correct
+Object,Anchor,Якорь,,Profession,Ship captain,9FD52794CE857BF428872275AFD864B2,Correct
+Background,,,,Profession,Ship captain,0E8F28A8FEFE8359289EFF0E46AC3FA8,Correct
+Object,Telescope,Телескоп,,Profession,Ship captain,FAC1AC7365AEF03FCDC94B2DF9C6A310,Correct
+Object,Map,карта,,Profession,Ship captain,2854B9D80C6E680E9B934E98DE2C9C13,Correct
+Object,Microphone,Микрофон,,Profession,Singer,6032E00E6A76C232A091126A91A619D2,Correct
+Background,,,,Profession,Singer,168A1E6E2D6B73329C39F270BB8E63B5,Correct
+Object,Guitar,Гитара,,Profession,Singer,56B212027E713D80770E26F94671393F,Correct
+Object,Songbook,Песенник,,Profession,Singer,FCF59443587554B4CCA8464CF64A7E3C,Correct
+Object,Music note,Нота,,Profession,Singer,727B642A2507D72A7FCD1FC9F1831806,Correct
+Background,,,,Profession,Soldier,F0B06508D5F24F7DD8A06C3FC28101F7,Correct
+Object,Motorcycle,Мотоцикл,,Profession,Stuntman,F5D07556E3FE7FA145DC2C1BA832DCB0,Correct
+Object,Helmet,Шлем,,Profession,Stuntman,7DDF242537D4275C0E7D33FD09E066A2,Correct
+Object,Ramp,Рамп,,Profession,Stuntman,B1B9445C17CF6B2B4BB6500A1579BEDD,Correct
+Object,Fire suit,Пожарный костюм,,Profession,Stuntman,9D5418606D2E8E230B168E37D31226E5,Correct
+Object,Parachute,Парашют,,Profession,Stuntman,2975A7DF7423C49C728D13B802F158CB,Correct
+Object,Taxi cab,Такси,,Profession,Taxi driver,5182AFCD840EA186CEDC90A0D1960F73,Correct
+Object,Street map,карта улиц,,Profession,Taxi driver,1153A432C1F23B67BDD5692E015FCF19,Correct
+Object,Steering wheel,Руль,,Profession,Taxi driver,BFA72CC681D53D7B3B3D36391586348F,Correct
+Background,,,,Profession,Teacher,E0EB3820B88D48391D2B96BE34899AC2,Correct
+Object,Blackboard,Черная доска,,Profession,Teacher,DF64D6BB8BB4C272AF4D80C2F6809E9F,Correct
+Object,Chalk,Мела,,Profession,Teacher,C00217CA1CC522983C5F5BE067C86741,Correct
+Object,Textbook,Учебник,,Profession,Teacher,4C63D2C332FA4E3B3891708B7337A2F7,Correct
+Object,Ruler,Линейка,,Profession,Teacher,224981B19C2B4768E0F806D385993DE6,Correct
+Object,Syringe,Шприц,,Profession,Veterinarian,51BB7A9529D2EF2D4A8B0459CB909EA6,Correct
+Object,Stethoscope,Стетоскоп,,Profession,Veterinarian,60E6466D18BC6ED1E0E99EDB78EE8938,Correct
+Object,Dog leash,Поводка собак,,Profession,Veterinarian,CF5D167978BCABE2C915756F91F1AE2B,Correct
+Object,Tablecloth,Скатерть,,Profession,WaiterWaitress,69B47C3ECE9D60BF394805A9DFEC54CD,Correct
+Background,,,,Profession,WaiterWaitress,F008D819BCADD164BF686A9570C2B690,Correct
+Object,Menu,Меню,,Profession,WaiterWaitress,27509BA37A66F428092A59E36D3E3A91,Correct
+Object,Tray,Поднос,,Profession,WaiterWaitress,3867AAD902AF218A6690EE370F6B64B8,Correct
+Object,Napkin,Салфетка,,Profession,WaiterWaitress,AC851EC426FC72233F0AD3158D8D29C0,Correct
+Background,,,,Profession,Writer,C2AEF3707D07A851FFD56B3117B304A2,Correct
+Object,Typewriter,Печатная машинка,,Profession,Writer,9DC478A0D0AE48314E2CEFE2243D9937,Correct
+Object,Book,Книга,,Profession,Writer,33DE562E6D0FB55191D6E3B7B1A46017,Correct
+Background,,,,Profession,Yoga teacher,84CFC964AD94C68674489C09B1DA2F56,Correct
+Background,,,,Profession,Zookeeper,08B619F697E160CFC3936211E7263119,Correct
+Object,Skyscraper,Небоскреб,,Residence,city,F270D07C8C4A011CCE8FE0EDA23A72E6,Correct
+Object,Taxi,Такси,,Residence,city,09FEED23C1C93FE939EDFAD45ECA5383,Correct
+Object,Traffic light,Светофор,,Residence,city,CC0D5731B5315EE9C991A3037473C7DE,Correct
+Object,Hospital,Больница,,Residence,city,C42C459E6F32343F781845A45893A527,Correct
+Object,Fire station,Пожарная станция,,Residence,city,AB1ECA35DAC4360F66C07F820A47CF04,Correct
+Object,Skyscraper,Небоскреб,,Residence,city,694CA67C51AA17AE21875EBCA53F8398,Correct
+Object,Museum,Музей,,Residence,city,1E9B4ABA49D7451B7DE2ABBE8B66B231,Correct
+Object,Statue,Статуя,,Residence,city,430BCE3971B3A991B08AE75DFCED8BBB,Correct
+Object,Bridge,Мост,,Residence,city,C46399C245BB0FAC322C7358F80FEFBB,Correct
+Object,Fountain,Фонтан,,Residence,city,3DF01C41D57E5657F58A5B3E92868543,Correct
+Object,School,Школа,,Residence,city,DC5D7F3EFCF6FD037EA0E561EA017663,Correct
+Object,Police station,Полицейский участок,,Residence,city,FFC2B5644B4861689A3275DF635E6169,Correct
+Object,Restaurant,Ресторан,,Residence,city,6BED0E6511EA3B198993DA5777CC384F,Correct
+Object,Bakery,Пекарня,,Residence,city,77D49625C28A28951FB842C76B7E9B1C,Correct
+Object,Library,Библиотека,,Residence,city,35B52F01F86DCA61BFDE5FBAE1518908,Correct
+Object,Cinema,Кино,,Residence,city,C8ED9EAD3E1A0B048604D431B44887C4,Correct
+Object,Marketplace,Рынок,,Residence,city,396A7DA52878D05963EC4977D2CB1EEC,Correct
+Object,Skate park,Скейт-парк,,Residence,city,811519FEFE7CA54AE7C400F563D51125,Correct
+Object,Playground,Детская площадка,,Residence,city,D9AD479E88E0AE981ABE8AB134CBB983,Correct
+Object,Shopping mall,Супермаркет,,Residence,city,7D3D51924A600A9700526FA3405CF810,Correct
+Object,Street vendor,уличный торговец,,Residence,city,67ECE6827246DB5E1BA17A8D39FB2969,Correct
+Object,Amusement park,Парк с аттракционами,,Residence,city,565FC85CC168C811EB671FF899BC9951,Correct
+Object,Street sign,дорожный знак,,Residence,city,F7690EB04C0FCB8CF1CDDB848B469F06,Correct
+Object,Bus,Автобус,,Residence,city,8F11BF8AA79DD6E3EAFCE26786510A40,Correct
+Object,Sheep,Овца,,Residence,farm,FC3E5D8A9B54A4060DD4B38AE2045209,Correct
+Object,Pig,Свинья,,Residence,farm,D3064F9CAB9A78A7A84345C342255CDE,Correct
+Object,Farmhouse,Фермерский дом,,Residence,farm,C9AF9CA0C9993A387AD6316FE13CC661,Correct
+Object,Windmill,Ветряная мельница,,Residence,farm,F7F17AED2984BBCDAC1167F814EB5290,Correct
+Object,Farm dog,Фермерская собака,,Residence,farm,21FEC2452CF602012AC5012893CA40BF,Correct
+Object,Rooster,Петух,,Residence,farm,31C0950CB3CB24565D91964B89B73896,Correct
+Object,Tractor,Трактор,,Residence,farm,6EDDB1A69F2CBE490BE715312A64A1E3,Correct
+Object,Barn,Сарай,,Residence,farm,49E2028543BB991CC1764587E0C600C4,Correct
+Object,Tractor,Трактор,,Residence,farm,B8C72DCF9F03CFDEA6481EB9DDBE8CF7,Correct
+Object,Haystack,Сетей,,Residence,farm,4152093D09FAC41A1FD7F9ADF380CC9D,Correct
+Object,Chicken,Курица,,Residence,farm,A888E14F365C1786D4C90BCB980E3A13,Correct
+Object,Duck,Утка,,Residence,farm,59028C5E4375BE684BF09FEFF3A01AE3,Correct
+Object,Goat,Козел,,Residence,farm,0C1F4E06A8A7C1DEEF13B88AEE85CCD2,Correct
+Object,Fence,Изгородь,,Residence,farm,CC806F9DF42AE37FC36FA0B168DCA5EE,Correct
+Object,Plow,Плуг,,Residence,farm,F41835D02CAF122D0EECDC8CBAF7C251,Correct
+Object,Field,Поле,,Residence,farm,5E1C0A2EB6AA4F856F6B0CB66F380B7B,Correct
+Object,Scarecrow,Чучело,,Residence,farm,1ED8A477247C51116B4AAD5A8756E94E,Correct
+Object,Wheat,Пшеница,,Residence,farm,1DCA7A86F2AA1A40A3DE88A14415B496,Correct
+Object,Apple tree,яблоня,,Residence,farm,A966B3276F3C58E66B3EF9D2FEDF4EC0,Correct
+Object,Pumpkin,Тыква,,Residence,farm,F59DA966E9D29810E892EC356FC5A9AE,Correct
+Object,Milk bucket,Ведро с молоком,,Residence,farm,077AABCBB203F0600B4A0598426069D8,Correct
+Object,Egg,Яйцо,,Residence,farm,3321B4E2A3C47A41797A64DEA657F3EF,Correct
+Object,Rabbit hutch,Кроличья клетка,,Residence,farm,6F04F6606426E4D89161613477F7B8C0,Correct
+Object,Wheelbarrow,Тачка,,Residence,farm,8B9210F675E9A9D07D25AB6F266B6BF1,Correct
+Object,Beehive,Улей,,Residence,farm,23441C86E86D4AE2D4A3EBC2822106A0,Correct
+Object,Horse,Лошадь,,Residence,farm,0198AC641AF1084F65D152B03C391FA1,Correct
+Object,Toothpaste,Зубная паста,,Room,Bathroom,8D985D935170C2F43D95FBD50738E7BE,Correct
+Object,Soap,Мыло,,Room,Bathroom,2660FCE859F89B2BC5FE2B937E3E3E68,Correct
+Object,Cotton swabs,Ватные палочки,,Room,Bathroom,5CBBCA78A7801217DF4C0A498DE5A208,Correct
+Object,Floss,Нити,,Room,Bathroom,893074D2148EF360A50FB70FA33A353D,Correct
+Object,Faucet,Кран,,Room,Bathroom,1C8041E2E4F428FBC62BEF0D47D97D71,Correct
+Object,Rubber duckie,Резиновая утка,,Room,Bathroom,1C3717D4764B53CDE37F57CCA1FDC09B,Correct
+Background,,,,Room,Bathroom,CAACAF91D7A75DC29F788063A6DAB72F,Correct
+Background,,,,Room,Bathroom,BEE3D7B9C02227C3E8C260F636D84CD9,Correct
+Background,,,,Room,Bathroom,B18236A425D4401BB6D1BD502D8FEC92,Correct
+Background,,,,Room,Bathroom,9B7D846C1363D1D8202F715FE5E29BA0,Correct
+Background,,,,Room,Bathroom,79C87A7DE333E24FB77599265A044A8D,Correct
+Object,Sink,Раковина,,Room,Bathroom,390473C1D9766ACC11C2785CF6DBA20D,Correct
+Background,,,,Room,Bathroom,429DE7B8F2D1384EB581D3072B38B9CC,Correct
+Object,Toothbrush,Зубная щетка,,Room,Bathroom,A70B5CA62F670237ECD829FFED3EB1E8,Correct
+Object,Bathtub,Ванна,,Room,Bathroom,B8E861E1B7DDD10B8D57C644E9CDA40F,Correct
+Object,Toilet,Туалет,,Room,Bathroom,EDED5DF28BAFA5192926BFF30A7B62B1,Correct
+Object,Sink,Раковина,,Room,Bathroom,74AA33633549D2D41EB2A78478ADDACC,Correct
+Object,Towel,Полотенце,,Room,Bathroom,863AD90ADD9258CD9D74426B68835C10,Correct
+Object,Mirror,Зеркало,,Room,Bathroom,7F42A0DB56C353981130FA2F9AC64E6A,Correct
+Object,Shampoo,Шампунь,,Room,Bathroom,AD9F9F451AEC0B71B974BE9B3A6F6EF1,Correct
+Object,Toilet paper,Туалетная бумага,,Room,Bathroom,0C95933C3A5ED2C4840FF79885B79E58,Correct
+Object,Razor,Бритва,,Room,Bathroom,5870156EEA0B377415FD9BDB6A08A73C,Correct
+Object,Shower cap,Шапочка для душа,,Room,Bathroom,6F76ADFBA436838E287622B7E2AB7F38,Correct
+Object,Toothbrush,Зубная щетка,,Room,Bathroom,A5203B56D70B9655FD6E476572FA12AC,Correct
+Object,Faucet,Кран,,Room,Bathroom,3C078EEFF94A329F0EA397846D989CE0,Correct
+Object,Toothbrush,Зубная щетка,,Room,Bathroom,45DCC2D6EC98FAE2F8DFC0D8CE5AB4E7,Correct
+Object,Sink,Раковина,,Room,Bathroom,B16BDEEFF0A535E1B5A6F7ED0B7C0542,Correct
+Object,Teddy Bear,Плюшевый мишка,,Room,Bedroom,CDAFF0CED9B144F6FB57CB26058C294A,Correct
+Object,Bed,Кровать,,Room,Bedroom,49C9F1573FC797C4ABFEEB664352218B,Correct
+Object,Alarm clock,Будильник,,Room,Bedroom,909A0899DD643813EC97F857E1DA6741,Correct
+Object,Slippers,Домашние тапочки,,Room,Bedroom,B10E6ADEEBE0B8D34DEEEBDED3D9EDA5,Correct
+Object,Picture frame,Фоторамка,,Room,Bedroom,95F5A06DD721D9758E2BD2A749357A0F,Correct
+Object,Teddy bear,плюшевый мишка,,Room,Bedroom,35ACF26793F4916F553A97FB297DB858,Correct
+Object,Chair,Стул,,Room,Bedroom,782E58A7F2F48D4AA777CB91E8E6A498,Correct
+Background,,,,Room,Bedroom,242376D684127B4D2E4947599B2ED726,Correct
+Background,,,,Room,Bedroom,9507D164BBA3D514FF32A8E052FD6499,Correct
+Background,,,,Room,Bedroom,5E5E3FB806BF182DB2EFC10B1CCC3786,Correct
+Background,,,,Room,Bedroom,E04D3B47554C973822E4C2CC7AC34D43,Correct
+Background,,,,Room,Bedroom,EBCA5DDFAA0EBD963555093C1BEEDA8C,Correct
+Object,Pillow,Подушка,,Room,Bedroom,6DBCD85592F96F43B0D6F63840871B69,Correct
+Object,Blanket,Одеяло,,Room,Bedroom,1928609EBD506CB9487922B747B1AE60,Correct
+Object,Wardrobe,Гардероб,,Room,Bedroom,A1B12B24556A6EE32B7D76AF97AFD5C3,Correct
+Object,Pillow,Подушка,,Room,Bedroom,2AF6DB13EDCB2471C3A5DE3D5B0BBA30,Correct
+Object,Blanket,Одеяло,,Room,Bedroom,9C9BCDAB2BE7DEB467145FDB879C15C2,Correct
+Object,Lamp,Лампа,,Room,Bedroom,F4DBF1F54F0D2C162973448B835748AA,Correct
+Object,Dresser,Комод,,Room,Bedroom,B63AEF763857CA5E2C03DA08FC918AEE,Correct
+Object,Closet,Шкаф,,Room,Bedroom,901E8F5EDB4480DF6F8D2354569C4893,Correct
+Object,Toy box,Ящик для игрушек,,Room,Bedroom,4C5BFB95E3FEB62141B0A576720B874D,Correct
+Object,Wardrobe,Гардероб,,Room,Bedroom,3C587A27A6D7C14F3298CD57C27EC989,Correct
+Object,Pillow,Подушка,,Room,Bedroom,96B4BA5BE08635E32B98E0DD397E836A,Correct
+Object,Refrigerator,Холодильник,,Room,Kitchen,7FC0E0F5AB1A8F3F7AB50394F8E77C32,Correct
+Object,Fork,Вилка,,Room,Kitchen,5536F1902F4E8E1E228A78898DDE2D11,Correct
+Object,Knife,Нож,,Room,Kitchen,B35D69A9280B7DCD2EE6C758036BEA22,Correct
+Object,Bowl,Чаша,,Room,Kitchen,34C1CE2FF5F512FF9B987918EA01370B,Correct
+Object,Cup,Чашка,,Room,Kitchen,14CE48A9B90F4448DE7BB7F48BEF3E34,Correct
+Object,Refrigerator,Холодильник,,Room,Kitchen,1BD84228384FD39BC119ED60CC7726E4,Correct
+Object,Measuring cup,Измерительная чашка,,Room,Kitchen,4C38BF4E7D56BB27951FBBBA22984948,Correct
+Background,,,,Room,Kitchen,172820E97366D24D4D708692E02631CC,Correct
+Background,,,,Room,Kitchen,ED838E2CE863841805C6B54C1D019D26,Correct
+Background,,,,Room,Kitchen,17C3372404AE2A08BCF8BE0DDC857B3F,Correct
+Background,,,,Room,Kitchen,26AECF28930FCB198630FFC22B1641A8,Correct
+Object,Tea kettle,Чайник,,Room,Kitchen,E16599D7850723AF23DF88244DE0073A,Correct
+Background,,#VALUE!,,Room,Kitchen,604754F836F9BB90C100643FDB52931F,Correct
+Background,,#VALUE!,,Room,Kitchen,681728DE01252EFAFDEC21DC367F8826,Correct
+Object,Spoon,Ложка,,Room,Kitchen,996D8807816649E79CC89C63F97E446F,Correct
+Object,Plate,Тарелка,,Room,Kitchen,900D873A89878C264106543A7196F87A,Correct
+Object,Mug,Кружка,,Room,Kitchen,663BA4FECCF0CCF67CE04B0B4DF6A75D,Correct
+Object,Pan,Кастрюля,,Room,Kitchen,350B9EF4F36197DC03463E03EA47778E,Correct
+Object,Oven,Печь,,Room,Kitchen,9CFAC4220B63FDC3612989F4DB496333,Correct
+Object,Toaster,Тостер,,Room,Kitchen,063AB5CA7D78E21196CE0B5AA272F9C6,Correct
+Object,Microwave,Микроволновая печь,,Room,Kitchen,A609F5BA45F8F8807A3F959F5A71DCBF,Correct
+Object,Dishwasher,Посудомоечная машина,,Room,Kitchen,D234BE4E9747D54149D16D70D92A2694,Correct
+Object,Cutting board,Разделочная доска,,Room,Kitchen,BE0189DB18A6AFC32007273F2ADDA2E4,Correct
+Object,Cookie cutter,Печенье,,Room,Kitchen,8EA55E6AF7CBF7CC0E5BD39E28118D1D,Correct
+Object,Tea kettle,Чайник,,Room,Kitchen,EEC72B98194FB6046CE610CACAAA4AA9,Correct
+Object,Stove,Печь,,Room,Kitchen,51342072DEECAE8021BFDB8DDDA1F06D,Correct
+Object,Blender,Блендер,,Room,Kitchen,F3A4B64DF81E4FDFC82CD716CB93B517,Correct
+Object,Chefs hat,Повара шляпа,,Room,Kitchen,16739C4C22F31CBD486B91616FFC1C1F,Correct
+Object,Tea kettle,Чайник,,Room,Kitchen,DE2457129D073D80A9374F95D3CE4945,Correct
+Object,Fruit basket,Корзина фруктов,,Room,Kitchen,3006AC2ED6A5345665B8ED00980F7343,Correct
+Object,Leaf,Лист,,Season,autumn,DCF69B0677CB42A7CB9E72C7FF89C2C3,Correct
+Object,Acorn,Желудь,,Season,autumn,B5682F01859C26ACB74C43C405773D64,Correct
+Object,Apple,Яблоко,,Season,autumn,E5242A4F3965B8E46D4637F6771E7D7E,Correct
+Object,Sweater,Свитер,,Season,autumn,A9D26E67789D1CE03D896883BB485B0C,Correct
+Object,Bonfire,Костер,,Season,autumn,55C8CAF6BA4A51BB25579D57899D9619,Correct
+Object,Pumpkin,Тыква,,Season,autumn,3933B1283B0D7FF7CA735637B7E7733B,Correct
+Object,Haystack,Сетей,,Season,autumn,900E9FEA460473C37F5FEBFAF9704101,Correct
+Object,Mushroom,Гриб,,Season,autumn,CB58C412B0A05D8E6DAD3E35DE6E5070,Correct
+Object,Rake,Грабли,,Season,autumn,6524D3569E7634318BBB4125DE4F0844,Correct
+Object,Maple Tree,Клен,,Season,autumn,9A18B72C4662C1EC06262CD1CEDCB4A3,Correct
+Object,Halloween Costume,Костюм на Хэллоуин,,Season,autumn,1A49A577A656EB3A2FDA51F7E29C4815,Correct
+Object,Bunny,Кролик,,Season,spring,816339EA81EF6797E5263AAF1D5BB0F3,Correct
+Object,Kite,Летающий змей,,Season,spring,CB1175D948704D6D53D3B04401055F2E,Correct
+Object,Frog,Лягушка,,Season,spring,31FD6655CA8974F9B71C2946D9F89824,Correct
+Object,Rain boot,Дождь,,Season,spring,99AA8F2BD6652DB471765179C4C1863E,Correct
+Object,Bird,Птица,,Season,spring,DE87A31F4E3528AD103B96AD72272254,Correct
+Object,Tulip,Тюльпан,,Season,spring,C9553E3EDB9E6FE640ED8882CE2C3747,Correct
+Object,Flower,Цветок,,Season,spring,81B5E807BE6D9319AB791BBF65126F36,Correct
+Object,Butterfly,Бабочка,,Season,spring,C435F680E400EDA8BF7F95C0CC9ADDB3,Correct
+Object,Ladybug,Божья коровка,,Season,spring,1A20EB74ED43854139B71D95F2D9B1D6,Correct
+Object,Umbrella,Зонтик,,Season,spring,7D6AF8AD987B57DAB98F357BCDBFC946,Correct
+Object,Grass,Трава,,Season,spring,88899EF1F445A35F193020EE1337533A,Correct
+Object,Bee,Пчела,,Season,spring,EF1C18F308AA3E7FB6E575B7C9DFD00C,Correct
+Object,Rainbow,Радуга,,Season,spring,F1BA4AECE2C24656F168673A4F89B95C,Correct
+Object,Easter egg,Пасхальное яйцо,,Season,spring,4B233F7B772F7F088609DB0F866D34BA,Correct
+Object,Bathing Suit,Купальный костюм,,Season,summer,5FC11B7E9703EDD13A22A7DFF93A641D,Correct
+Object,Beach Ball,Пляжный мяч,,Season,summer,EC8B9EE0DD7B9074397F62BE14F559F8,Correct
+Object,Sundress,Сарафан,,Season,summer,28EA79CED9749134490B0F972B2C4C5C,Correct
+Object,Sandals,Сандалии,,Season,summer,083DB72DAA9702695FB575A6FD82A50E,Correct
+Object,Bicycle,Велосипед,,Season,summer,327184BBB0155E368BA66E8741AD256A,Correct
+Object,Ice Cream,Мороженое,,Season,summer,2AF6E3B5D64A43C78C28865E96DEDB24,Correct
+Object,Sunblock,Солнечный крем,,Season,summer,C4497606749182AA6280F1876A556B40,Correct
+Object,Swimming Pool,Бассейн,,Season,summer,E3BABBDB25627564F090A4C03DDF7214,Correct
+Object,Flip Flops,Шлепки,,Season,summer,9743538E381A4C7D6966A812640D754B,Correct
+Object,Baseball Cap,Бейсбольная кепка,,Season,summer,9269BE992706FD0FF1BFAE5B9A413E6D,Correct
+Object,Seashell,Морская ракушка,,Season,summer,41E08444DF6EBDFCC995847A3CBB75AE,Correct
+Object,Popsicle,Эскимо,,Season,summer,276BAE113FF43522F6D17A55CC95B9BD,Correct
+Object,Surfboard,Доска для серфинга,,Season,summer,8A670BEA68F14D17539CAA730723D620,Correct
+Object,Sunflower,Подсолнух,,Season,summer,A3DA647DC81766E45E04BDE43569EC0B,Correct
+Object,Firefly,Светляк,,Season,summer,EA45CE06F11E50D2A8C9FF39BD662DD9,Correct
+Object,Hot Dog,Хот-дог,,Season,summer,EA3AD05859B753DDF0CF5B79295FE694,Correct
+Object,Fireworks,Фейерверк,,Season,summer,6F098649D83E3639FC81CC1FA8037306,Correct
+Object,Palm Tree,Пальма,,Season,summer,CAF3CC7E63C8BFC5DBB682D83A4298FB,Correct
+Object,Sunglasses,Солнечные очки,,Season,summer,EA2E8DA8E37EA2570D6B46B76C1C7356,Correct
+Object,Lemonade,Лимонад,,Season,summer,663D6B850CDC4FE23DB1593AFBDE137E,Correct
+Object,Beach,Пляж,,Season,summer,3FB00FA5592D08CFEB5DED35078F23FF,Correct
+Object,Sandcastle,замок из песка,,Season,summer,8E17DABAE947CC5B5468DACBF6839934,Correct
+Object,Snowflake,Снежинка,,Season,winter,C4CA8EEB8103E5B3141D87781670A402,Correct
+Object,Snowman,Снеговик,,Season,winter,DE2A424F8670F30FA978FBD071880F36,Correct
+Object,Ice Skates,Коньки,,Season,winter,70B572727B214BD2D78D1E004555E4C7,Correct
+Object,Fireplace,Камин,,Season,winter,7F7FAC794A789796BD46B5608D6CDCB6,Correct
+Object,Christmas Tree,Рождественская елка,,Season,winter,107FCC8F69D5855C083361BA21BF8A13,Correct
+Object,Sweater,Свитер,,Season,winter,80C0C29F46F40B2E18DD7DA9A2446D8B,Correct
+Object,Penguin,Пингвин,,Season,winter,435241753C34B3855B569BE0F68BAD8A,Correct
+Object,Polar Bear,Полярный медведь,,Season,winter,66759C8F4E6DCF5B28D97C3938A56C47,Correct
+Object,Igloo,Иглу,,Season,winter,9AA3F2BDBE495AA37CE742AE94BAC132,Correct
+Object,Woolen Socks,Шерстяные носки,,Season,winter,88CCD3CB2F3A917686C510FE4382E12E,Correct
+Object,Scarf,Шарф,,Season,winter,75E13B5C18E7F4C097ABDF71CD2D894C,Correct
+Object,Mittens,Рукавицы,,Season,winter,B00F2F3815CC0D83BB8FE60551F09045,Correct
+Object,Hot Chocolate,Горячий шоколад,,Season,winter,04CF6B2E723D0DD6557FD3A25169E37C,Correct
+Object,Boots,Сапоги,,Season,winter,FBD25FF3250E92A4EA03E3B5E20D699D,Correct
+Object,Coat,Пальто,,Season,winter,B07B9EBFB1DDE378201AA7B3095E02D8,Correct
+Object,Icicle,Сосулька,,Season,winter,DF495B6131E46278163EF2EF0467C8CF,Correct
+Object,Sled,Сани,,Season,winter,F708B28B9FC6E82BC0A2A1F6D3CEAB5F,Correct
+Object,Hat,Шапка,,Season,winter,BA3F9B0A2AA758BB059FC17AAE63327F,Correct
+Object,Snowball,Снежный шар,,Season,winter,9ECCC8709A3C9174949D3ADD427B5326,Correct
+Object,Winter Jacket,Зимняя куртка,,Season,winter,009AC4D98BDE02184FECA99E939FAD9E,Correct
+Object,Balloon,Баллон,,Shape,round,E18627EB8A8AC75D0A2477E7D61FF9BD,Correct
+Object,Doughnut,Пончик,,Shape,round,62C8B40980EED3FC122FB835A3CD5215,Correct
+Object,Egg,Яйцо,,Shape,round,9974DAFA44E1528641A01B055F78A36B,Correct
+Object,Bicycle tire,Велосипедная шина,,Shape,round,34D4882F5B7B6D97D04372FC1BEF2736,Correct
+Object,Sunflower,Подсолнух,,Shape,round,C9DA591CC60459818DC88374BAE0F70F,Correct
+Object,Compass,Компас,,Shape,round,1E6A8B15F34F6007B72F6BB59B89BB27,Correct
+Object,Bowling ball,Шар для боулинга,,Shape,round,62B546D26D43F703E6EA2F302FB88EF2,Correct
+Object,Ball,Мяч,,Shape,round,F93AF7231BADB974F23EEB7A7ECB707B,Correct
+Object,Orange,Апельсин,,Shape,round,36B5646F9E66BF6D5C4E471E5C833AAD,Correct
+Object,Pizza,Пицца,,Shape,round,6BFD80ADD0FF09E0481B2BB5DF7BFCD8,Correct
+Object,Coin,Монета,,Shape,round,43B3DBB0763BD7466FD2AD2A2FF6B284,Correct
+Object,Moon,Луна,,Shape,round,9CBC073208443A85F72F8CCA96C74064,Correct
+Object,Clock,Часы,,Shape,round,95F3BEB62F1A54ECDB35C9FCA789AC5E,Correct
+Object,Wheel,Колесо,,Shape,round,0F0132D1809EF420FDADB19C07257A42,Correct
+Object,Globe,Глобус,,Shape,round,F66F6AE648FC32CC84274B04352AAE76,Correct
+Object,Sun,Солнце,,Shape,round,C5825A1DD240FDC02B8A2FAD3CC6C36A,Correct
+Object,Button,Кнопка,,Shape,round,445A446286DAC0C9F7C45FA35E9CA484,Correct
+Object,Bubble,Пузырь,,Shape,round,0C3B8013F1BC08B2ED0F5340A70A71C7,Correct
+Object,Lollipop,Леденец,,Shape,round,0EEFF4776F971E96DCB8BCC56C53F59A,Correct
+Object,Pancake,Блин,,Shape,round,1B2C1048D550C845B8C8D401846DD932,Correct
+Object,Plate,Тарелка,,Shape,round,6CFE7D21D48938938E59B955B05B2A0C,Correct
+Object,Tambourine,Бубен,,Shape,round,AC1B59316EAD5A6431EFBFAC8B022A9B,Correct
+Object,Frisbee,Фрисби,,Shape,round,C10C6398D7B44C72B7D8F1FFFF5BD94E,Correct
+Object,Wristwatch,Наручные часы,,Shape,round,970F5F969595F68B5BB8797CB71AB28F,Correct
+Object,Box,Коробка,,Shape,square,BC98965C593F8550387EB15754D4ADDA,Correct
+Object,Picture frame,Фоторамка,,Shape,square,D1DAEED93A902F9A77388467B2081B97,Correct
+Object,Chocolate bar,Плитка шоколада,,Shape,square,52C4663079E8F98B3626BD027E1BF9CB,Correct
+Object,Lego brick,LEGO BRICK,,Shape,square,BBD5510FC0EAB796F888BCE369FABE2E,Correct
+Object,Notepad,Блокнот,,Shape,square,4AB402FD983431FBA9ABCA42750DF2EF,Correct
+Object,Book,Книга,,Shape,square,E1EB83AE0F41D2A745BC04EC6AAD4F8C,Correct
+Object,Table,Стол,,Shape,square,2B92BF150ACB7A274193D6630E475BFF,Correct
+Object,Window,Окно,,Shape,square,550E447E47D56D088F6E91B9A659C6D2,Correct
+Object,Door,Дверь,,Shape,square,125904AE0551552ACA5734AB7F94E05A,Correct
+Object,Cushion,Подушка,,Shape,square,C8C0A4389E2A660C4D823A3F7156677E,Correct
+Object,Tile,Плитка,,Shape,square,94062F2EB78BFE05A0BA8281823F3EAD,Correct
+Object,Chalkboard,Классная доска,,Shape,square,282A9A7FA7F01975012168747DAEFBCB,Correct
+Object,Computer screen,Экран компьютера,,Shape,square,22C0EE7FEE4FBA55E24261A085225A68,Correct
+Object,Playing card,Игральная карта,,Shape,square,5F9D40B7FA164C1CFF942A44F056D437,Correct
+Object,Napkin,Салфетка,,Shape,square,AC851EC426FC72233F0AD3158D8D29C0,Correct
+Object,Sandwich cut in squares,Сэндвич на квадратах,,Shape,square,8832738F86B44B4AC26DA00EB548FFD8,Correct
+Object,Pizza box,Пицца коробка,,Shape,square,20504F47CBCB7358D1EA05BEFF11AB49,Correct
+Object,Rug,Коврик,,Shape,square,D3C280B808DBA6FF0FB8A5985F24210E,Correct
+Object,Pigeon,Голубь,,WildLife,bird,E79B2829CC203B9D53D02F8F109AE316,Correct
+Object,Penguin,Пингвин,,WildLife,bird,F4CD09C2F08B7897A624EF59249076AB,Correct
+Object,Peacock,Павлин,,WildLife,bird,3341CFF1DABEF06D4551082C29678EC1,Correct
+Object,Duck,Утка,,WildLife,bird,FE32E42FA46D6A4C886528D5EC36B6BA,Correct
+Object,Owl,Сова,,WildLife,bird,E8F21BC33B917353CA5AA7C513E18CFC,Correct
+Object,Hummingbird,Колибри,,WildLife,bird,473A0E3F6A9CC915CF82BDD4DCFEB851,Correct
+Object,Goose,Гусь,,WildLife,bird,DB0143D21449BBA6A4A160CC667B819F,Correct
+Object,Chicken,Курица,,WildLife,bird,63F225C295410C9FF45AD9E7B0DC19B5,Correct
+Object,Pelican,Пеликан,,WildLife,bird,80D7B89D6AA7B747BCB9792459E38ECF,Correct
+Object,Stork,Аист,,WildLife,bird,340B19D87CF55A2BFAE55B5F82B3087F,Correct
+Object,Swan,Лебедь,,WildLife,bird,7DD1DCDDF0B250C20D2D8FE081D05145,Correct
+Object,Eagle,Орел,,WildLife,bird,295845C7E7C81765EABDC80B956E06C1,Correct
+Object,Seagull,Чайка,,WildLife,bird,6878D3771C811BE25FEE67A87363432C,Correct
+Object,Turkey,Турция,,WildLife,bird,C03CB7B12DD19114E114AF037C2CA1D1,Correct
+Object,Kingfisher,Зимородок,,WildLife,bird,2747DA66092BCCE90972F4534AF2A1AE,Correct
+Object,Sparrow,Воробей,,WildLife,bird,A1D4BF858182427688EEF28D24B17B02,Correct
+Object,Kiwi,киви,,WildLife,bird,095A98D502BA642FD377928194FDECF0,Correct
+Object,Canary,Канарейка,,WildLife,bird,43D9151FF9842F802F2FF949B77CB42D,Correct
+Object,Robin,Робин,,WildLife,bird,65ACBD9E7CEE1CEA863F574D7A37A983,Correct
+Object,Woodpecker,Дятел,,WildLife,bird,AA56A9C8A35B4241A4159392DCE49E63,Correct
+Object,Ostrich,Страус,,WildLife,bird,8AB1070FD4A17E2319399AB049EC5BBC,Correct
+Object,Crow,Ворона,,WildLife,bird,8F5990876BE1D2655D22E82FAE65B6D0,Correct
+Object,Falcon,Сокол,,WildLife,bird,B11F449344E764ADA634D5267C8346EF,Correct
+Object,Clownfish,Клоуна,,WildLife,fish,54D03B536A61A3212A4F93C0D6AB15B2,Correct
+Object,Goldfish,Золотая рыбка,,WildLife,fish,96782427595961CB7F90A0B09FDBD799,Correct
+Object,Pufferfish,Рыба фугу,,WildLife,fish,0B7C7C24F2FA535BBCEC76A57F1EF22F,Correct
+Object,Shark,Акула,,WildLife,fish,9330B290A739702E6C0A94C0AF3BEF57,Correct
+Object,Nemo a species of clownfish,Немо вида клоунской рыбы,,WildLife,fish,7F6644075360FF3058E68A49A49AF076,Correct
+Object,Dory a type of surgeonfish,Дори тип хирурга,,WildLife,fish,198BD3AFF10AC544EE0E73F2FE424884,Correct
+Object,Starfish,Звезда,,WildLife,fish,0C3E12B0FDA030CAD326479E3ADA7852,Correct
+Object,Salmon,Лосось,,WildLife,fish,D8D0E09F8514677BEEC290F98203CC3A,Correct
+Object,Trout,Форель,,WildLife,fish,2A0FE010A11E3C0218CB69906E60F381,Correct
+Object,Barracuda,Барракуда,,WildLife,fish,9BA293F99D5E2F57E4107830154E4B43,Correct
+Object,Eel,Угорь,,WildLife,fish,2602408BF62355D60FCAEEF07BEFD147,Correct
+Object,Koi fish,Koi Fish,,WildLife,fish,5B13FCCCB0A4C3ECAE1EE5AB39FEA429,Correct
+Object,Catfish,Сом,,WildLife,fish,393E56E5B47CB4A0335CA9F4BD98FBFC,Correct
+Object,Piranha,Пиранья,,WildLife,fish,9ACA744A2D456812B5EF8F450F7F5CE7,Correct
+Object,Flounder,Камбала,,WildLife,fish,FD43CE32B07D3D5506189819E5E045CE,Correct
+Object,Marlin,Марлин,,WildLife,fish,00C5B679C924AA30BFCE465F94C870F0,Correct
+Object,Carp,Карп,,WildLife,fish,195BB0B74185A937BDD14B29C001F846,Correct
+Object,Mackerel,Скумбрия,,WildLife,fish,75082200B9B127F50E1B23DEAA87D140,Correct
+Object,Halibut,Палтус,,WildLife,fish,61FACF8001AAE1E84A34C861D2AD9F10,Correct
+Object,Flying Fish,Летучая рыба,,WildLife,fish,34806568F75F0A2BF7BD32A1D2E199DF,Correct
+Object,Sardine,Сардина,,WildLife,fish,C1135E8D670B7E02E4AB89E3B629ADA6,Correct
+Object,Stingray,морской скат,,WildLife,fish,7DDF7ED0D83D297D97BBDE3E1556A58C,Correct
+Object,Tuna,Тунец,,WildLife,fish,28653757AE6E01A43B1141D374F53714,Correct
+Object,Seahorse,Морской конь,,WildLife,fish,5AEAA8F9D5A70696744B1312A8EAB3D6,Correct
+Object,Tiger,Тигр,,WildLife,land animal,5614E1230E205D276DD98FA50DBB005A,Correct
+Object,Giraffe,Жирафа,,WildLife,land animal,A4A7B9F8FC4DCB320EBE6F059CC36BF5,Correct
+Object,Raccoon,Енот,,WildLife,land animal,37C8C3C472A57E83179D994D72F74417,Correct
+Object,Hippopotamus,Бегемот,,WildLife,land animal,71BFCE6D5032AC3769DAD648D78E069E,Correct
+Object,Cheetah,Гепарда,,WildLife,land animal,D39561F19A55242A80B023AA67F32199,Correct
+Object,Panda,Панда,,WildLife,land animal,959359285BEA27F38B51F315E3B55E43,Correct
+Object,Beaver,Бобр,,WildLife,land animal,1428C30CB32E1E3EA5AD8A083F51EEF3,Correct
+Object,Skunk,Скунс,,WildLife,land animal,D662F0BF0EE7496476540354F6AE5EF1,Correct
+Object,Rat,Крыса,,WildLife,land animal,A3A64749309F2DA37EB7A20D4B17BFE8,Correct
+Object,Mole,Крот,,WildLife,land animal,2466BEB6E0AC9BC957588083DC75E599,Correct
+Object,Kangaroo,Кенгуру,,WildLife,land animal,6632F4DBAB24F728D6C56D24D81AAEFF,Correct
+Object,Elephant,Слон,,WildLife,land animal,E6BB8F536238A4CC49B83D5C50897A52,Correct
+Object,Bear,Медведь,,WildLife,land animal,B12D07B715FC73C0F762F485E7616482,Correct
+Object,Zebra,Зебра,,WildLife,land animal,FEC8A510631E80E743B907BAE71FFEE1,Correct
+Object,Rabbit,Кролик,,WildLife,land animal,B81F29275477571DD00968CF6320753A,Correct
+Object,Deer,Олень,,WildLife,land animal,160365A303F4DCF9E2FAA44691FEAA5A,Correct
+Object,Squirrel,Белка,,WildLife,land animal,FF380F22A5EE1F9BE66226B88FE77BAD,Correct
+Object,Koala,Коала,,WildLife,land animal,BB82AA51362F81191921A3C8F08625C2,Correct
+Object,Wolf,Волк,,WildLife,land animal,C4D9D510AA9B86F7D444F7B880DD1705,Correct
+Object,Monkey,Обезьяна,,WildLife,land animal,F0AF3107F6DC01878040F9E9A16093AD,Correct
+Object,Gorilla,Горилла,,WildLife,land animal,AD85FBBD61738822B9C20DAF3EDABFE9,Correct
+Object,Hedgehog,Ежик,,WildLife,land animal,45F6CCE12B3A54170394B826F3D07D36,Correct
+Object,Badger,Барсук,,WildLife,land animal,90DD57D6D71A49A192A15D9149B36310,Correct
+Object,Chimpanzee,Шимпанзе,,WildLife,land animal,B5C7914505AFCA5FDEEB0AB8C0DC5428,Correct
+Object,Otter,Выдра,,WildLife,land animal,1D524A99EB8D36059A77B27812988B1A,Correct
+Object,Corn Plant,Кукурузный растение,,WildLife,Plant,17ACA00379052B4E378C337CC23E5B76,Correct
+Object,Ivy,Плющ,,WildLife,Plant,A723C3D340D24397D18A04EDB6B1EF10,Correct
+Object,Lilac Bush,Сирень куст,,WildLife,Plant,B28940E39D61CBF8F9CFE8833F6EDA85,Correct
+Object,Marigold Flower,Цветок для ноголдера,,WildLife,Plant,DFD230AFCA466C0404A1134B3F69D0C5,Correct
+Object,Sweet Pea Flower,Сладкий горох цветок,,WildLife,Plant,550847F492DD3C7D961D11233E559AEB,Correct
+Object,Apple Tree,Яблоня,,WildLife,Plant,54766EF2055CF45342B627D411D7B566,Correct
+Object,Banana Tree,Банановое дерево,,WildLife,Plant,A103FFF16F46C26D2E81BD3055621484,Correct
+Object,Pumpkin Plant,Тыквенный завод,,WildLife,Plant,2F7123B61F4524C062F271D0A08772DF,Correct
+Object,Strawberry Plant,Клубничное растение,,WildLife,Plant,93E2B4D18A98B6B6EE6F57620BCD1B19,Correct
+Object,Potato Plant,Картофельное растение,,WildLife,Plant,ACA40E96B762895BB51A2B7343B8D877,Correct
+Object,Carrot Plant,Морковное растение,,WildLife,Plant,FF3DF20F280317D5D98188DA6730F02A,Correct
+Object,Tomato Plant,Томатное растение,,WildLife,Plant,0D258434AED2BEB1D3744F2840442E98,Correct
+Object,Pea Plant,Горох,,WildLife,Plant,E42E6EE3C6382D334C36A8533E487B7E,Correct
+Object,Cabbage Plant,Капуста,,WildLife,Plant,D08E48125DFD84671839D30274313EC4,Correct
+Object,Bamboo,Бамбук,,WildLife,Plant,7964E794B9E17968EF707EAFC300D629,Correct
+Object,Fern,Папоротник,,WildLife,Plant,538880548C17801E6FA690DAFCC062BB,Correct
+Object,Maple Tree,Клен,,WildLife,Plant,4ED4847F9AC5EF33E311D3AD635D03C2,Correct
+Object,Willow Tree,Ива,,WildLife,Plant,6DB7FF535E36FAFD187FB8869BC89189,Correct
+Object,Cactus,Кактус,,WildLife,Plant,C92A5B611B454B7F520D1E9CDDA4CF08,Correct
+Object,Mint Plant,Мятный завод,,WildLife,Plant,E6678C8E28EA0B26CFEBCA232BC9AA69,Correct
+Object,Grapes Vine,Виноград Vine,,WildLife,Plant,A30391AA33DF3BFDB35312020C1D973A,Correct
+Object,Blueberry Bush,Черничный куст,,WildLife,Plant,F0C9B3B5B45A8E2C16D60F4A4E33C145,Correct
+Object,Sunflower,Подсолнух,,WildLife,Plant,81AFB89EEFB187B814BCF1E6F03C91F9,Correct
+Object,Dandelion,Одуванчик,,WildLife,Plant,51C02051962E7A22C66D21987C1A8233,Correct
+Object,Oak Tree,Дуб,,WildLife,Plant,015EBD314022CD0DF5BF7AF04E77A64C,Correct
+Object,Pine Tree,Сосна,,WildLife,Plant,6530741B1771DD4C1A6D1CAFEE9E4A59,Correct
+Object,Rose,Роза,,WildLife,Plant,BD23AB7A60AA17877922AFAEBF356D6F,Correct
+Object,Tulip,Тюльпан,,WildLife,Plant,C9553E3EDB9E6FE640ED8882CE2C3747,Correct
+Object,a lion,Лев,,WildLife,land animal,660F15AC8473515DDE0B6BF9B92EFE34,Correct
+Object,Rhinoceros,Носорог,,WildLife,land animal,42A617C8C235D9ADA16EF3A6282852EE,Correct
+Object,Koala,Коала,,WildLife,land animal,76B4D9E7DAA46DC2DB48E9295E2FD668,Correct
+Object,Panther,Пантера,,WildLife,land animal,933EDA6E215B4D62785E2DC70E01F2A8,Correct
+Object,Leopard,Леопард,,WildLife,land animal,45CC1748ACC4429440BD50140A53A6E0,Correct
+Object,swordfish,рыба-меч,,WildLife,fish,D23C6A1B7F5CC54A380E5FEB453EEB57,Correct
+Object,Shark,Акула,,WildLife,fish,038F90AACE4973AF630B0B5A40606CDF,Correct
+Object,Blue Marlin,Синий марлин,,WildLife,fish,596071ECF92A6CC5497287553DBE98A7,Correct
+Object,Whale,Кит,,WildLife,fish,1B3CF4D629D7535016C5B6478F4DBC5C,Correct
+Object,Dolphin,Дельфин,,WildLife,fish,D114E697DEE0472E39584830A3B048EE,Correct
+Object,Dolphin,Дельфин,,WildLife,fish,1949D2B35B9B1E361149EA9A1A5C05B5,Correct
+Object,Fogu fish,Рыба фугу,,WildLife,fish,811B4DDD188F33806E4DC0F2B16D5D2E,Correct
+Object,Parrot,Попугай,,WildLife,bird,DFC1D845BA857A0146AD8B6BE6457E77,Correct
+Object,Flamingo,Фламинго,,WildLife,bird,A31025A77A410F9E32EF06AE1E4A4340,Correct
+Object,Cardinal,Кардинал,,WildLife,bird,29F6522F22496C0568E78B6D05D61137,Correct
+Object,Hawk,Ястреб,,WildLife,bird,BE630F07174A114F65AF1BAC9FA1B3B5,Correct
+Object,Flamingo,Фламинго,,WildLife,bird,12E469A4D223DD69EBD817FBEC32248B,Correct
+Object,Toucan,Тукан,,WildLife,bird,BAE839088D8FE900FD570E5F68215EB2,Correct
+Object,Rooster,Петух,,WildLife,bird,31C0950CB3CB24565D91964B89B73896,Correct
+Object,Chicken,Курица,,WildLife,bird,374B878C13043029B2471BA4164D1DD4,Correct
+Object,Bear,Медведь,,Habitat,forest,01841CB49BAA18F5C3D13D734E505D80,Correct
+Object,Woodpecker,Дятел,,Habitat,forest,AA56A9C8A35B4241A4159392DCE49E63,Correct
+Object,Falcon,Сокол,,Habitat,forest,52E45C20BF90AFD268F8144CFBD19420,Correct
+Object,Ostrich,Страус,,Habitat,desert,4004372423B4CA67DE9A7EEAE2530FB1,Correct
+Object,Ant-eater,Муравьед,,Habitat,tropics,5D0112450F917C4919DD214787710762,Correct
+Object,Hummingbirds,Колибри,,Habitat,tropics,473A0E3F6A9CC915CF82BDD4DCFEB851,Correct
+Object,Iguana,Игуана,,Habitat,tropics,AEB3E0B617D7568D7563A15C558C1DBF,Correct
+Object,Saw,Пила,,Residence,farm,3590149719EC14AA200086F54F2108D8,Correct
+Object,Scarecrow,Чучело,,LifeFormat,Inanimate Object,81375529DCAA78E1A28186FEDA6FB39B,Correct
+Object,Notebook,Блокнот,,LifeFormat,Inanimate Object,4AB402FD983431FBA9ABCA42750DF2EF,Correct
+Object,Ferrari car,Автомобиль Ferrari,,LifeFormat,Inanimate Object,75E6DF25C8B9B44175EAACE9386F7B4E,Correct
+Object,Ball,Мяч,,LifeFormat,Inanimate Object,F93AF7231BADB974F23EEB7A7ECB707B,Correct
+Object,Sunglasses,Солнечные очки,,LifeFormat,Inanimate Object,0BE7F0107A33DDC3B8E2F7FA89E1F4FA,Correct
+Object,Shovel,Лопата,,LifeFormat,Inanimate Object,E339E00BCC6B552505ED7743AD7EC5C4,Correct
+Object,Toothbrush,Зубная щетка,,LifeFormat,Inanimate Object,6A28C9F1010391D9DA2D552FF9F11567,Correct
+Object,Mailbox,Почтовый ящик,,LifeFormat,Inanimate Object,49E43B54E88F7496CC7806AB7855BD85,Correct
+Object,Brush,Кисть,,LifeFormat,Inanimate Object,B195D11EFD5ACE2CB49288CCD5F56D04,Correct
+Object,Microscope,Микроскоп,,LifeFormat,Inanimate Object,EBC6DB0F88A6BDC9AC7B5D5BDD3D0DAF,Correct
+Object,Telescope,Телескоп,,LifeFormat,Inanimate Object,B80782BF5A93C22EB7A6D71E7B7005DC,Correct
+Object,Rubber duck,Резиновая утка,,LifeFormat,Inanimate Object,1C3717D4764B53CDE37F57CCA1FDC09B,Correct
+Object,Bowl,Чаша,,LifeFormat,Inanimate Object,34C1CE2FF5F512FF9B987918EA01370B,Correct
+Object,Maple,Клен,,LifeFormat,Inanimate Object,9A18B72C4662C1EC06262CD1CEDCB4A3,Correct
+Object,Flying snakes,Летающий змей,,LifeFormat,Inanimate Object,CB1175D948704D6D53D3B04401055F2E,Correct
+Object,Panda,Панда,,LifeFormat,Living Being,BBB15D14DD88737EBD1331D64442627C,Correct
+Object,Goose,Гусь,,LifeFormat,Living Being,40B799DEE402274577D9006D90D3578B,Correct
+Object,Beaver,Бобр,,LifeFormat,Living Being,5AE551A45DC0BA44A2700CC1453CC478,Correct
+Object,Rabbit,Кролик,,LifeFormat,Living Being,715A94C8BE643FCB409275C685248E6D,Correct
+Object,Opossum,Опоссум,,LifeFormat,Living Being,FDFA2FF10B2DCD4CB16A6C0EE3E0AC70,Correct
+Object,Sea lion,Морской лев,,LifeFormat,Living Being,9FB838C8A700486E972404B52ADB86D1,Correct
+Object,Clown Fish,Клоуна рыба,,LifeFormat,Living Being,AB29C3F0EE7CAF39D3765FB39353ABFA,Correct
+Object,Monkey,Обезьяна,,LifeFormat,Living Being,51FE3F7DCADBE0FAE475850A7DCCBD83,Correct
+Object,Pelican,Пеликан,,LifeFormat,Living Being,ABE0358440E8038AE093B765333FF2AE,Correct
+Object,Pig,Свинья,,LifeFormat,Living Being,A28A81A2023EDD6B22FFC1CFDAE52550,Correct
+Object,Jean jacket,Джинсовая куртка,,Color,Blue,B26A0F1B9CB3C07B5573E22722C1CBCF,Correct
+Object,Butterfly,Бабочка,,Color,Blue,A4A87D3F79E8C9760C0EA69B6EB9C23B,Correct
+Object,Sweater,Кофта,,Color,Blue,C56AA5752F3BF0D911513A1827AFA409,Correct
+Object,Dress,Платье,,Color,Blue,F032D59E494B628FA0B98DD0D0CB431F,Correct
+Object,Bucket,Ведро,,Color,Blue,14191092B8AF94A8DE54D49F2AEAAE23,Correct
+Object,Gymnastics ball,Мяч для гимнастики,,Color,Blue,506BDAAF8FEDE89E4338E3F55E6768B2,Correct
+Object,Button,Пуговица,,Color,Blue,2FC7A51AD544BEC818B068E204553360,Correct
+Object,Whistle,Свисток,,Color,Blue,C4D3F0142412F637F59E7C13ACF2CF51,Correct
+Object,Flomaster,Фломастер,,Color,Blue,67A111D546C98679B0C275D16A08CD8E,Correct
+Object,toy car,игрушечная машинка,,Color,Blue,91EED0680A621302080626DA7DBE74E4,Correct
+Object,Latex gloves,Резиновые перчатки,,Color,Blue,4DC65BBA5A557BC2AC003D387DBA5249,Correct
+Object,Plate,Тарелка,,Color,Blue,C34EDBFE0F144285C10739E69AE9655B,Correct
+Object,Sweater,Кофта,,Color,Red,FB8E33B9F8583B999084B38892FEE98B,Correct
+Object,T-shirt,Футболка,,Color,Red,889815617DE3752FF033D31A9C3002D0,Correct
+Object,Shoes,Туфли,,Color,Red,75C1D0DCB9A891669DDF907D31B5861F,Correct
+Object,Coffee,Кофе,,Color,Black,8FCB8F73258CAF39BD3A241E574878C8,Correct
+Object,Flash drive,Флешка,,Color,Black,F1C65A55358027F8CBEA9E99170BA1E4,Correct
+Object,Tie,Галстук,,Color,Black,F2ECE85E2173CAFB7E2EE4B4AD37819C,Correct
+Object,Table,Стол,,Color,Black,C48FF8003008213727A96CFEFF4BFC3B,Correct
+Object,Envelope,Конверт,,Color,Orange,77FC3115E80FBB8DEC906F24CF4D11C9,Correct
+Object,Apricot,Абрикос,,Color,Orange,DC77AF6D1B8F613A933898E38D5B1C9A,Correct
+Object,Leaves of trees,Листья деревьев,,Color,Orange,204C0BAD1FF3AC049835A6EC05533F46,Correct
+Object,The flowers of the dahlias,Цветы георгинов,,Color,Orange,3CCC128DB0123F16BFDD2CA6F91EA72C,Correct
+Object,Flippers,Ласты,,Color,Orange,81A6275243BC01DD311179D0915C5208,Correct
+Object,Sweet potato,Батат,,Color,Orange,F68C259EEBCBED15F456AF5049919B3D,Correct
+Object,Balls for gymnastics,Шары для гимнастики,,Color,Yellow,A0F27F897B2A3E624F37ADB939E0D6C1,Correct
+Object,Chick,Цыпленок,,Color,Yellow,14B492F73D95F79D2F0BBF65128AD00B,Correct
+Object,Plate,Тарелка,,Color,Yellow,0339D858AE626C3393D8F383CADE110A,Correct
+Object,Socks,Носки,,Color,Yellow,B65C5D409BE7FF2161504D51C8B78B7C,Correct
+Object,Mimosa,Мимоза,,Color,Yellow,4130EF0185284B3F57D79B805E23AA01,Correct
+Object,Dandelions,Одуванчики,,Color,Yellow,ED56E289D865ACC5905BA4478F81C687,Correct
+Object,Fig,Инжир,,Color,Purple,16B24F38E1EA49FCDFB84607CFD50136,Correct
+Object,Violets,Фиалки,,Color,Purple,4E5F3B2CF3F2D8E04C00608318702C39,Correct
+Object,Irises,Ирисы,,Color,Purple,6748164F00ED2E0F4DE53EB758BDA46E,Correct
+Object,Trousers,Штаны,,Color,Purple,DDCBAAA5D4F6D164FB24956B347B535F,Correct
+Object,Bed sheets,Постельное белье,,Color,Purple,2EB6F6B242D8BB51C3F01D63132DEF37,Correct
+Object,Towel,Полотенце,,Color,Purple,E4940C9ED61371E1245648B0DA82FC95,Correct
+Object,Napkins,Салфетки,,Color,Purple,B79C5EE2892AB485C7B154B40E38FBD4,Correct
+Object,Kitchen cabinets,Кухонные шкафы,,Color,Purple,F4C6471F03DF751013DC2BFF214D084B,Correct
+Object,Fan,Веер,,Color,Purple,4D075F1CDA4548E59D5E2D97753B8275,Correct
+Object,Octopus,Осьминог,,Color,Purple,DD834B3B214B5391DF237524EDFB5DC4,Correct
+Object,Witch Hat,Witch Hat,,Color,Purple,067FBBBF47E2195620DE4C51C51F8FD7,Correct
+Object,Piones,Пионы,,Color,Pink,6BB6193B37906D85202CBD3A1157E0C6,Correct
+Object,Lotus,Лотос,,Color,Pink,AC00292740BC34EDFB4CF903F7E51BAE,Correct
+Object,Dress,Платье,,Color,Pink,0D8518E2C030D1C4C986638A566940FD,Correct
+Object,Shirt,Рубашка,,Color,Pink,992781E73CAEBAEDC3B3573C0027F87A,Correct
+Object,Slippers,Тапочки,,Color,Pink,331993BA214C2F1D8C2A86E5AC60019F,Correct
+Object,Blush,Румяна,,Color,Pink,B6AC137BE7E0E6D58F039192F90B2B22,Correct
+Object,Sweater,Кофта,,Color,Pink,2CCC4FAAF16BB26D8924838335947770,Correct
+Object,Napkin,Салфетк,,Color,White,FEEB8983A5EAB8ED9066DC1A35E5B548,Correct
+Object,Pearl necklace,Жемчужное ожерелье,,Color,White,E680CA45D16B590DDBA99BD4D45F0FE6,Correct
+Object,Cup,Чашка,,Color,White,7FFF3ED828C16948BF5ED9998F09F60D,Correct
+Object,Plate,Тарелка,,Color,White,E88692FAEECBB3DCE725A51773531B90,Correct
+Object,Socket,Розетка,,Color,White,6467DE0478C06499BE7E4C8E26595499,Correct
+Object,Bathrobe,Банный халат,,Color,White,A0DC2435B8A5313679AAB10DB6E3AFDA,Correct
+Object,Trousers,Брюки,,Color,Brown,FC8189EDB90DA90704838FEC7A4B3F64,Correct
+Object,Blazer,Пиджак,,Color,Brown,B5110454998E6B7647EC8DDA9E76DAFF,Correct
+Object,Shoes,Туфли,,Color,Brown,A423450642A11831CC373A4E2A9B7CFC,Correct
+Object,Nesvik (bunny),Несквик (зайчик),,Color,Brown,3B5CD52166AC57C97E06E50496F73CF4,Correct
+Object,Bunny,Зайчик,,Color,Brown,7D8C2569DF61588118F4E513A0667D82,Correct
+Object,Dandelion,Одуванчик,,Shape,round,67E717160586D055BB3278B89E12E35E,Correct
+Object,Soccer ball,Футбольный мяч,,Shape,round,3EC9B9D0B14F92C5A14242DA0A8C5E63,Correct
+Object,Basketball,Баскетбольный мяч,,Shape,round,C15F3C5F572649A66BEEE731FB47799F,Correct
+Object,Tennis ball,Теннисный мяч,,Shape,round,BF94D4FD8AECA39F779EAFEE61A89C52,Correct
+Object,Table,Стол,,Shape,round,412EE25E13E013B67BDD9AB9BDA4F260,Correct
+Object,Pearl,Жемчужина,,Shape,round,2CFB1823EFBD852E25A2AE2FFCF56359,Correct
+Object,Lifebuoy,Спасательный круг,,Shape,round,67535037BBC07DC8E85B6DF790D437D3,Correct
+Object,Matchbox,Спичечный коробок,,Shape,square,E1A08BBE4CF7527D6FD7D659C37BA5F3,Correct
+Object,Lighter,Зажигалка,,Shape,square,793B6C5912AB44A7B93E9BBC4972162F,Correct
+Object,TV,Телевизор,,Shape,square,7A951F26F04919733687F4C0AE5ED548,Correct
+Object,Notebook,Тетрадь,,Shape,square,788D82216EAAC5FF31468B158AFD1B7B,Correct
+Object,Irises,Ирисы,,WildLife,Plant,B53980CC44F6F9B670C21FF770644039,Correct
+Object,Lily,Лилия,,WildLife,Plant,AC9AE2F849D653945917CB56D2C9016F,Correct
+Object,Chrysanthemums,Хризантемы,,WildLife,Plant,3637F3EA23813D9C414A980DDB6CBDEE,Correct
+Object,Orchids,Орхидеи,,WildLife,Plant,B0693150FBF8DC1CF14F56005E594C02,Correct
+Object,Eagle,Орел,,WildLife,bird,D2866A97250B4622A7C5FE6A070F33B0,Correct
+Object,owl,сова,,WildLife,bird,DF2F0756CB6A150E6B5679970C64E78E,Correct
+Object,cockatoo,какаду,,WildLife,bird,D52307607F216142B75564620F0103F2,Correct
+Object,Ara,Ара,,WildLife,bird,23A4A7A991DA19C8C826690324C4FBC8,Correct
+Object,Badminton,Бадминтон,,Season,summer,A601E1661311F21317AA9D2802580B91,Correct
+Object,Grill BBQ,Гриль BBQ,,Season,summer,59ECDAD321C76869F67551177ED0267F,Correct
+Object,Hammock,Гамак,,Season,summer,CF7883FD03C315694EC2177C1C57121B,Correct
+Object,Lemonade,Лимонад,,Season,summer,0E38F8E619CA529A197450E21A4DA853,Correct
+Object,Scarf,Шарф,,Season,autumn,042EFAEA6630840DCD5DB7B6726B6A87,Correct
+Object,Jacket,Куртка,,Season,autumn,02DCA5608B6F99096B9605520B213532,Correct
+Object,Orange foliage on trees,Оранжевая листва на деревьях,,Season,autumn,6DD6BA9AD58832BC7A9603D4CA770C7D,Correct
+Object,Halloween costume,Костюм на Хэллоуин,,Season,autumn,41D0866328C8675FC10E79619F6EE60D,Correct
+Object,Acorns,Желуди,,Season,autumn,A561811A88311E76966337CCD230DECC,Correct
+Object,Halloween pumpkin,Хеллоуинская тыква,,Season,autumn,D3A1592A867AD29E503EC35BD3CC6B58,Correct
+Object,Snowboard,Сноуборд,,Season,winter,7D706C6ED038D05CEC192071FFD879F0,Correct
+Object,Spruce wreaths,Еловые венки,,Season,winter,66A9974DA0BEE64EABD8125F37B4F38A,Correct
+Object,Santa's costume,Костюм Санты,,Season,winter,FCE44299162AFBDB94D60EDA1A406AC4,Correct
+Object,Gingerbread person,Пряничный человек,,Season,winter,0D94A696B1D2EF0C7039EF9238B11F39,Correct
+Object,New Year's socks above the fireplace,Новогодние носки над камином,,Season,winter,EE142DEB6BC96F1810B264385FA08F9F,Correct
+Object,Hare,Заяц,,Habitat,forest,3B53FC4ABAB45F5AD88A365BCA40D73C,Correct
+Object,Owl,Филин,,Habitat,forest,314D847186D1F988ABEBEFB1B801955B,Correct
+Object,Grizzly bear,Медведь гризли,,Habitat,forest,AF9B8D92D876239BBB8753AD6D60B92B,Correct
+Object,Chick,Цыпленок,,Habitat,farm,371D5164E051FF750552F07C793A3710,Correct
+Object,Rabbit,Кролик,,Habitat,farm,7136C2113A99BF402D28DAB777528F74,Correct
+Object,Pig Yorkshire,Свинья Йоркшир,,Habitat,farm,063A6B8A22EE2EEBE2309220B0DD73A0,Correct
+Object,Sheep Dorper,Овца Дорпер,,Habitat,farm,47B2CE00DB420AC41E50EAE62F830B3D,Correct
+Object,Rooster Rod Iland Red,Петух Род Айленд Ред,,Habitat,farm,1A523F3ABFF0C37DB848B975B7BB31D2,Correct
+Object,Angus cow,Корова Ангус,,Habitat,farm,D0DA0B95F8BE878D427FC230BD42B74A,Correct
+Object,Nubian goat,Нубийская коза,,Habitat,farm,D1F0AE3A02B19288321CAEB4DCA2978F,Correct
+Object,Tennessi Walker,Теннессийский уокер,,Habitat,farm,416A0C1DE58E2B4657C80AE367F87F8D,Correct
+Object,Sandy cat,Песчаный кот,,Habitat,desert,8FCD33DC520F92C70CB669F4233CEB6C,Correct
+Object,Lizard Varan,Ящерица варан,,Habitat,desert,080574DA223699744A7600AC55F8FDA2,Correct
+Object,Mangust,Мангуст,,Habitat,desert,655AE3D2938D083D96F858B7300BB3B7,Correct
+Object,Gazelle,Газель,,Habitat,desert,F8E504D0DE715AE301F73579E7A49D87,Correct
+Object,Cheetah,Гепард,,Habitat,desert,B44107A3A5FB87EB29D3B116F21E2880,Correct
+Object,Giraffe,Жираф,,Habitat,desert,400C4DCDB1DC5425A57753E95CE4B87F,Correct
+Object,Black Mamba,Черная мамба,,Habitat,desert,1E4CF00E97BE1C87A079854CB5FD0AAD,Correct
+Object,Lemming,Лемминг,,Habitat,glaciers,758A244EAB0B2B79D4286C27A08FAF7D,Correct
+Object,Arctic fox,Песец,,Habitat,glaciers,624D5840B75E3636B630A96B90779791,Correct
+Object,Arctic fox,Арктическая лиса,,Habitat,glaciers,F0144FCF22E065965D0A347A8FF98BB3,Correct
+Object,Snow Leopard,Снежный барс,,Habitat,glaciers,C251678D81C6E5469FE214297FF9FC9E,Correct
+Object,Ermine,Горностай,,Habitat,glaciers,BE7A7E8FA7B0A5230DA02A7C268F2B8F,Correct
+Object,A hatchet,Топорик,,Habitat,glaciers,400B40F627AC047D7C03BD4BE3B09A47,Correct
+Object,White Owl,Белая сова,,Habitat,glaciers,156AB280F6C22E5B0E6A78236675072E,Correct
+Object,Okapi,Окапи,,Habitat,tropics,36B918321902CB55EA5BF0854F32A7F7,Correct
+Object,Chameleon,Хамелеон,,Habitat,tropics,A0CAE987989079BA41331FC003E7D7EE,Correct
+Object,Sloth,Ленивец,,Habitat,tropics,FE159C32F8E0DF392873143C287B8CF5,Correct
+Object,Kofemashin,Кофемашина,,Room,Kitchen,411286C01863B3A5BDC9AFAF6E47B417,Correct
+Object,Turk for cooking coffee,Турка для варки кофе,,Room,Kitchen,9B7F6FA9D1973E772722AB8AC4E9AA31,Correct
+Object,Flour,Мука,,Room,Kitchen,871809757E4A8C19CB010807C644F2E3,Correct
+Object,Cornflakes,Кукурузные хлопья,,Room,Kitchen,0AE637E7B346A690279B44371C2B3525,Correct
+Object,Curtains,Занавески,,Room,Bedroom,2595D213831FFDE81B1F4FBE56E04C77,Correct
+Object,Makeup table,Столик для макияжа,,Room,Bedroom,26C23515644C11D67F1C649946DC5735,Correct
+Object,Bookshelf,Книжный шкаф,,Room,Bedroom,B5D3DCA4BF407E421F01B0093C55287C,Correct
+Object,Shower curtain,Штора для ванной,,Room,Bathroom,EBED5B277B19891308DB9422D2D89BEB,Correct
+Object,Chihuahua,чихуахуа,,AnimalByHomeType,pet,E2AADE32A0219C583C128BD42E0C157B,Correct
+Object,Yorkshire Terrier,йоркширский терьер,,AnimalByHomeType,pet,3564DE5944006B49B58B82976DB448E8,Correct
+Object,Collie,Колли,,AnimalByHomeType,pet,2167E4A057A4608CDCC70B3BAA8D1606,Correct
+Object,English cross of a guinea pig,Английский крестед Морская свинка,,AnimalByHomeType,pet,07E04BFD5AAF490C7D1DC5D401C61A55,Correct
+Object,Coronet of a guinea pig,Коронет Морская свинка,,AnimalByHomeType,pet,8CA22304E59DECBF390CC63A78855ABE,Correct
+Object,Kui guinea pig,Куи Морская свинка,,AnimalByHomeType,pet,92A9BCF5B22DFC76E02DFCE2144B8618,Correct
+Object,Rake,Грабли,,Residence,farm,E61CF28D3E20EAC3068EFA2CDFBFCD67,Correct
+Object,Well,Колодец,,Residence,farm,7C7D5F02ABC048201448BB62183F829F,Correct
+Object,Mug,Кружка,,Color,Blue,5908CFD6E70133562CCE02128D2DA3C5,Correct
+Object,Paper,Бумага,,Color,Red,6D33B4E04DC9B4E2FC405D0FFF074504,Correct
+Object,Paper crane,Бумажный журавлик,,Color,Red,7AA6B8E2861FCE481D0A4E23C4486DA1,Correct
+Object,Car,Машина,,Color,Black,4F9FA3665F9398A5BD9ACBFA7FA5C163,Correct
+Object,Jacket,Куртка,,Color,Orange,73CE7529C0ECC32E1519B8AC53EE5FA0,Correct
+Object,Narcissus,Нарциссы,,Color,Yellow,3DD48A149BD94497E8A8C15DF9F2A917,Correct
+Object,Beet,Свёкла,,Color,Purple,3148E1B71DF8785459E41A3000E7F88C,Correct
+Object,Candy,Конфета,,Color,Purple,6E94B143C39499279F3183BFB07DE863,Correct
+Object,Flowers,Цветы,,Color,Purple,16A0C2FBCDC90107AADB07022E4C4DA9,Correct
+Object,Balloon,Воздушный шар,,Color,Pink,BE350F53D61E52A0B0B07A7DE166D989,Correct
+Object,Book,Книга,,Color,Pink,4C04FBA0E9DE26FED1156FF0DDE7C952,Correct
+Object,Notebook,Тетрадь,,Color,Pink,C6B85C9BBD9E0B9A2CD51FA1A6288D0D,Correct
+Object,Heart sticker,Стикер сердце,,Color,Pink,995A62741CFFB6979EFC3FDF2C58568C,Correct
+Object,Kimono for judo,Кимоно для дзюдо,,Color,White,8CA4C9330761ECFCF64907B05A692123,Correct
+Object,Cat,Кот,,Color,Brown,0C99D2B4F7EC3C266CE9D1BAA0ADB32A,Correct
+Object,Bear,Медведь,,Color,Brown,D767A85219A3576DEEE0211F03190E47,Correct
+Object,Capibar,Капибара,,Color,Brown,51F9E709AC62C129B558A35F4ABEDDC4,Correct
+Object,Owl,Сова,,Color,Brown,C4E8F9E43EE5F806D2DA7A33401EDB1E,Correct
+Object,chocolate balls in a plate,шоколодные шарики в тарелке,,Color,Brown,AE5C9310C8ED08CF1EC14FBF17C48517,Correct
+Object,Acorn,Желудь,,Color,Brown,F24B0A22BF08D3E3386A34D66E4A6B39,Correct
+Object,Hazelnut,Фундук,,Color,Brown,7C33E62288D3AE518CEE35F5DE765A7F,Correct
+Object,Volleyball,Волейбольный мяч,,Shape,round,313731C933C8FFA9FCA0AAAE5D43927B,Correct
+Object,Flag,Флаг,,Shape,square,8EA75819F96364E1082D5F9FA805502E,Correct
+Object,Domino,Домино,,Shape,square,06B51C5F4016536ED68C81F22194CBBA,Correct
+Object,Chess board,Доска для шахмат,,Shape,square,C4A22970D9F60157221FD8498EDBD6CB,Correct
+Object,A pack of pasta,Пачка макарон,,Shape,square,A16812B6DFCDB0C9ECB022ED5EC8E39A,Correct
+Object,Umbrella,Зонтик,,Season,autumn,CE9429874941EAF27306CC3D7AFE8E66,Correct
+Object,orange leaf of tree,Оранжевый лист дерева,,Season,autumn,79132925347EAC248B467D0E5CE46906,Correct
+Object,Christmas tree,Новогодняя ёлка,,Season,winter,F49A1F22DA75B39DC77FFCFFFCA78E44,Correct
+Object,Snowman,Снеговик,,Season,winter,454311D859DD25013D6620DAD90A3271,Correct
+Object,Caracal,Каракал,,Habitat,desert,D64C945B34D8A13FD53E96DC25E8EFAE,Correct
+Object,Gopher,Суслик,,Habitat,desert,44145F8BC225928507DDFAB11ACC9CBE,Correct
+Object,Surikat,Сурикат,,Habitat,desert,FBF9BA5C697D5E5DCDF44B950FC7F6C7,Correct
+Object,Roe,Косуля,,Habitat,desert,CBF379F134F86DF2E844A6D729AD5419,Correct
+Object,Walrus,Морж,,Habitat,glaciers,494BF91A6F10EBFA2FB5DC522F2C313F,Correct
+Object,Marmoset,Мармосет,,Habitat,tropics,D4829B3D7ABCE904996CA4670F05D2EF,Correct
+Object,Cook apron,Поварской фартук,,Room,Kitchen,21C8463BCB7963994B1F66283F9829BF,Correct
+Object,salt shaker,Солонка,,Room,Kitchen,40BACD1FF0F1AD6DFC4B1E6AD8FCE47B,Correct
+Object,pepper shaker,Перечница,,Room,Kitchen,F91D386534F71C6850CC6883EDBA5C70,Correct
+Object,Shampoo,Шампунь,,Room,Bathroom,E90FB78A2E5B9E99CC127D42B49D38BD,Correct
+Object,Body sponge,Губка для тела,,Room,Bathroom,C5B20DE031106BA9D9A6AAAA55E06DEF,Correct
+Object,Cotton buds,Ватные палочки,,Room,Bathroom,FE4C1CDD4EDC5D3A5667F53B30C99DF5,Correct
+Object,Shinchila,Шиншила,,AnimalByHomeType,pet,16C901C80508CF1672D7A3F895D7EE90,Correct
+Object,British Shorthair cat,британская короткошерстная кошка,,AnimalByHomeType,pet,FB842BD92424612FF800AE19DC8B12C0,Correct
+Object,Siberian cat,сибирская кошка,,AnimalByHomeType,pet,736142B5B59966EBB9708B8943BB9E04,Correct
+Object,Maine Coon,мейн-кун,,AnimalByHomeType,pet,1A2659C94E97FFDBF3653AFB5E49FBCD,Correct
+Object,Labrador,Лабрадор,,AnimalByHomeType,pet,0FA2AEA34A0F2FC4643775FF18969944,Correct
+Object,The Dragon,Дракон,,LifeFormat,Living Being,EA99AD4EF7C644A61C10C1AF8322C746,Correct
+Object,Onion,Лук,,Color,Purple,22725A753AE942FA4F1CA38242A3D21A,Correct
+Object,Candy,Конфета,,Color,Pink,2D8B914B5BC0C47EC0B5E16CFBBF3198,Correct
+Object,Lipstick for lips,������ ��� ���,,Color,Pink,1EC7141B5F76CABB4FC502AE9A10B95A,Correct
+Object,Food container,Контейнер для еды,,Shape,square,4C521B68B226C3D57243D48F60873E9A,Correct
+Object,One red brick,Кирпич,,Shape,square,4BA8729C8922B456CA2F78186FAB5792,Correct
+Object,A carton of Milk,Коробка молока ,,Shape,square,4451D716156C465403CC81A2C679063E,Correct
+Object,Panama hat,Панама шляпа,,Season,summer,910380CB24912343D200905FA871604B,Correct
+Object,Beach lounge chair,Шезлонг,,Season,summer,A1505955682D5AE3E03D7797A47F24E5,Correct
+Object,Beach umbrella,Пляжный зонт,,Season,summer,900E35EA4C799B88C3BA1E7AC42453F8,Correct
+Object,Suit for Halloween,костюм вампира на Хэллоуин,,Season,autumn,A93232DCEFA2D4B429128D05F53C9DE6,Correct
+Object,Chicken Plymutrok,Курица Плимутрок,,Habitat,farm,2E047FDD783DE760AE73F0A155316EAB,Correct
+Object,Buffalo,Буйвол,,Habitat,desert,AB09D7DC51C048E188600CCD9B9EC9FF,Correct
+Object,Northern squirrel,Северная белка,,Habitat,glaciers,63277CB81EB4BA50DB60C0867E9D27D2,Correct
+Object,Carbonara paste,Макароны,,Room,Kitchen,75BC98933E15A85B6C9ACCDEE0B2CF01,Correct
+Object,Carpet,Ковёр,,Room,Bedroom,4352D4FFBB86CE05CBFC0A63F1A3C822,Correct
+Object,Desk lamp,Настольная лампа,,Room,Bedroom,E6CA5EB4F60EB49AB12B9A137926E1FD,Correct
+Object,Comb,Расческа,,Room,Bathroom,05CBDDCAC75E0DBB98BAD2577AE81240,Correct
+Object,Scottish lop-eared cat,шотландская вислоухая кошка,,AnimalByHomeType,pet,853B910BB0444CB3C47A170BE2D2E461,Correct
+Object,Toy Terrier,той-терьер,,AnimalByHomeType,pet,33C5A0C2D91838EAB63E638689E7CF06,Correct
+Object,Corgi,Корги,,AnimalByHomeType,pet,6C829AC995CF49730A5059E1D6E1E4D0,Correct
+Object,Smartphone,Телефон,,Shape,square,366361754A80EBFA9D4D366781436680,Correct
+Object,Cookie jar,Коробка печенья,,Shape,square,9A431656459FDD9139611B85DD6E5C3F,Correct
+Object,New Year's gift box,Новогодняя подарочная коробка,,Season,winter,611E4252C450C6EE13219C902CCA68F4,Correct
+Object,Baikal seal,Нерпа,,Habitat,glaciers,D4D4E29B70E96BC66ADDFD03224C8C03,Correct
+Object,wedding dress,Тюль,,Color,White,22ECE0E1A44EAF4A8F815A5752D510E8,Correct
+Object,Trick-or-treat bag,Конфеты на Хэллоуин,,Season,autumn,8FCFCDF99D560EC9A3C5102272557724,Correct
+Object,Bull,Бык,,Habitat,farm,38E8E3D9229FA89B60379FE5D1506590,Correct
+Object,English Racehorse ,Лошадь Квотерхорс,,Habitat,farm,A78060FC1E42A6FC005BD3FEDAE3F24E,Correct
+Object,Soap,Ватные диски,,Room,Bathroom,586AECB4FBBAC730C100739531211900,Correct
+Object,Sledge,Лыжи,,Season,winter,77A5E42E1A9F872A6ABE1259F5C88426,Correct
+Object,Wildebeest,Ан�илупа гну,,Habitat,desert,2623178C7B7DF3A1BF9A4E005101DF61,Correct
+Object,Plaid,Плед,,Room,Bedroom,CCC8659A2A78F5BD840CC91FECED41D5,Correct
+Object,Armchair,Кресло,,Room,Bedroom,FD27B12E1E80216461F4D38AB9CBC3A0,Correct
+Object,Red New Year's hat,������� ���������� �����,,Season,winter,EC37DB8026F9AEDDBA30D379ED81629C,Correct
+Object,Bath foam in the bathtub,Пена для ванны,,Room,Bathroom,4B75CAD9A6EAA51DD6A53A19FBF506F9,Correct
+Background,,,,Room,Bedroom,B3D01489EC6C4EF40429B3BCD79654E3,Correct
+Background,,,,Room,Bedroom,EC177825809A764CDE9C594EE9FBEEC8,Correct
+Object,Razor,Бритва,,Room,Bathroom,33FE20635DF7959F4B13F663C570ABC5,Correct
+Object,Vampire Halloween costume WITHOUT PEOPLE,костюм на Хэллоуин,,Season,autumn,438BED4BED53C0E400F12910B6F89DF2,Correct
+Object,Bath bombs,Гель для бритья,,Room,Bathroom,3617C6946CAC9EA1223D0B74B5ACA469,Correct
